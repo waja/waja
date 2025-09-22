@@ -17,10 +17,14 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
+<!--
 ### 🍴 My recent forks
+{{/*
 {{range recentForks 5}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
+*/}}
+-->
 
 ### 🔭 Latest releases I've contributed to
 {{range recentReleases 5}}
