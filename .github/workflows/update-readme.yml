@@ -27,4 +27,4 @@ jobs:
           branch: main
           commit_user_name: readme-scribe �
           commit_user_email: readme-action-bot@cyconet.org
-          commit_author: readme-scribe � <readme-action-bot@cyconet.org
+          commit_author: readme-scribe � <readme-action-bot@cyconet.org>
