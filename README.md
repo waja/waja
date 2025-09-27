@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [chore: update Nextcloud to 32.0.0](https://github.com/hoellen/docker-nextcloud/pull/137) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (today)
 - [Exclude failing go:20.04 build](https://github.com/catthehacker/docker_images/pull/155) on [catthehacker/docker_images](https://github.com/catthehacker/docker_images) (1 day ago)
 - [chore: update Nextcloud to 30.0.16](https://github.com/hoellen/docker-nextcloud/pull/136) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (2 days ago)
 - [Adding node 22 and 24](https://github.com/catthehacker/docker_images/pull/154) on [catthehacker/docker_images](https://github.com/catthehacker/docker_images) (6 days ago)
 - [Fixing CI pipeline](https://github.com/dawidd6/action-debian-package/pull/86) on [dawidd6/action-debian-package](https://github.com/dawidd6/action-debian-package) (6 days ago)
-- [update qemu](https://github.com/waja/action-debian-package/pull/12) on [waja/action-debian-package](https://github.com/waja/action-debian-package) (6 days ago)
 
 ### 📓 Gists I wrote
 
