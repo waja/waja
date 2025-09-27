@@ -9,11 +9,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
+- [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (today)
 - [catthehacker/docker_images](https://github.com/catthehacker/docker_images) - Docker images (1 day ago)
 - [dawidd6/action-debian-package](https://github.com/dawidd6/action-debian-package) - :gear: A GitHub Action for building Debian packages (6 days ago)
 - [waja/debian-update-cheatsheets](https://github.com/waja/debian-update-cheatsheets) - Debian cheat sheet for upgrading systems (1 week ago)
 - [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (1 week ago)
-- [waja/docker-dovecot](https://github.com/waja/docker-dovecot) -  (2 weeks ago)
 
 ### 🌱 My latest projects
 
