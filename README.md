@@ -9,10 +9,10 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (today)
-- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (today)
-- [catthehacker/docker_images](https://github.com/catthehacker/docker_images) - Docker images (1 day ago)
-- [dawidd6/action-debian-package](https://github.com/dawidd6/action-debian-package) - :gear: A GitHub Action for building Debian packages (6 days ago)
+- [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (1 day ago)
+- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (1 day ago)
+- [catthehacker/docker_images](https://github.com/catthehacker/docker_images) - Docker images (2 days ago)
+- [dawidd6/action-debian-package](https://github.com/dawidd6/action-debian-package) - :gear: A GitHub Action for building Debian packages (1 week ago)
 - [waja/debian-update-cheatsheets](https://github.com/waja/debian-update-cheatsheets) - Debian cheat sheet for upgrading systems (1 week ago)
 
 ### 🌱 My latest projects
@@ -27,7 +27,7 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔭 Latest releases I've contributed to
 
-- [dawidd6/action-debian-package](https://github.com/dawidd6/action-debian-package) ([v2](https://github.com/dawidd6/action-debian-package/releases/tag/v2), 6 days ago) - :gear: A GitHub Action for building Debian packages
+- [dawidd6/action-debian-package](https://github.com/dawidd6/action-debian-package) ([v2](https://github.com/dawidd6/action-debian-package/releases/tag/v2), 1 week ago) - :gear: A GitHub Action for building Debian packages
 - [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) ([v9.4.19](https://github.com/jacobalberty/unifi-docker/releases/tag/v9.4.19), 1 month ago) - Unifi Docker files
 - [waja/froxlor-auto-migration](https://github.com/waja/froxlor-auto-migration) ([debian/0.3](https://github.com/waja/froxlor-auto-migration/releases/tag/debian/0.3), 2 months ago) - Package with helper script running db migrations after Froxlor update
 - [k1nky/netbox-otp-plugin](https://github.com/k1nky/netbox-otp-plugin) ([v1.3.3](https://github.com/k1nky/netbox-otp-plugin/releases/tag/v1.3.3), 3 months ago) - This netbox plugin adds support for one-time password (OTP) to Netbox.
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [chore: update Nextcloud to 32.0.0](https://github.com/hoellen/docker-nextcloud/pull/137) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (today)
-- [Exclude failing go:20.04 build](https://github.com/catthehacker/docker_images/pull/155) on [catthehacker/docker_images](https://github.com/catthehacker/docker_images) (1 day ago)
-- [chore: update Nextcloud to 30.0.16](https://github.com/hoellen/docker-nextcloud/pull/136) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (2 days ago)
-- [Adding node 22 and 24](https://github.com/catthehacker/docker_images/pull/154) on [catthehacker/docker_images](https://github.com/catthehacker/docker_images) (6 days ago)
-- [Fixing CI pipeline](https://github.com/dawidd6/action-debian-package/pull/86) on [dawidd6/action-debian-package](https://github.com/dawidd6/action-debian-package) (6 days ago)
+- [chore: update Nextcloud to 32.0.0](https://github.com/hoellen/docker-nextcloud/pull/137) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (1 day ago)
+- [Exclude failing go:20.04 build](https://github.com/catthehacker/docker_images/pull/155) on [catthehacker/docker_images](https://github.com/catthehacker/docker_images) (2 days ago)
+- [chore: update Nextcloud to 30.0.16](https://github.com/hoellen/docker-nextcloud/pull/136) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (3 days ago)
+- [Adding node 22 and 24](https://github.com/catthehacker/docker_images/pull/154) on [catthehacker/docker_images](https://github.com/catthehacker/docker_images) (1 week ago)
+- [Fixing CI pipeline](https://github.com/dawidd6/action-debian-package/pull/86) on [dawidd6/action-debian-package](https://github.com/dawidd6/action-debian-package) (1 week ago)
 
 ### 📓 Gists I wrote
 
