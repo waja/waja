@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [Pinning scanner versions](https://github.com/waja/docker-mojolicious/pull/50) on [waja/docker-mojolicious](https://github.com/waja/docker-mojolicious) (today)
+- [Format biome conform](https://github.com/waja/docker-mojolicious/pull/49) on [waja/docker-mojolicious](https://github.com/waja/docker-mojolicious) (today)
 - [chore: update Nextcloud to 32.0.0](https://github.com/hoellen/docker-nextcloud/pull/137) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (4 days ago)
 - [Exclude failing go:20.04 build](https://github.com/catthehacker/docker_images/pull/155) on [catthehacker/docker_images](https://github.com/catthehacker/docker_images) (5 days ago)
 - [chore: update Nextcloud to 30.0.16](https://github.com/hoellen/docker-nextcloud/pull/136) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (6 days ago)
-- [Adding node 22 and 24](https://github.com/catthehacker/docker_images/pull/154) on [catthehacker/docker_images](https://github.com/catthehacker/docker_images) (1 week ago)
-- [Fixing CI pipeline](https://github.com/dawidd6/action-debian-package/pull/86) on [dawidd6/action-debian-package](https://github.com/dawidd6/action-debian-package) (1 week ago)
 
 ### 📓 Gists I wrote
 
