@@ -9,11 +9,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (today)
-- [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (today)
-- [waja/docker-php83-fpm](https://github.com/waja/docker-php83-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.3-fpm-alpine (today)
-- [waja/docker-php81-fpm](https://github.com/waja/docker-php81-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.1-fpm-alpine (today)
-- [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (today)
+- [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (1 day ago)
+- [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (1 day ago)
+- [waja/docker-php83-fpm](https://github.com/waja/docker-php83-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.3-fpm-alpine (1 day ago)
+- [waja/docker-php81-fpm](https://github.com/waja/docker-php81-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.1-fpm-alpine (1 day ago)
+- [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (1 day ago)
 
 ### 🌱 My latest projects
 
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [Pinning scanner versions (remaining once)](https://github.com/tmtde/php82-fpm/pull/67) on [tmtde/php82-fpm](https://github.com/tmtde/php82-fpm) (today)
-- [Pinning scanner versions (remaining once)](https://github.com/tmtde/php81-fpm/pull/113) on [tmtde/php81-fpm](https://github.com/tmtde/php81-fpm) (today)
-- [Pinning scanner versions (remaining once)](https://github.com/waja/docker-speedtest/pull/107) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (today)
-- [Pinning scanner versions (remaining once)](https://github.com/waja/docker-php85-fpm/pull/18) on [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) (today)
-- [Pinning scanner versions (remaining once)](https://github.com/waja/docker-php84-fpm/pull/45) on [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) (today)
+- [Pinning scanner versions (remaining once)](https://github.com/tmtde/php82-fpm/pull/67) on [tmtde/php82-fpm](https://github.com/tmtde/php82-fpm) (1 day ago)
+- [Pinning scanner versions (remaining once)](https://github.com/tmtde/php81-fpm/pull/113) on [tmtde/php81-fpm](https://github.com/tmtde/php81-fpm) (1 day ago)
+- [Pinning scanner versions (remaining once)](https://github.com/waja/docker-speedtest/pull/107) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (1 day ago)
+- [Pinning scanner versions (remaining once)](https://github.com/waja/docker-php85-fpm/pull/18) on [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) (1 day ago)
+- [Pinning scanner versions (remaining once)](https://github.com/waja/docker-php84-fpm/pull/45) on [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) (1 day ago)
 
 ### 📓 Gists I wrote
 
