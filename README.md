@@ -9,11 +9,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [waja/debian-update-cheatsheets](https://github.com/waja/debian-update-cheatsheets) - Debian cheat sheet for upgrading systems (2 days ago)
-- [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (2 days ago)
-- [waja/docker-mojolicious](https://github.com/waja/docker-mojolicious) - Docker image for mojolicious (3 days ago)
-- [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (3 days ago)
-- [waja/docker-php81-fpm](https://github.com/waja/docker-php81-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.1-fpm-alpine (3 days ago)
+- [waja/debian-update-cheatsheets](https://github.com/waja/debian-update-cheatsheets) - Debian cheat sheet for upgrading systems (3 days ago)
+- [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (3 days ago)
+- [waja/docker-mojolicious](https://github.com/waja/docker-mojolicious) - Docker image for mojolicious (4 days ago)
+- [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (4 days ago)
+- [waja/docker-php81-fpm](https://github.com/waja/docker-php81-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.1-fpm-alpine (4 days ago)
 
 ### 🌱 My latest projects
 
@@ -27,7 +27,7 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔭 Latest releases I've contributed to
 
-- [dawidd6/action-debian-package](https://github.com/dawidd6/action-debian-package) ([v2](https://github.com/dawidd6/action-debian-package/releases/tag/v2), 1 week ago) - :gear: A GitHub Action for building Debian packages
+- [dawidd6/action-debian-package](https://github.com/dawidd6/action-debian-package) ([v2](https://github.com/dawidd6/action-debian-package/releases/tag/v2), 2 weeks ago) - :gear: A GitHub Action for building Debian packages
 - [jacobalberty/unifi-docker](https://github.com/jacobalberty/unifi-docker) ([v9.4.19](https://github.com/jacobalberty/unifi-docker/releases/tag/v9.4.19), 1 month ago) - Unifi Docker files
 - [waja/froxlor-auto-migration](https://github.com/waja/froxlor-auto-migration) ([debian/0.3](https://github.com/waja/froxlor-auto-migration/releases/tag/debian/0.3), 2 months ago) - Package with helper script running db migrations after Froxlor update
 - [k1nky/netbox-otp-plugin](https://github.com/k1nky/netbox-otp-plugin) ([v1.3.3](https://github.com/k1nky/netbox-otp-plugin/releases/tag/v1.3.3), 3 months ago) - This netbox plugin adds support for one-time password (OTP) to Netbox.
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [Pinning scanner versions (remaining once)](https://github.com/tmtde/php82-fpm/pull/67) on [tmtde/php82-fpm](https://github.com/tmtde/php82-fpm) (3 days ago)
-- [Pinning scanner versions (remaining once)](https://github.com/tmtde/php81-fpm/pull/113) on [tmtde/php81-fpm](https://github.com/tmtde/php81-fpm) (3 days ago)
-- [Pinning scanner versions (remaining once)](https://github.com/waja/docker-speedtest/pull/107) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (3 days ago)
-- [Pinning scanner versions (remaining once)](https://github.com/waja/docker-php85-fpm/pull/18) on [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) (3 days ago)
-- [Pinning scanner versions (remaining once)](https://github.com/waja/docker-php84-fpm/pull/45) on [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) (3 days ago)
+- [Pinning scanner versions (remaining once)](https://github.com/tmtde/php82-fpm/pull/67) on [tmtde/php82-fpm](https://github.com/tmtde/php82-fpm) (4 days ago)
+- [Pinning scanner versions (remaining once)](https://github.com/tmtde/php81-fpm/pull/113) on [tmtde/php81-fpm](https://github.com/tmtde/php81-fpm) (4 days ago)
+- [Pinning scanner versions (remaining once)](https://github.com/waja/docker-speedtest/pull/107) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (4 days ago)
+- [Pinning scanner versions (remaining once)](https://github.com/waja/docker-php85-fpm/pull/18) on [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) (4 days ago)
+- [Pinning scanner versions (remaining once)](https://github.com/waja/docker-php84-fpm/pull/45) on [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) (4 days ago)
 
 ### 📓 Gists I wrote
 
