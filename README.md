@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [fix(log-analyser): Renaming otel-collector container to otel and dropping container_name](https://github.com/jitsi/docker-jitsi-meet/pull/2163) on [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) (today)
 - [chore: update calcardbackup to 9.0.0](https://github.com/waja/docker-calcardbackup/pull/137) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (today)
 - [Pinning scanner versions (remaining once)](https://github.com/tmtde/php82-fpm/pull/67) on [tmtde/php82-fpm](https://github.com/tmtde/php82-fpm) (6 days ago)
 - [Pinning scanner versions (remaining once)](https://github.com/tmtde/php81-fpm/pull/113) on [tmtde/php81-fpm](https://github.com/tmtde/php81-fpm) (6 days ago)
 - [Pinning scanner versions (remaining once)](https://github.com/waja/docker-speedtest/pull/107) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (6 days ago)
-- [Pinning scanner versions (remaining once)](https://github.com/waja/docker-php85-fpm/pull/18) on [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) (6 days ago)
 
 ### 📓 Gists I wrote
 
