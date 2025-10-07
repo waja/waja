@@ -9,11 +9,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) - Docker image for calcardbackup: https://codeberg.org/BernieO/calcardbackup (today)
-- [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet on Docker (today)
-- [waja/debian-update-cheatsheets](https://github.com/waja/debian-update-cheatsheets) - Debian cheat sheet for upgrading systems (5 days ago)
-- [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (5 days ago)
-- [waja/docker-php81-fpm](https://github.com/waja/docker-php81-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.1-fpm-alpine (6 days ago)
+- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (today)
+- [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (today)
+- [waja/docker-php83-fpm](https://github.com/waja/docker-php83-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.3-fpm-alpine (today)
+- [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (today)
+- [waja/docker-php81-fpm](https://github.com/waja/docker-php81-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.1-fpm-alpine (today)
 
 ### 🌱 My latest projects
 
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [fix(log-analyser): Renaming otel-collector container to otel and dropping container_name](https://github.com/jitsi/docker-jitsi-meet/pull/2163) on [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) (today)
-- [chore: update calcardbackup to 9.0.0](https://github.com/waja/docker-calcardbackup/pull/137) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (today)
-- [Pinning scanner versions (remaining once)](https://github.com/tmtde/php82-fpm/pull/67) on [tmtde/php82-fpm](https://github.com/tmtde/php82-fpm) (6 days ago)
-- [Pinning scanner versions (remaining once)](https://github.com/tmtde/php81-fpm/pull/113) on [tmtde/php81-fpm](https://github.com/tmtde/php81-fpm) (6 days ago)
-- [Pinning scanner versions (remaining once)](https://github.com/waja/docker-speedtest/pull/107) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (6 days ago)
+- [Whitelist some more actions for automerge](https://github.com/waja/docker-nscan/pull/94) on [waja/docker-nscan](https://github.com/waja/docker-nscan) (today)
+- [Whitelist some more actions for automerge](https://github.com/waja/docker-nginx/pull/107) on [waja/docker-nginx](https://github.com/waja/docker-nginx) (today)
+- [Whitelist some more actions for automerge](https://github.com/tmtde/docker-netbox/pull/147) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (today)
+- [Whitelist some more actions for automerge](https://github.com/waja/docker-mojolicious/pull/53) on [waja/docker-mojolicious](https://github.com/waja/docker-mojolicious) (today)
+- [Whitelist some more actions for automerge](https://github.com/waja/docker-garbd/pull/105) on [waja/docker-garbd](https://github.com/waja/docker-garbd) (today)
 
 ### 📓 Gists I wrote
 
