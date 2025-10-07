@@ -9,7 +9,7 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (today)
+- [waja/docker-php82-fpm](https://github.com/waja/docker-php82-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.2-fpm-alpine (today)
 - [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (today)
 - [waja/docker-php83-fpm](https://github.com/waja/docker-php83-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.3-fpm-alpine (today)
 - [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (today)
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [Whitelist some more actions for automerge](https://github.com/waja/docker-nscan/pull/94) on [waja/docker-nscan](https://github.com/waja/docker-nscan) (today)
-- [Whitelist some more actions for automerge](https://github.com/waja/docker-nginx/pull/107) on [waja/docker-nginx](https://github.com/waja/docker-nginx) (today)
-- [Whitelist some more actions for automerge](https://github.com/tmtde/docker-netbox/pull/147) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (today)
-- [Whitelist some more actions for automerge](https://github.com/waja/docker-mojolicious/pull/53) on [waja/docker-mojolicious](https://github.com/waja/docker-mojolicious) (today)
-- [Whitelist some more actions for automerge](https://github.com/waja/docker-garbd/pull/105) on [waja/docker-garbd](https://github.com/waja/docker-garbd) (today)
+- [Adding dependabot.yml for updating github actions](https://github.com/hoellen/docker-nextcloud/pull/141) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (today)
+- [Renovate workflow actions](https://github.com/hoellen/docker-nextcloud/pull/140) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (today)
+- [Update latest and supported versions](https://github.com/hoellen/docker-nextcloud/pull/139) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (today)
+- [Whitelist some more actions for automerge](https://github.com/tmtde/php82-fpm/pull/69) on [tmtde/php82-fpm](https://github.com/tmtde/php82-fpm) (today)
+- [Whitelist some more actions for automerge](https://github.com/tmtde/php81-fpm/pull/115) on [tmtde/php81-fpm](https://github.com/tmtde/php81-fpm) (today)
 
 ### 📓 Gists I wrote
 
