@@ -9,11 +9,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [monitoring-plugins/monitoring-plugins](https://github.com/monitoring-plugins/monitoring-plugins) - A suite of Monitoring Plugins (formerly known as nagios-plugins) (today)
-- [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (1 day ago)
-- [waja/docker-php83-fpm](https://github.com/waja/docker-php83-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.3-fpm-alpine (1 day ago)
-- [waja/docker-php81-fpm](https://github.com/waja/docker-php81-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.1-fpm-alpine (1 day ago)
-- [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (1 day ago)
+- [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (today)
+- [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (today)
+- [waja/docker-php83-fpm](https://github.com/waja/docker-php83-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.3-fpm-alpine (today)
+- [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (today)
+- [waja/docker-php81-fpm](https://github.com/waja/docker-php81-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.1-fpm-alpine (today)
 
 ### 🌱 My latest projects
 
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [Using versions for actions](https://github.com/waja/debbuildenv/pull/13) on [waja/debbuildenv](https://github.com/waja/debbuildenv) (today)
-- [Adding dependabot.yml for updating github actions](https://github.com/hoellen/docker-nextcloud/pull/141) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (1 day ago)
-- [Renovate workflow actions](https://github.com/hoellen/docker-nextcloud/pull/140) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (1 day ago)
-- [Update latest and supported versions](https://github.com/hoellen/docker-nextcloud/pull/139) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (1 day ago)
-- [Whitelist some more actions for automerge](https://github.com/tmtde/php82-fpm/pull/69) on [tmtde/php82-fpm](https://github.com/tmtde/php82-fpm) (1 day ago)
+- [Use codeql as action name](https://github.com/tmtde/php82-fpm/pull/70) on [tmtde/php82-fpm](https://github.com/tmtde/php82-fpm) (today)
+- [Use codeql as action name](https://github.com/tmtde/php81-fpm/pull/116) on [tmtde/php81-fpm](https://github.com/tmtde/php81-fpm) (today)
+- [Use codeql as action name](https://github.com/waja/docker-speedtest/pull/110) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (today)
+- [Use codeql as action name](https://github.com/waja/docker-php85-fpm/pull/21) on [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) (today)
+- [Use codeql as action name](https://github.com/waja/docker-php84-fpm/pull/48) on [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) (today)
 
 ### 📓 Gists I wrote
 
