@@ -9,8 +9,8 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [waja/debbuildenv](https://github.com/waja/debbuildenv) -  (5 days ago)
-- [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (5 days ago)
+- [waja/nextcloud-docker-multiinstance](https://github.com/waja/nextcloud-docker-multiinstance) - Nextcloud Docker multi instance skeleton (today)
+- [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) - Docker image for calcardbackup: https://codeberg.org/BernieO/calcardbackup (5 days ago)
 - [waja/docker-php83-fpm](https://github.com/waja/docker-php83-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.3-fpm-alpine (5 days ago)
 - [waja/docker-php81-fpm](https://github.com/waja/docker-php81-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.1-fpm-alpine (5 days ago)
 - [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (5 days ago)
