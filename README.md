@@ -9,11 +9,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [waja/nextcloud-docker-multiinstance](https://github.com/waja/nextcloud-docker-multiinstance) - Nextcloud Docker multi instance skeleton (1 day ago)
-- [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) - Docker image for calcardbackup: https://codeberg.org/BernieO/calcardbackup (6 days ago)
-- [waja/docker-php83-fpm](https://github.com/waja/docker-php83-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.3-fpm-alpine (6 days ago)
-- [waja/docker-php81-fpm](https://github.com/waja/docker-php81-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.1-fpm-alpine (6 days ago)
-- [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (6 days ago)
+- [waja/nextcloud-docker-multiinstance](https://github.com/waja/nextcloud-docker-multiinstance) - Nextcloud Docker multi instance skeleton (2 days ago)
+- [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) - Docker image for calcardbackup: https://codeberg.org/BernieO/calcardbackup (1 week ago)
+- [waja/docker-php83-fpm](https://github.com/waja/docker-php83-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.3-fpm-alpine (1 week ago)
+- [waja/docker-php81-fpm](https://github.com/waja/docker-php81-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.1-fpm-alpine (1 week ago)
+- [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (1 week ago)
 
 ### 🌱 My latest projects
 
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [Use codeql as action name](https://github.com/tmtde/php82-fpm/pull/70) on [tmtde/php82-fpm](https://github.com/tmtde/php82-fpm) (6 days ago)
-- [Use codeql as action name](https://github.com/tmtde/php81-fpm/pull/116) on [tmtde/php81-fpm](https://github.com/tmtde/php81-fpm) (6 days ago)
-- [Use codeql as action name](https://github.com/waja/docker-speedtest/pull/110) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (6 days ago)
-- [Use codeql as action name](https://github.com/waja/docker-php85-fpm/pull/21) on [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) (6 days ago)
-- [Use codeql as action name](https://github.com/waja/docker-php84-fpm/pull/48) on [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) (6 days ago)
+- [Use codeql as action name](https://github.com/tmtde/php82-fpm/pull/70) on [tmtde/php82-fpm](https://github.com/tmtde/php82-fpm) (1 week ago)
+- [Use codeql as action name](https://github.com/tmtde/php81-fpm/pull/116) on [tmtde/php81-fpm](https://github.com/tmtde/php81-fpm) (1 week ago)
+- [Use codeql as action name](https://github.com/waja/docker-speedtest/pull/110) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (1 week ago)
+- [Use codeql as action name](https://github.com/waja/docker-php85-fpm/pull/21) on [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) (1 week ago)
+- [Use codeql as action name](https://github.com/waja/docker-php84-fpm/pull/48) on [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) (1 week ago)
 
 ### 📓 Gists I wrote
 
