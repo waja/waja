@@ -9,10 +9,10 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [waja/ansible-role-docker-servicestack](https://github.com/waja/ansible-role-docker-servicestack) -  (today)
-- [waja/ansible-role-docker-config](https://github.com/waja/ansible-role-docker-config) -  (today)
-- [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (4 days ago)
-- [waja/nextcloud-docker-multiinstance](https://github.com/waja/nextcloud-docker-multiinstance) - Nextcloud Docker multi instance skeleton (6 days ago)
+- [waja/ansible-role-docker-servicestack](https://github.com/waja/ansible-role-docker-servicestack) -  (1 day ago)
+- [waja/ansible-role-docker-config](https://github.com/waja/ansible-role-docker-config) -  (1 day ago)
+- [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (5 days ago)
+- [waja/nextcloud-docker-multiinstance](https://github.com/waja/nextcloud-docker-multiinstance) - Nextcloud Docker multi instance skeleton (1 week ago)
 - [monitoring-plugins/monitoring-plugins](https://github.com/monitoring-plugins/monitoring-plugins) - A suite of Monitoring Plugins (formerly known as nagios-plugins) (1 week ago)
 
 ### 🌱 My latest projects
@@ -27,7 +27,7 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔭 Latest releases I've contributed to
 
-- [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) ([stable-10532-1](https://github.com/jitsi/docker-jitsi-meet/releases/tag/stable-10532-1), 2 weeks ago) - Jitsi Meet on Docker
+- [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) ([stable-10532-1](https://github.com/jitsi/docker-jitsi-meet/releases/tag/stable-10532-1), 3 weeks ago) - Jitsi Meet on Docker
 - [dawidd6/action-debian-package](https://github.com/dawidd6/action-debian-package) ([v2](https://github.com/dawidd6/action-debian-package/releases/tag/v2), 4 weeks ago) - :gear: A GitHub Action for building Debian packages
 - [waja/froxlor-auto-migration](https://github.com/waja/froxlor-auto-migration) ([debian/0.3](https://github.com/waja/froxlor-auto-migration/releases/tag/debian/0.3), 3 months ago) - Package with helper script running db migrations after Froxlor update
 - [k1nky/netbox-otp-plugin](https://github.com/k1nky/netbox-otp-plugin) ([v1.3.3](https://github.com/k1nky/netbox-otp-plugin/releases/tag/v1.3.3), 3 months ago) - This netbox plugin adds support for one-time password (OTP) to Netbox.
@@ -35,8 +35,8 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [Ci fix matrix](https://github.com/waja/ansible-role-docker-tools/pull/8) on [waja/ansible-role-docker-tools](https://github.com/waja/ansible-role-docker-tools) (today)
-- [Ci fix matrix](https://github.com/waja/ansible-role-docker-config/pull/5) on [waja/ansible-role-docker-config](https://github.com/waja/ansible-role-docker-config) (today)
+- [Ci fix matrix](https://github.com/waja/ansible-role-docker-tools/pull/8) on [waja/ansible-role-docker-tools](https://github.com/waja/ansible-role-docker-tools) (1 day ago)
+- [Ci fix matrix](https://github.com/waja/ansible-role-docker-config/pull/5) on [waja/ansible-role-docker-config](https://github.com/waja/ansible-role-docker-config) (1 day ago)
 - [Use codeql as action name](https://github.com/tmtde/php82-fpm/pull/70) on [tmtde/php82-fpm](https://github.com/tmtde/php82-fpm) (1 week ago)
 - [Use codeql as action name](https://github.com/tmtde/php81-fpm/pull/116) on [tmtde/php81-fpm](https://github.com/tmtde/php81-fpm) (1 week ago)
 - [Use codeql as action name](https://github.com/waja/docker-speedtest/pull/110) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (1 week ago)
