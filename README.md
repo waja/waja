@@ -9,11 +9,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
+- [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (today)
 - [waja/ansible-role-docker-tools](https://github.com/waja/ansible-role-docker-tools) -  (3 days ago)
 - [waja/nextcloud-docker-multiinstance](https://github.com/waja/nextcloud-docker-multiinstance) - Nextcloud Docker multi instance skeleton (3 days ago)
-- [waja/ansible-role-docker-config](https://github.com/waja/ansible-role-docker-config) -  (4 days ago)
 - [waja/ansible-role-docker-servicestack](https://github.com/waja/ansible-role-docker-servicestack) -  (4 days ago)
-- [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (1 week ago)
+- [waja/ansible-role-docker-config](https://github.com/waja/ansible-role-docker-config) -  (4 days ago)
 
 ### 🌱 My latest projects
 
