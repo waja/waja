@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [chore: update Nextcloud to 31.0.10](https://github.com/hoellen/docker-nextcloud/pull/143) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (today)
+- [chore: update Nextcloud to 30.0.17](https://github.com/hoellen/docker-nextcloud/pull/142) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (today)
 - [Rework ctop setup](https://github.com/waja/ansible-role-docker-tools/pull/9) on [waja/ansible-role-docker-tools](https://github.com/waja/ansible-role-docker-tools) (3 days ago)
 - [Ci fix matrix](https://github.com/waja/ansible-role-docker-tools/pull/8) on [waja/ansible-role-docker-tools](https://github.com/waja/ansible-role-docker-tools) (4 days ago)
 - [Ci fix matrix](https://github.com/waja/ansible-role-docker-config/pull/5) on [waja/ansible-role-docker-config](https://github.com/waja/ansible-role-docker-config) (4 days ago)
-- [Use codeql as action name](https://github.com/tmtde/php82-fpm/pull/70) on [tmtde/php82-fpm](https://github.com/tmtde/php82-fpm) (2 weeks ago)
-- [Use codeql as action name](https://github.com/tmtde/php81-fpm/pull/116) on [tmtde/php81-fpm](https://github.com/tmtde/php81-fpm) (2 weeks ago)
 
 ### 📓 Gists I wrote
 
