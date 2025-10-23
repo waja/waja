@@ -10,10 +10,10 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 
 - [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (today)
+- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (today)
 - [waja/ansible-role-docker-tools](https://github.com/waja/ansible-role-docker-tools) -  (3 days ago)
 - [waja/nextcloud-docker-multiinstance](https://github.com/waja/nextcloud-docker-multiinstance) - Nextcloud Docker multi instance skeleton (3 days ago)
 - [waja/ansible-role-docker-servicestack](https://github.com/waja/ansible-role-docker-servicestack) -  (4 days ago)
-- [waja/ansible-role-docker-config](https://github.com/waja/ansible-role-docker-config) -  (4 days ago)
 
 ### 🌱 My latest projects
 
