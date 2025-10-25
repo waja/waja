@@ -9,11 +9,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (2 days ago)
+- [tmtde/php81-fpm](https://github.com/tmtde/php81-fpm) -  (today)
+- [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (today)
+- [tmtde/php82-fpm](https://github.com/tmtde/php82-fpm) -  (today)
 - [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (2 days ago)
 - [waja/ansible-role-docker-tools](https://github.com/waja/ansible-role-docker-tools) -  (5 days ago)
-- [waja/nextcloud-docker-multiinstance](https://github.com/waja/nextcloud-docker-multiinstance) - Nextcloud Docker multi instance skeleton (5 days ago)
-- [waja/ansible-role-docker-servicestack](https://github.com/waja/ansible-role-docker-servicestack) -  (6 days ago)
 
 ### 🌱 My latest projects
 
