@@ -9,11 +9,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [waja/docker-nscan](https://github.com/waja/docker-nscan) - Docker container image for https://github.com/OffensivePython/Nscan (today)
+- [waja/docker-nginx](https://github.com/waja/docker-nginx) - Alpine container image with installed nginx (today)
 - [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (today)
 - [waja/docker-php83-fpm](https://github.com/waja/docker-php83-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.3-fpm-alpine (today)
 - [waja/docker-php81-fpm](https://github.com/waja/docker-php81-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.1-fpm-alpine (today)
-- [waja/docker-nginx](https://github.com/waja/docker-nginx) - Alpine container image with installed nginx (today)
+- [waja/docker-nscan](https://github.com/waja/docker-nscan) - Docker container image for https://github.com/OffensivePython/Nscan (today)
 
 ### 🌱 My latest projects
 
