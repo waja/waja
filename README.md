@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [Make linter happy](https://github.com/tmtde/docker-netbox/pull/160) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (today)
 - [chore: update Nextcloud to 32.0.1](https://github.com/hoellen/docker-nextcloud/pull/144) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (6 days ago)
 - [chore: update Nextcloud to 31.0.10](https://github.com/hoellen/docker-nextcloud/pull/143) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (6 days ago)
 - [chore: update Nextcloud to 30.0.17](https://github.com/hoellen/docker-nextcloud/pull/142) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (6 days ago)
 - [Rework ctop setup](https://github.com/waja/ansible-role-docker-tools/pull/9) on [waja/ansible-role-docker-tools](https://github.com/waja/ansible-role-docker-tools) (1 week ago)
-- [Ci fix matrix](https://github.com/waja/ansible-role-docker-tools/pull/8) on [waja/ansible-role-docker-tools](https://github.com/waja/ansible-role-docker-tools) (1 week ago)
 
 ### 📓 Gists I wrote
 
