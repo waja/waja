@@ -10,10 +10,10 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 
 - [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (2 days ago)
-- [waja/docker-nginx](https://github.com/waja/docker-nginx) - Alpine container image with installed nginx (4 days ago)
+- [waja/docker-garbd](https://github.com/waja/docker-garbd) - Docker image for garbd (4 days ago)
 - [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (4 days ago)
 - [waja/docker-php83-fpm](https://github.com/waja/docker-php83-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.3-fpm-alpine (4 days ago)
-- [waja/docker-nscan](https://github.com/waja/docker-nscan) - Docker container image for https://github.com/OffensivePython/Nscan (4 days ago)
+- [waja/docker-nginx](https://github.com/waja/docker-nginx) - Alpine container image with installed nginx (4 days ago)
 
 ### 🌱 My latest projects
 
