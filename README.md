@@ -31,7 +31,7 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 - [dawidd6/action-debian-package](https://github.com/dawidd6/action-debian-package) ([v2](https://github.com/dawidd6/action-debian-package/releases/tag/v2), 1 month ago) - :gear: A GitHub Action for building Debian packages
 - [waja/froxlor-auto-migration](https://github.com/waja/froxlor-auto-migration) ([debian/0.3](https://github.com/waja/froxlor-auto-migration/releases/tag/debian/0.3), 4 months ago) - Package with helper script running db migrations after Froxlor update
 - [k1nky/netbox-otp-plugin](https://github.com/k1nky/netbox-otp-plugin) ([v1.3.3](https://github.com/k1nky/netbox-otp-plugin/releases/tag/v1.3.3), 4 months ago) - This netbox plugin adds support for one-time password (OTP) to Netbox.
-- [waja/nagios-snmp-plugins](https://github.com/waja/nagios-snmp-plugins) ([debian/2.1.0-5](https://github.com/waja/nagios-snmp-plugins/releases/tag/debian/2.1.0-5), 6 months ago) - Mirror of the Debian nagios-snmp-plugins package http://packages.qa.debian.org/nagios-snmp-plugins
+- [waja/nagios-snmp-plugins](https://github.com/waja/nagios-snmp-plugins) ([debian/2.1.0-5](https://github.com/waja/nagios-snmp-plugins/releases/tag/debian/2.1.0-5), 7 months ago) - Mirror of the Debian nagios-snmp-plugins package http://packages.qa.debian.org/nagios-snmp-plugins
 
 ### 🔨 My recent Pull Requests
 
