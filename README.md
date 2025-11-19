@@ -10,7 +10,7 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 
 - [waja/dns-flood-detector](https://github.com/waja/dns-flood-detector) - Mirror of the Debian dns-flood-detector package http://packages.qa.debian.org/dns-flood-detector (2 weeks ago)
-- [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (2 weeks ago)
+- [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (3 weeks ago)
 - [waja/docker-nscan](https://github.com/waja/docker-nscan) - Docker container image for https://github.com/OffensivePython/Nscan (3 weeks ago)
 - [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (3 weeks ago)
 - [waja/docker-php83-fpm](https://github.com/waja/docker-php83-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.3-fpm-alpine (3 weeks ago)
@@ -27,7 +27,7 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔭 Latest releases I've contributed to
 
-- [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) ([stable-10590](https://github.com/jitsi/docker-jitsi-meet/releases/tag/stable-10590), 4 weeks ago) - Jitsi Meet on Docker
+- [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) ([stable-10590](https://github.com/jitsi/docker-jitsi-meet/releases/tag/stable-10590), 1 month ago) - Jitsi Meet on Docker
 - [dawidd6/action-debian-package](https://github.com/dawidd6/action-debian-package) ([v2](https://github.com/dawidd6/action-debian-package/releases/tag/v2), 1 month ago) - :gear: A GitHub Action for building Debian packages
 - [waja/froxlor-auto-migration](https://github.com/waja/froxlor-auto-migration) ([debian/0.3](https://github.com/waja/froxlor-auto-migration/releases/tag/debian/0.3), 4 months ago) - Package with helper script running db migrations after Froxlor update
 - [k1nky/netbox-otp-plugin](https://github.com/k1nky/netbox-otp-plugin) ([v1.3.3](https://github.com/k1nky/netbox-otp-plugin/releases/tag/v1.3.3), 4 months ago) - This netbox plugin adds support for one-time password (OTP) to Netbox.
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [Make linter happy](https://github.com/tmtde/docker-netbox/pull/160) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (2 weeks ago)
+- [Make linter happy](https://github.com/tmtde/docker-netbox/pull/160) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (3 weeks ago)
 - [chore: update Nextcloud to 32.0.1](https://github.com/hoellen/docker-nextcloud/pull/144) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (3 weeks ago)
 - [chore: update Nextcloud to 31.0.10](https://github.com/hoellen/docker-nextcloud/pull/143) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (3 weeks ago)
 - [chore: update Nextcloud to 30.0.17](https://github.com/hoellen/docker-nextcloud/pull/142) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (3 weeks ago)
-- [Rework ctop setup](https://github.com/waja/ansible-role-docker-tools/pull/9) on [waja/ansible-role-docker-tools](https://github.com/waja/ansible-role-docker-tools) (4 weeks ago)
+- [Rework ctop setup](https://github.com/waja/ansible-role-docker-tools/pull/9) on [waja/ansible-role-docker-tools](https://github.com/waja/ansible-role-docker-tools) (1 month ago)
 
 ### 📓 Gists I wrote
 
