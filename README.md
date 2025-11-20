@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [chore: update Nextcloud to 32.0.2](https://github.com/hoellen/docker-nextcloud/pull/146) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (today)
+- [chore: update Nextcloud to 31.0.11](https://github.com/hoellen/docker-nextcloud/pull/145) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (today)
 - [Make linter happy](https://github.com/tmtde/docker-netbox/pull/160) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (3 weeks ago)
 - [chore: update Nextcloud to 32.0.1](https://github.com/hoellen/docker-nextcloud/pull/144) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (4 weeks ago)
 - [chore: update Nextcloud to 31.0.10](https://github.com/hoellen/docker-nextcloud/pull/143) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (4 weeks ago)
-- [chore: update Nextcloud to 30.0.17](https://github.com/hoellen/docker-nextcloud/pull/142) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (4 weeks ago)
-- [Rework ctop setup](https://github.com/waja/ansible-role-docker-tools/pull/9) on [waja/ansible-role-docker-tools](https://github.com/waja/ansible-role-docker-tools) (1 month ago)
 
 ### 📓 Gists I wrote
 
