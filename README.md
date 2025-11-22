@@ -9,11 +9,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (1 day ago)
-- [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (1 day ago)
-- [waja/docker-php83-fpm](https://github.com/waja/docker-php83-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.3-fpm-alpine (1 day ago)
-- [waja/docker-php81-fpm](https://github.com/waja/docker-php81-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.1-fpm-alpine (1 day ago)
-- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (1 day ago)
+- [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (2 days ago)
+- [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (2 days ago)
+- [waja/docker-php83-fpm](https://github.com/waja/docker-php83-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.3-fpm-alpine (2 days ago)
+- [waja/docker-php81-fpm](https://github.com/waja/docker-php81-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.1-fpm-alpine (2 days ago)
+- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (2 days ago)
 
 ### 🌱 My latest projects
 
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [chore: update Nextcloud to 32.0.2](https://github.com/hoellen/docker-nextcloud/pull/146) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (1 day ago)
-- [chore: update Nextcloud to 31.0.11](https://github.com/hoellen/docker-nextcloud/pull/145) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (1 day ago)
+- [chore: update Nextcloud to 32.0.2](https://github.com/hoellen/docker-nextcloud/pull/146) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (2 days ago)
+- [chore: update Nextcloud to 31.0.11](https://github.com/hoellen/docker-nextcloud/pull/145) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (2 days ago)
 - [Make linter happy](https://github.com/tmtde/docker-netbox/pull/160) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (3 weeks ago)
-- [chore: update Nextcloud to 32.0.1](https://github.com/hoellen/docker-nextcloud/pull/144) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (4 weeks ago)
-- [chore: update Nextcloud to 31.0.10](https://github.com/hoellen/docker-nextcloud/pull/143) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (4 weeks ago)
+- [chore: update Nextcloud to 32.0.1](https://github.com/hoellen/docker-nextcloud/pull/144) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (1 month ago)
+- [chore: update Nextcloud to 31.0.10](https://github.com/hoellen/docker-nextcloud/pull/143) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (1 month ago)
 
 ### 📓 Gists I wrote
 
