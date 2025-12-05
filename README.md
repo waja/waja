@@ -9,11 +9,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [waja/docker-garbd](https://github.com/waja/docker-garbd) - Docker image for garbd (today)
-- [waja/froxlor-auto-migration](https://github.com/waja/froxlor-auto-migration) - Package with helper script running db migrations after Froxlor update (today)
-- [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (today)
-- [waja/docker-nginx](https://github.com/waja/docker-nginx) - Alpine container image with installed nginx (today)
-- [waja/debbuildenv](https://github.com/waja/debbuildenv) -  (6 days ago)
+- [waja/docker-garbd](https://github.com/waja/docker-garbd) - Docker image for garbd (1 day ago)
+- [waja/froxlor-auto-migration](https://github.com/waja/froxlor-auto-migration) - Package with helper script running db migrations after Froxlor update (1 day ago)
+- [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (1 day ago)
+- [waja/docker-nginx](https://github.com/waja/docker-nginx) - Alpine container image with installed nginx (1 day ago)
+- [waja/debbuildenv](https://github.com/waja/debbuildenv) -  (1 week ago)
 
 ### 🌱 My latest projects
 
@@ -27,7 +27,7 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔭 Latest releases I've contributed to
 
-- [monitoring-plugins/monitoring-plugins](https://github.com/monitoring-plugins/monitoring-plugins) ([v3.0.0-rc1](https://github.com/monitoring-plugins/monitoring-plugins/releases/tag/v3.0.0-rc1), 2 days ago) - A suite of Monitoring Plugins (formerly known as nagios-plugins)
+- [monitoring-plugins/monitoring-plugins](https://github.com/monitoring-plugins/monitoring-plugins) ([v3.0.0-rc1](https://github.com/monitoring-plugins/monitoring-plugins/releases/tag/v3.0.0-rc1), 3 days ago) - A suite of Monitoring Plugins (formerly known as nagios-plugins)
 - [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) ([stable-10655](https://github.com/jitsi/docker-jitsi-meet/releases/tag/stable-10655), 1 week ago) - Jitsi Meet on Docker
 - [dawidd6/action-debian-package](https://github.com/dawidd6/action-debian-package) ([v2](https://github.com/dawidd6/action-debian-package/releases/tag/v2), 2 months ago) - :gear: A GitHub Action for building Debian packages
 - [waja/froxlor-auto-migration](https://github.com/waja/froxlor-auto-migration) ([debian/0.3](https://github.com/waja/froxlor-auto-migration/releases/tag/debian/0.3), 4 months ago) - Package with helper script running db migrations after Froxlor update
@@ -35,7 +35,7 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [Add renovate.json](https://github.com/waja/froxlor-auto-migration/pull/5) on [waja/froxlor-auto-migration](https://github.com/waja/froxlor-auto-migration) (today)
+- [Add renovate.json](https://github.com/waja/froxlor-auto-migration/pull/5) on [waja/froxlor-auto-migration](https://github.com/waja/froxlor-auto-migration) (1 day ago)
 - [chore: update Nextcloud to 32.0.2](https://github.com/hoellen/docker-nextcloud/pull/146) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (2 weeks ago)
 - [chore: update Nextcloud to 31.0.11](https://github.com/hoellen/docker-nextcloud/pull/145) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (2 weeks ago)
 - [Make linter happy](https://github.com/tmtde/docker-netbox/pull/160) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (1 month ago)
