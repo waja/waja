@@ -9,11 +9,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
+- [waja/ansible-role-docker-servicestack](https://github.com/waja/ansible-role-docker-servicestack) -  (today)
 - [waja/ansible-role-docker-config](https://github.com/waja/ansible-role-docker-config) -  (today)
+- [waja/ansible-role-docker-tools](https://github.com/waja/ansible-role-docker-tools) -  (today)
 - [waja/docker-garbd](https://github.com/waja/docker-garbd) - Docker image for garbd (5 days ago)
 - [waja/froxlor-auto-migration](https://github.com/waja/froxlor-auto-migration) - Package with helper script running db migrations after Froxlor update (5 days ago)
-- [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (5 days ago)
-- [waja/docker-nginx](https://github.com/waja/docker-nginx) - Alpine container image with installed nginx (5 days ago)
 
 ### 🌱 My latest projects
 
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [Ci fix dist](https://github.com/waja/ansible-role-docker-tools/pull/11) on [waja/ansible-role-docker-tools](https://github.com/waja/ansible-role-docker-tools) (today)
 - [Raise Ubuntu version, python 3.9 or newer needed](https://github.com/waja/ansible-role-docker-servicestack/pull/12) on [waja/ansible-role-docker-servicestack](https://github.com/waja/ansible-role-docker-servicestack) (today)
 - [Raise Ubuntu version, python 3.9 or newer needed](https://github.com/waja/ansible-role-docker-config/pull/7) on [waja/ansible-role-docker-config](https://github.com/waja/ansible-role-docker-config) (today)
 - [Add renovate.json](https://github.com/waja/froxlor-auto-migration/pull/5) on [waja/froxlor-auto-migration](https://github.com/waja/froxlor-auto-migration) (5 days ago)
 - [chore: update Nextcloud to 32.0.2](https://github.com/hoellen/docker-nextcloud/pull/146) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (2 weeks ago)
-- [chore: update Nextcloud to 31.0.11](https://github.com/hoellen/docker-nextcloud/pull/145) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (2 weeks ago)
 
 ### 📓 Gists I wrote
 
