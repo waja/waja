@@ -9,11 +9,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (1 day ago)
-- [waja/ansible-role-docker-tools](https://github.com/waja/ansible-role-docker-tools) -  (3 days ago)
-- [waja/ansible-role-docker-servicestack](https://github.com/waja/ansible-role-docker-servicestack) -  (3 days ago)
-- [waja/ansible-role-docker-config](https://github.com/waja/ansible-role-docker-config) -  (3 days ago)
-- [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (1 week ago)
+- [waja/docker-php82-fpm](https://github.com/waja/docker-php82-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.2-fpm-alpine (today)
+- [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (today)
+- [waja/docker-php83-fpm](https://github.com/waja/docker-php83-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.3-fpm-alpine (today)
+- [waja/docker-php81-fpm](https://github.com/waja/docker-php81-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.1-fpm-alpine (today)
+- [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (today)
 
 ### 🌱 My latest projects
 
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [chore: update Nextcloud to 32.0.3](https://github.com/hoellen/docker-nextcloud/pull/148) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (1 day ago)
-- [chore: update Nextcloud to 31.0.12](https://github.com/hoellen/docker-nextcloud/pull/147) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (1 day ago)
-- [Ci fix dist](https://github.com/waja/ansible-role-docker-tools/pull/11) on [waja/ansible-role-docker-tools](https://github.com/waja/ansible-role-docker-tools) (3 days ago)
-- [Raise Ubuntu version, python 3.9 or newer needed](https://github.com/waja/ansible-role-docker-servicestack/pull/12) on [waja/ansible-role-docker-servicestack](https://github.com/waja/ansible-role-docker-servicestack) (3 days ago)
-- [Raise Ubuntu version, python 3.9 or newer needed](https://github.com/waja/ansible-role-docker-config/pull/7) on [waja/ansible-role-docker-config](https://github.com/waja/ansible-role-docker-config) (3 days ago)
+- [Remove whitelist from github actions auto merge](https://github.com/waja/docker-php85-fpm/pull/47) on [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) (today)
+- [Remove whitelist from github actions auto merge](https://github.com/waja/docker-php83-fpm/pull/103) on [waja/docker-php83-fpm](https://github.com/waja/docker-php83-fpm) (today)
+- [Remove whitelist from github actions auto merge](https://github.com/waja/docker-php82-fpm/pull/123) on [waja/docker-php82-fpm](https://github.com/waja/docker-php82-fpm) (today)
+- [Remove whitelist from github actions auto merge](https://github.com/waja/docker-php84-fpm/pull/78) on [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) (today)
+- [Remove whitelist from github actions auto merge](https://github.com/waja/docker-php81-fpm/pull/160) on [waja/docker-php81-fpm](https://github.com/waja/docker-php81-fpm) (today)
 
 ### 📓 Gists I wrote
 
