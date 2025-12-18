@@ -9,11 +9,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [waja/docker-garbd](https://github.com/waja/docker-garbd) - Docker image for garbd (today)
-- [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (today)
-- [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) - Docker image for calcardbackup: https://codeberg.org/BernieO/calcardbackup (today)
-- [waja/docker-nginx](https://github.com/waja/docker-nginx) - Alpine container image with installed nginx (today)
 - [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (today)
+- [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (today)
+- [waja/docker-php83-fpm](https://github.com/waja/docker-php83-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.3-fpm-alpine (today)
+- [tmtde/php82-fpm](https://github.com/tmtde/php82-fpm) -  (today)
+- [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) - Docker image for calcardbackup: https://codeberg.org/BernieO/calcardbackup (today)
 
 ### 🌱 My latest projects
 
