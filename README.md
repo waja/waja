@@ -9,11 +9,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (today)
-- [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (today)
-- [waja/docker-php83-fpm](https://github.com/waja/docker-php83-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.3-fpm-alpine (today)
-- [tmtde/php82-fpm](https://github.com/tmtde/php82-fpm) -  (today)
-- [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) - Docker image for calcardbackup: https://codeberg.org/BernieO/calcardbackup (today)
+- [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (1 day ago)
+- [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (1 day ago)
+- [waja/docker-php83-fpm](https://github.com/waja/docker-php83-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.3-fpm-alpine (1 day ago)
+- [tmtde/php82-fpm](https://github.com/tmtde/php82-fpm) -  (1 day ago)
+- [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) - Docker image for calcardbackup: https://codeberg.org/BernieO/calcardbackup (1 day ago)
 
 ### 🌱 My latest projects
 
@@ -27,7 +27,7 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔭 Latest releases I've contributed to
 
-- [k1nky/netbox-otp-plugin](https://github.com/k1nky/netbox-otp-plugin) ([v1.3.4](https://github.com/k1nky/netbox-otp-plugin/releases/tag/v1.3.4), 6 days ago) - This netbox plugin adds support for one-time password (OTP) to Netbox.
+- [k1nky/netbox-otp-plugin](https://github.com/k1nky/netbox-otp-plugin) ([v1.3.4](https://github.com/k1nky/netbox-otp-plugin/releases/tag/v1.3.4), 1 week ago) - This netbox plugin adds support for one-time password (OTP) to Netbox.
 - [monitoring-plugins/monitoring-plugins](https://github.com/monitoring-plugins/monitoring-plugins) ([v3.0.0-rc1](https://github.com/monitoring-plugins/monitoring-plugins/releases/tag/v3.0.0-rc1), 2 weeks ago) - A suite of Monitoring Plugins (formerly known as nagios-plugins)
 - [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) ([stable-10655](https://github.com/jitsi/docker-jitsi-meet/releases/tag/stable-10655), 3 weeks ago) - Jitsi Meet on Docker
 - [dawidd6/action-debian-package](https://github.com/dawidd6/action-debian-package) ([v2](https://github.com/dawidd6/action-debian-package/releases/tag/v2), 2 months ago) - :gear: A GitHub Action for building Debian packages
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [Remove whitelist from github actions auto merge](https://github.com/waja/docker-nscan/pull/115) on [waja/docker-nscan](https://github.com/waja/docker-nscan) (6 days ago)
-- [Remove whitelist from github actions auto merge](https://github.com/tmtde/docker-netbox/pull/174) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (6 days ago)
-- [Remove whitelist from github actions auto merge](https://github.com/waja/docker-dovecot/pull/88) on [waja/docker-dovecot](https://github.com/waja/docker-dovecot) (6 days ago)
-- [Remove whitelist from github actions auto merge](https://github.com/waja/docker-mojolicious/pull/78) on [waja/docker-mojolicious](https://github.com/waja/docker-mojolicious) (6 days ago)
-- [Remove whitelist from github actions auto merge](https://github.com/waja/docker-garbd/pull/136) on [waja/docker-garbd](https://github.com/waja/docker-garbd) (6 days ago)
+- [Remove whitelist from github actions auto merge](https://github.com/waja/docker-nscan/pull/115) on [waja/docker-nscan](https://github.com/waja/docker-nscan) (1 week ago)
+- [Remove whitelist from github actions auto merge](https://github.com/tmtde/docker-netbox/pull/174) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (1 week ago)
+- [Remove whitelist from github actions auto merge](https://github.com/waja/docker-dovecot/pull/88) on [waja/docker-dovecot](https://github.com/waja/docker-dovecot) (1 week ago)
+- [Remove whitelist from github actions auto merge](https://github.com/waja/docker-mojolicious/pull/78) on [waja/docker-mojolicious](https://github.com/waja/docker-mojolicious) (1 week ago)
+- [Remove whitelist from github actions auto merge](https://github.com/waja/docker-garbd/pull/136) on [waja/docker-garbd](https://github.com/waja/docker-garbd) (1 week ago)
 
 ### 📓 Gists I wrote
 
