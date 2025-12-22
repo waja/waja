@@ -12,8 +12,8 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 - [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (today)
 - [waja/docker-php83-fpm](https://github.com/waja/docker-php83-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.3-fpm-alpine (today)
 - [waja/docker-php81-fpm](https://github.com/waja/docker-php81-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.1-fpm-alpine (today)
-- [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (4 days ago)
-- [tmtde/php82-fpm](https://github.com/tmtde/php82-fpm) -  (4 days ago)
+- [tmtde/php82-fpm](https://github.com/tmtde/php82-fpm) -  (today)
+- [tmtde/php81-fpm](https://github.com/tmtde/php81-fpm) -  (today)
 
 ### 🌱 My latest projects
 
