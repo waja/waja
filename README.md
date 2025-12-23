@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [Adding our plugins to the test configuration](https://github.com/tmtde/docker-netbox/pull/181) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (today)
 - [Adding Change2Log plugin](https://github.com/tmtde/docker-netbox/pull/180) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (today)
 - [Remove whitelist from github actions auto merge](https://github.com/waja/docker-nscan/pull/115) on [waja/docker-nscan](https://github.com/waja/docker-nscan) (1 week ago)
 - [Remove whitelist from github actions auto merge](https://github.com/tmtde/docker-netbox/pull/174) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (1 week ago)
 - [Remove whitelist from github actions auto merge](https://github.com/waja/docker-dovecot/pull/88) on [waja/docker-dovecot](https://github.com/waja/docker-dovecot) (1 week ago)
-- [Remove whitelist from github actions auto merge](https://github.com/waja/docker-mojolicious/pull/78) on [waja/docker-mojolicious](https://github.com/waja/docker-mojolicious) (1 week ago)
 
 ### 📓 Gists I wrote
 
