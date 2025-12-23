@@ -10,9 +10,9 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 
 - [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (today)
+- [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (today)
 - [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (1 day ago)
 - [waja/docker-php83-fpm](https://github.com/waja/docker-php83-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.3-fpm-alpine (1 day ago)
-- [waja/docker-php81-fpm](https://github.com/waja/docker-php81-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.1-fpm-alpine (1 day ago)
 - [tmtde/php82-fpm](https://github.com/tmtde/php82-fpm) -  (1 day ago)
 
 ### 🌱 My latest projects
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [chore: Update Imagick to 3.8.1](https://github.com/waja/docker-php85-fpm/pull/52) on [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) (today)
+- [Update php:8.5.1-fpm-alpine Docker](https://github.com/waja/docker-php85-fpm/pull/51) on [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) (today)
 - [Adding our plugins to the test configuration](https://github.com/tmtde/docker-netbox/pull/181) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (today)
 - [Adding Change2Log plugin](https://github.com/tmtde/docker-netbox/pull/180) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (today)
 - [Remove whitelist from github actions auto merge](https://github.com/waja/docker-nscan/pull/115) on [waja/docker-nscan](https://github.com/waja/docker-nscan) (1 week ago)
-- [Remove whitelist from github actions auto merge](https://github.com/tmtde/docker-netbox/pull/174) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (1 week ago)
-- [Remove whitelist from github actions auto merge](https://github.com/waja/docker-dovecot/pull/88) on [waja/docker-dovecot](https://github.com/waja/docker-dovecot) (1 week ago)
 
 ### 📓 Gists I wrote
 
