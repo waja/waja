@@ -9,10 +9,10 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (4 days ago)
+- [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (5 days ago)
 - [waja/froxlor-auto-migration](https://github.com/waja/froxlor-auto-migration) - Package with helper script running db migrations after Froxlor update (2 weeks ago)
-- [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (2 weeks ago)
-- [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (2 weeks ago)
+- [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (3 weeks ago)
+- [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (3 weeks ago)
 - [waja/docker-php83-fpm](https://github.com/waja/docker-php83-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.3-fpm-alpine (3 weeks ago)
 
 ### 🌱 My latest projects
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [Install imagick via pecl](https://github.com/waja/docker-php84-fpm/pull/85) on [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) (2 weeks ago)
-- [Install imagick via pecl](https://github.com/waja/docker-php84-fpm/pull/84) on [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) (2 weeks ago)
-- [chore: Update Imagick to 3.8.1](https://github.com/waja/docker-php85-fpm/pull/52) on [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) (2 weeks ago)
-- [Update php:8.5.1-fpm-alpine Docker](https://github.com/waja/docker-php85-fpm/pull/51) on [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) (2 weeks ago)
-- [Adding our plugins to the test configuration](https://github.com/tmtde/docker-netbox/pull/181) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (2 weeks ago)
+- [Install imagick via pecl](https://github.com/waja/docker-php84-fpm/pull/85) on [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) (3 weeks ago)
+- [Install imagick via pecl](https://github.com/waja/docker-php84-fpm/pull/84) on [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) (3 weeks ago)
+- [chore: Update Imagick to 3.8.1](https://github.com/waja/docker-php85-fpm/pull/52) on [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) (3 weeks ago)
+- [Update php:8.5.1-fpm-alpine Docker](https://github.com/waja/docker-php85-fpm/pull/51) on [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) (3 weeks ago)
+- [Adding our plugins to the test configuration](https://github.com/tmtde/docker-netbox/pull/181) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (3 weeks ago)
 
 ### 📓 Gists I wrote
 
