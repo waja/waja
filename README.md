@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [chore: update Nextcloud to 32.0.4](https://github.com/hoellen/docker-nextcloud/pull/150) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (today)
+- [31.0.13](https://github.com/hoellen/docker-nextcloud/pull/149) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (today)
 - [Install imagick via pecl](https://github.com/waja/docker-php84-fpm/pull/85) on [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) (3 weeks ago)
 - [Install imagick via pecl](https://github.com/waja/docker-php84-fpm/pull/84) on [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) (3 weeks ago)
 - [chore: Update Imagick to 3.8.1](https://github.com/waja/docker-php85-fpm/pull/52) on [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) (3 weeks ago)
-- [Update php:8.5.1-fpm-alpine Docker](https://github.com/waja/docker-php85-fpm/pull/51) on [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) (3 weeks ago)
-- [Adding our plugins to the test configuration](https://github.com/tmtde/docker-netbox/pull/181) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (3 weeks ago)
 
 ### 📓 Gists I wrote
 
