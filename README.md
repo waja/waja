@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [Adding Change2Log plugin](https://github.com/tmtde/docker-netbox/pull/194) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (today)
 - [chore: update Nextcloud to 32.0.5](https://github.com/hoellen/docker-nextcloud/pull/151) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (3 days ago)
 - [chore: update Nextcloud to 32.0.4](https://github.com/hoellen/docker-nextcloud/pull/150) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (4 days ago)
 - [chore: update Nextcloud to 31.0.13](https://github.com/hoellen/docker-nextcloud/pull/149) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (4 days ago)
 - [Install imagick via pecl](https://github.com/waja/docker-php84-fpm/pull/85) on [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) (3 weeks ago)
-- [Install imagick via pecl](https://github.com/waja/docker-php84-fpm/pull/84) on [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) (3 weeks ago)
 
 ### 📓 Gists I wrote
 
