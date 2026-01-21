@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [Remove parseable, which is not valid since ansible-lint &gt;5](https://github.com/waja/ansible-role-docker-tools/pull/12) on [waja/ansible-role-docker-tools](https://github.com/waja/ansible-role-docker-tools) (today)
 - [Adding Change2Log plugin](https://github.com/tmtde/docker-netbox/pull/194) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (2 days ago)
 - [chore: update Nextcloud to 32.0.5](https://github.com/hoellen/docker-nextcloud/pull/151) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (5 days ago)
 - [chore: update Nextcloud to 32.0.4](https://github.com/hoellen/docker-nextcloud/pull/150) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (6 days ago)
 - [chore: update Nextcloud to 31.0.13](https://github.com/hoellen/docker-nextcloud/pull/149) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (6 days ago)
-- [Install imagick via pecl](https://github.com/waja/docker-php84-fpm/pull/85) on [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) (4 weeks ago)
 
 ### 📓 Gists I wrote
 
