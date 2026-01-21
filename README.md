@@ -9,11 +9,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
+- [waja/ansible-role-docker-tools](https://github.com/waja/ansible-role-docker-tools) -  (today)
+- [waja/ansible-role-docker-servicestack](https://github.com/waja/ansible-role-docker-servicestack) -  (today)
 - [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (1 day ago)
 - [waja/docker-php83-fpm](https://github.com/waja/docker-php83-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.3-fpm-alpine (2 days ago)
 - [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (5 days ago)
-- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (5 days ago)
-- [waja/docker-garbd](https://github.com/waja/docker-garbd) - Docker image for garbd (1 week ago)
 
 ### 🌱 My latest projects
 
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [Remove parseable, which is not valid since ansible-lint &gt;5](https://github.com/waja/ansible-role-docker-config/pull/8) on [waja/ansible-role-docker-config](https://github.com/waja/ansible-role-docker-config) (today)
+- [Remove parseable, which is not valid since ansible-lint &gt;5](https://github.com/waja/ansible-role-docker-servicestack/pull/13) on [waja/ansible-role-docker-servicestack](https://github.com/waja/ansible-role-docker-servicestack) (today)
 - [Remove parseable, which is not valid since ansible-lint &gt;5](https://github.com/waja/ansible-role-docker-tools/pull/12) on [waja/ansible-role-docker-tools](https://github.com/waja/ansible-role-docker-tools) (today)
 - [Adding Change2Log plugin](https://github.com/tmtde/docker-netbox/pull/194) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (2 days ago)
 - [chore: update Nextcloud to 32.0.5](https://github.com/hoellen/docker-nextcloud/pull/151) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (5 days ago)
-- [chore: update Nextcloud to 32.0.4](https://github.com/hoellen/docker-nextcloud/pull/150) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (6 days ago)
-- [chore: update Nextcloud to 31.0.13](https://github.com/hoellen/docker-nextcloud/pull/149) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (6 days ago)
 
 ### 📓 Gists I wrote
 
