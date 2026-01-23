@@ -9,11 +9,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [waja/ansible-role-docker-tools](https://github.com/waja/ansible-role-docker-tools) -  (today)
-- [waja/ansible-role-docker-servicestack](https://github.com/waja/ansible-role-docker-servicestack) -  (1 day ago)
-- [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (2 days ago)
-- [waja/docker-php83-fpm](https://github.com/waja/docker-php83-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.3-fpm-alpine (3 days ago)
-- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (6 days ago)
+- [waja/ansible-role-docker-tools](https://github.com/waja/ansible-role-docker-tools) -  (1 day ago)
+- [waja/ansible-role-docker-servicestack](https://github.com/waja/ansible-role-docker-servicestack) -  (2 days ago)
+- [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (3 days ago)
+- [waja/docker-php83-fpm](https://github.com/waja/docker-php83-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.3-fpm-alpine (4 days ago)
+- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (1 week ago)
 
 ### 🌱 My latest projects
 
@@ -28,18 +28,18 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 ### 🔭 Latest releases I've contributed to
 
 - [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) ([stable-10710](https://github.com/jitsi/docker-jitsi-meet/releases/tag/stable-10710), 1 week ago) - Jitsi Meet on Docker
-- [monitoring-plugins/monitoring-plugins](https://github.com/monitoring-plugins/monitoring-plugins) ([v3.0.0-rc2](https://github.com/monitoring-plugins/monitoring-plugins/releases/tag/v3.0.0-rc2), 2 weeks ago) - A suite of Monitoring Plugins (formerly known as nagios-plugins)
+- [monitoring-plugins/monitoring-plugins](https://github.com/monitoring-plugins/monitoring-plugins) ([v3.0.0-rc2](https://github.com/monitoring-plugins/monitoring-plugins/releases/tag/v3.0.0-rc2), 3 weeks ago) - A suite of Monitoring Plugins (formerly known as nagios-plugins)
 - [dawidd6/action-debian-package](https://github.com/dawidd6/action-debian-package) ([v3](https://github.com/dawidd6/action-debian-package/releases/tag/v3), 4 weeks ago) - :gear: A GitHub Action for building Debian packages
 - [k1nky/netbox-otp-plugin](https://github.com/k1nky/netbox-otp-plugin) ([v1.3.4](https://github.com/k1nky/netbox-otp-plugin/releases/tag/v1.3.4), 1 month ago) - This netbox plugin adds support for one-time password (OTP) to Netbox.
 - [waja/froxlor-auto-migration](https://github.com/waja/froxlor-auto-migration) ([debian/0.3](https://github.com/waja/froxlor-auto-migration/releases/tag/debian/0.3), 6 months ago) - Package with helper script running db migrations after Froxlor update
 
 ### 🔨 My recent Pull Requests
 
-- [Remove parseable, which is not valid since ansible-lint &gt;5](https://github.com/waja/ansible-role-docker-config/pull/8) on [waja/ansible-role-docker-config](https://github.com/waja/ansible-role-docker-config) (1 day ago)
-- [Remove parseable, which is not valid since ansible-lint &gt;5](https://github.com/waja/ansible-role-docker-servicestack/pull/13) on [waja/ansible-role-docker-servicestack](https://github.com/waja/ansible-role-docker-servicestack) (1 day ago)
-- [Remove parseable, which is not valid since ansible-lint &gt;5](https://github.com/waja/ansible-role-docker-tools/pull/12) on [waja/ansible-role-docker-tools](https://github.com/waja/ansible-role-docker-tools) (1 day ago)
-- [Adding Change2Log plugin](https://github.com/tmtde/docker-netbox/pull/194) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (3 days ago)
-- [chore: update Nextcloud to 32.0.5](https://github.com/hoellen/docker-nextcloud/pull/151) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (6 days ago)
+- [Remove parseable, which is not valid since ansible-lint &gt;5](https://github.com/waja/ansible-role-docker-config/pull/8) on [waja/ansible-role-docker-config](https://github.com/waja/ansible-role-docker-config) (2 days ago)
+- [Remove parseable, which is not valid since ansible-lint &gt;5](https://github.com/waja/ansible-role-docker-servicestack/pull/13) on [waja/ansible-role-docker-servicestack](https://github.com/waja/ansible-role-docker-servicestack) (2 days ago)
+- [Remove parseable, which is not valid since ansible-lint &gt;5](https://github.com/waja/ansible-role-docker-tools/pull/12) on [waja/ansible-role-docker-tools](https://github.com/waja/ansible-role-docker-tools) (2 days ago)
+- [Adding Change2Log plugin](https://github.com/tmtde/docker-netbox/pull/194) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (4 days ago)
+- [chore: update Nextcloud to 32.0.5](https://github.com/hoellen/docker-nextcloud/pull/151) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (1 week ago)
 
 ### 📓 Gists I wrote
 
