@@ -11,9 +11,9 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 - [waja/ansible-role-docker-tools](https://github.com/waja/ansible-role-docker-tools) -  (3 days ago)
 - [waja/ansible-role-docker-servicestack](https://github.com/waja/ansible-role-docker-servicestack) -  (4 days ago)
+- [waja/ansible-role-docker-config](https://github.com/waja/ansible-role-docker-config) -  (4 days ago)
 - [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (5 days ago)
 - [waja/docker-php83-fpm](https://github.com/waja/docker-php83-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.3-fpm-alpine (6 days ago)
-- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (1 week ago)
 
 ### 🌱 My latest projects
 
