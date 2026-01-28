@@ -9,11 +9,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (today)
-- [waja/docker-php83-fpm](https://github.com/waja/docker-php83-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.3-fpm-alpine (today)
 - [waja/docker-nginx](https://github.com/waja/docker-nginx) - Alpine container image with installed nginx (today)
-- [waja/docker-dovecot](https://github.com/waja/docker-dovecot) -  (today)
-- [waja/docker-garbd](https://github.com/waja/docker-garbd) - Docker image for garbd (today)
+- [waja/docker-php83-fpm](https://github.com/waja/docker-php83-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.3-fpm-alpine (today)
+- [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (today)
+- [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (today)
+- [waja/docker-php82-fpm](https://github.com/waja/docker-php82-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.2-fpm-alpine (today)
 
 ### 🌱 My latest projects
 
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [Drop separate codespell check, super linter 8.4.0 added this](https://github.com/waja/docker-php82-fpm/pull/137) on [waja/docker-php82-fpm](https://github.com/waja/docker-php82-fpm) (today)
 - [Remove parseable, which is not valid since ansible-lint &gt;5](https://github.com/waja/ansible-role-docker-config/pull/8) on [waja/ansible-role-docker-config](https://github.com/waja/ansible-role-docker-config) (1 week ago)
 - [Remove parseable, which is not valid since ansible-lint &gt;5](https://github.com/waja/ansible-role-docker-servicestack/pull/13) on [waja/ansible-role-docker-servicestack](https://github.com/waja/ansible-role-docker-servicestack) (1 week ago)
 - [Remove parseable, which is not valid since ansible-lint &gt;5](https://github.com/waja/ansible-role-docker-tools/pull/12) on [waja/ansible-role-docker-tools](https://github.com/waja/ansible-role-docker-tools) (1 week ago)
 - [Adding Change2Log plugin](https://github.com/tmtde/docker-netbox/pull/194) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (1 week ago)
-- [chore: update Nextcloud to 32.0.5](https://github.com/hoellen/docker-nextcloud/pull/151) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (1 week ago)
 
 ### 📓 Gists I wrote
 
