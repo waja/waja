@@ -9,11 +9,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [waja/docker-garbd](https://github.com/waja/docker-garbd) - Docker image for garbd (today)
-- [waja/docker-php83-fpm](https://github.com/waja/docker-php83-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.3-fpm-alpine (today)
 - [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (today)
-- [waja/ansible-role-docker-tools](https://github.com/waja/ansible-role-docker-tools) -  (6 days ago)
-- [waja/ansible-role-docker-config](https://github.com/waja/ansible-role-docker-config) -  (1 week ago)
+- [waja/docker-php83-fpm](https://github.com/waja/docker-php83-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.3-fpm-alpine (today)
+- [waja/docker-nginx](https://github.com/waja/docker-nginx) - Alpine container image with installed nginx (today)
+- [waja/docker-dovecot](https://github.com/waja/docker-dovecot) -  (today)
+- [waja/docker-garbd](https://github.com/waja/docker-garbd) - Docker image for garbd (today)
 
 ### 🌱 My latest projects
 
