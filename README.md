@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [chore: Update Netbox image to 4.5.1](https://github.com/tmtde/docker-netbox/pull/205) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (today)
+- [Use tag 3.4.2, which is the latest version compatible below 4.5](https://github.com/tmtde/docker-netbox/pull/204) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (today)
 - [Also run workflows on version branches](https://github.com/tmtde/docker-netbox/pull/203) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (today)
 - [Update to 4.4](https://github.com/tmtde/docker-netbox/pull/199) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (1 day ago)
 - [Drop separate codespell check, super linter 8.4.0 added this](https://github.com/waja/docker-nginx/pull/143) on [waja/docker-nginx](https://github.com/waja/docker-nginx) (6 days ago)
-- [Drop separate codespell check, super linter 8.4.0 added this](https://github.com/waja/docker-mojolicious/pull/90) on [waja/docker-mojolicious](https://github.com/waja/docker-mojolicious) (6 days ago)
-- [Drop separate codespell check, super linter 8.4.0 added this](https://github.com/waja/docker-nscan/pull/123) on [waja/docker-nscan](https://github.com/waja/docker-nscan) (6 days ago)
 
 ### 📓 Gists I wrote
 
