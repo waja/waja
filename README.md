@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [Update netbox-otp-plugin to a version bumped 4.5 compatible versions](https://github.com/tmtde/docker-netbox/pull/215) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (today)
 - [Using 0.1.0 tag of netbox-change2log](https://github.com/tmtde/docker-netbox/pull/212) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (1 day ago)
 - [chore: Update Netbox image to 4.5.2](https://github.com/tmtde/docker-netbox/pull/206) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (1 day ago)
 - [chore: Update Netbox image to 4.5.1](https://github.com/tmtde/docker-netbox/pull/205) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (1 day ago)
 - [Use tag 3.4.2, which is the latest version compatible below 4.5](https://github.com/tmtde/docker-netbox/pull/204) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (1 day ago)
-- [Also run workflows on version branches](https://github.com/tmtde/docker-netbox/pull/203) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (1 day ago)
 
 ### 📓 Gists I wrote
 
