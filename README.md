@@ -12,8 +12,8 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 - [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (1 week ago)
 - [waja/docker-mojolicious](https://github.com/waja/docker-mojolicious) - Docker image for mojolicious (1 week ago)
 - [waja/froxlor-auto-migration](https://github.com/waja/froxlor-auto-migration) - Package with helper script running db migrations after Froxlor update (1 week ago)
-- [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (1 week ago)
-- [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (1 week ago)
+- [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (2 weeks ago)
+- [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (2 weeks ago)
 
 ### 🌱 My latest projects
 
@@ -35,8 +35,8 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [chore: Update snuffleupagus to 0.13.0](https://github.com/hoellen/docker-nextcloud/pull/153) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (1 day ago)
-- [Update netbox-otp-plugin to a version bumped 4.5 compatible versions](https://github.com/tmtde/docker-netbox/pull/215) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (6 days ago)
+- [chore: Update snuffleupagus to 0.13.0](https://github.com/hoellen/docker-nextcloud/pull/153) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (2 days ago)
+- [Update netbox-otp-plugin to a version bumped 4.5 compatible versions](https://github.com/tmtde/docker-netbox/pull/215) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (1 week ago)
 - [Using 0.1.0 tag of netbox-change2log](https://github.com/tmtde/docker-netbox/pull/212) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (1 week ago)
 - [chore: Update Netbox image to 4.5.2](https://github.com/tmtde/docker-netbox/pull/206) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (1 week ago)
 - [chore: Update Netbox image to 4.5.1](https://github.com/tmtde/docker-netbox/pull/205) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (1 week ago)
