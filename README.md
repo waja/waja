@@ -35,7 +35,7 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [chore: Update snuffleupagus to 0.13.0](https://github.com/hoellen/docker-nextcloud/pull/153) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (2 days ago)
+- [chore: Update snuffleupagus to 0.13.0](https://github.com/hoellen/docker-nextcloud/pull/153) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (3 days ago)
 - [Update netbox-otp-plugin to a version bumped 4.5 compatible versions](https://github.com/tmtde/docker-netbox/pull/215) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (1 week ago)
 - [Using 0.1.0 tag of netbox-change2log](https://github.com/tmtde/docker-netbox/pull/212) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (1 week ago)
 - [chore: Update Netbox image to 4.5.2](https://github.com/tmtde/docker-netbox/pull/206) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (1 week ago)
