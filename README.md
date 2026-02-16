@@ -9,10 +9,10 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (1 day ago)
-- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (3 days ago)
+- [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (2 days ago)
+- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (4 days ago)
 - [waja/docker-mojolicious](https://github.com/waja/docker-mojolicious) - Docker image for mojolicious (1 week ago)
-- [waja/froxlor-auto-migration](https://github.com/waja/froxlor-auto-migration) - Package with helper script running db migrations after Froxlor update (1 week ago)
+- [waja/froxlor-auto-migration](https://github.com/waja/froxlor-auto-migration) - Package with helper script running db migrations after Froxlor update (2 weeks ago)
 - [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (2 weeks ago)
 
 ### 🌱 My latest projects
@@ -27,7 +27,7 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔭 Latest releases I've contributed to
 
-- [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) ([stable-10741](https://github.com/jitsi/docker-jitsi-meet/releases/tag/stable-10741), 1 week ago) - Jitsi Meet on Docker
+- [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) ([stable-10741](https://github.com/jitsi/docker-jitsi-meet/releases/tag/stable-10741), 2 weeks ago) - Jitsi Meet on Docker
 - [dawidd6/action-debian-package](https://github.com/dawidd6/action-debian-package) ([v4](https://github.com/dawidd6/action-debian-package/releases/tag/v4), 2 weeks ago) - :gear: A GitHub Action for building Debian packages
 - [monitoring-plugins/monitoring-plugins](https://github.com/monitoring-plugins/monitoring-plugins) ([v3.0.0-rc2](https://github.com/monitoring-plugins/monitoring-plugins/releases/tag/v3.0.0-rc2), 1 month ago) - A suite of Monitoring Plugins (formerly known as nagios-plugins)
 - [k1nky/netbox-otp-plugin](https://github.com/k1nky/netbox-otp-plugin) ([v1.3.4](https://github.com/k1nky/netbox-otp-plugin/releases/tag/v1.3.4), 2 months ago) - This netbox plugin adds support for one-time password (OTP) to Netbox.
@@ -35,9 +35,9 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [chore: update Nextcloud to 32.0.6](https://github.com/hoellen/docker-nextcloud/pull/155) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (3 days ago)
-- [chore: update Nextcloud to 31.0.14](https://github.com/hoellen/docker-nextcloud/pull/154) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (3 days ago)
-- [chore: Update snuffleupagus to 0.13.0](https://github.com/hoellen/docker-nextcloud/pull/153) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (6 days ago)
+- [chore: update Nextcloud to 32.0.6](https://github.com/hoellen/docker-nextcloud/pull/155) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (4 days ago)
+- [chore: update Nextcloud to 31.0.14](https://github.com/hoellen/docker-nextcloud/pull/154) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (4 days ago)
+- [chore: Update snuffleupagus to 0.13.0](https://github.com/hoellen/docker-nextcloud/pull/153) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (1 week ago)
 - [Update netbox-otp-plugin to a version bumped 4.5 compatible versions](https://github.com/tmtde/docker-netbox/pull/215) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (1 week ago)
 - [Using 0.1.0 tag of netbox-change2log](https://github.com/tmtde/docker-netbox/pull/212) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (1 week ago)
 
