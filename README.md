@@ -9,11 +9,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (today)
-- [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (today)
-- [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (2 days ago)
-- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (4 days ago)
-- [waja/docker-mojolicious](https://github.com/waja/docker-mojolicious) - Docker image for mojolicious (1 week ago)
+- [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (1 day ago)
+- [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (1 day ago)
+- [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (3 days ago)
+- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (5 days ago)
+- [waja/docker-mojolicious](https://github.com/waja/docker-mojolicious) - Docker image for mojolicious (2 weeks ago)
 
 ### 🌱 My latest projects
 
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [chore: update Nextcloud to 32.0.6](https://github.com/hoellen/docker-nextcloud/pull/155) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (4 days ago)
-- [chore: update Nextcloud to 31.0.14](https://github.com/hoellen/docker-nextcloud/pull/154) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (4 days ago)
+- [chore: update Nextcloud to 32.0.6](https://github.com/hoellen/docker-nextcloud/pull/155) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (5 days ago)
+- [chore: update Nextcloud to 31.0.14](https://github.com/hoellen/docker-nextcloud/pull/154) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (5 days ago)
 - [chore: Update snuffleupagus to 0.13.0](https://github.com/hoellen/docker-nextcloud/pull/153) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (1 week ago)
 - [Update netbox-otp-plugin to a version bumped 4.5 compatible versions](https://github.com/tmtde/docker-netbox/pull/215) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (1 week ago)
-- [Using 0.1.0 tag of netbox-change2log](https://github.com/tmtde/docker-netbox/pull/212) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (1 week ago)
+- [Using 0.1.0 tag of netbox-change2log](https://github.com/tmtde/docker-netbox/pull/212) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (2 weeks ago)
 
 ### 📓 Gists I wrote
 
@@ -57,7 +57,7 @@ When I was younger, I tended to write some articles on my blog.
 - [Backing up Windows (the hard way)](https://log.cyconet.org/2021/01/04/backing-up-windows-the-hard-way/) (5 years ago)
 - [Call for testing: monitoring-plugins 2.3 in experimental](https://log.cyconet.org/2020/12/22/call-for-testing-monitoring-plugins-2-3-in-experimental/) (5 years ago)
 - [Monitoring Plugins 2.3 released](https://log.cyconet.org/2020/12/13/monitoring-plugins-2-3-released/) (5 years ago)
-- [Covid-19 / SARS-CoV-2](https://log.cyconet.org/2020/03/20/covid-19_sars-cov-2/) (5 years ago)
+- [Covid-19 / SARS-CoV-2](https://log.cyconet.org/2020/03/20/covid-19_sars-cov-2/) (6 years ago)
 - [DevOps Camp 2019](https://log.cyconet.org/2019/04/30/dvoc19/) (6 years ago)
 
 ### 📫 How to reach me
