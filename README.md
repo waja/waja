@@ -9,10 +9,10 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (2 days ago)
-- [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (4 days ago)
-- [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (4 days ago)
-- [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (6 days ago)
+- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (3 days ago)
+- [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (5 days ago)
+- [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (5 days ago)
+- [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (1 week ago)
 - [waja/docker-mojolicious](https://github.com/waja/docker-mojolicious) - Docker image for mojolicious (2 weeks ago)
 
 ### 🌱 My latest projects
@@ -35,7 +35,7 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [Update docs](https://github.com/hoellen/docker-nextcloud/pull/157) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (2 days ago)
+- [Update docs](https://github.com/hoellen/docker-nextcloud/pull/157) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (3 days ago)
 - [chore: update Nextcloud to 32.0.6](https://github.com/hoellen/docker-nextcloud/pull/155) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (1 week ago)
 - [chore: update Nextcloud to 31.0.14](https://github.com/hoellen/docker-nextcloud/pull/154) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (1 week ago)
 - [chore: Update snuffleupagus to 0.13.0](https://github.com/hoellen/docker-nextcloud/pull/153) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (1 week ago)
