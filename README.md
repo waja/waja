@@ -28,7 +28,7 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 ### 🔭 Latest releases I've contributed to
 
 - [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) ([stable-10741](https://github.com/jitsi/docker-jitsi-meet/releases/tag/stable-10741), 3 weeks ago) - Jitsi Meet on Docker
-- [dawidd6/action-debian-package](https://github.com/dawidd6/action-debian-package) ([v4](https://github.com/dawidd6/action-debian-package/releases/tag/v4), 4 weeks ago) - :gear: A GitHub Action for building Debian packages
+- [dawidd6/action-debian-package](https://github.com/dawidd6/action-debian-package) ([v4](https://github.com/dawidd6/action-debian-package/releases/tag/v4), 1 month ago) - :gear: A GitHub Action for building Debian packages
 - [monitoring-plugins/monitoring-plugins](https://github.com/monitoring-plugins/monitoring-plugins) ([v3.0.0-rc2](https://github.com/monitoring-plugins/monitoring-plugins/releases/tag/v3.0.0-rc2), 1 month ago) - A suite of Monitoring Plugins (formerly known as nagios-plugins)
 - [k1nky/netbox-otp-plugin](https://github.com/k1nky/netbox-otp-plugin) ([v1.3.4](https://github.com/k1nky/netbox-otp-plugin/releases/tag/v1.3.4), 2 months ago) - This netbox plugin adds support for one-time password (OTP) to Netbox.
 - [waja/froxlor-auto-migration](https://github.com/waja/froxlor-auto-migration) ([debian/0.3](https://github.com/waja/froxlor-auto-migration/releases/tag/debian/0.3), 7 months ago) - Package with helper script running db migrations after Froxlor update
