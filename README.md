@@ -39,7 +39,7 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 - [chore: update Nextcloud to 32.0.6](https://github.com/hoellen/docker-nextcloud/pull/155) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (3 weeks ago)
 - [chore: update Nextcloud to 31.0.14](https://github.com/hoellen/docker-nextcloud/pull/154) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (3 weeks ago)
 - [chore: Update snuffleupagus to 0.13.0](https://github.com/hoellen/docker-nextcloud/pull/153) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (3 weeks ago)
-- [Update netbox-otp-plugin to a version bumped 4.5 compatible versions](https://github.com/tmtde/docker-netbox/pull/215) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (4 weeks ago)
+- [Update netbox-otp-plugin to a version bumped 4.5 compatible versions](https://github.com/tmtde/docker-netbox/pull/215) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (1 month ago)
 
 ### 📓 Gists I wrote
 
