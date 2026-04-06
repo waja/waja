@@ -9,7 +9,7 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (3 days ago)
+- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (4 days ago)
 - [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (3 weeks ago)
 - [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (3 weeks ago)
 - [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (1 month ago)
@@ -27,7 +27,7 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔭 Latest releases I've contributed to
 
-- [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) ([stable-10888](https://github.com/jitsi/docker-jitsi-meet/releases/tag/stable-10888), 6 days ago) - Jitsi Meet on Docker
+- [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) ([stable-10888](https://github.com/jitsi/docker-jitsi-meet/releases/tag/stable-10888), 1 week ago) - Jitsi Meet on Docker
 - [dawidd6/action-debian-package](https://github.com/dawidd6/action-debian-package) ([v5](https://github.com/dawidd6/action-debian-package/releases/tag/v5), 3 weeks ago) - :gear: A GitHub Action for building Debian packages
 - [monitoring-plugins/monitoring-plugins](https://github.com/monitoring-plugins/monitoring-plugins) ([v3.0.0-rc2](https://github.com/monitoring-plugins/monitoring-plugins/releases/tag/v3.0.0-rc2), 3 months ago) - A suite of Monitoring Plugins (formerly known as nagios-plugins)
 - [k1nky/netbox-otp-plugin](https://github.com/k1nky/netbox-otp-plugin) ([v1.3.4](https://github.com/k1nky/netbox-otp-plugin/releases/tag/v1.3.4), 3 months ago) - This netbox plugin adds support for one-time password (OTP) to Netbox.
@@ -35,8 +35,8 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [chore: update Nextcloud to 32.0.8](https://github.com/hoellen/docker-nextcloud/pull/162) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (3 days ago)
-- [chore: update Nextcloud to 33.0.2](https://github.com/hoellen/docker-nextcloud/pull/161) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (3 days ago)
+- [chore: update Nextcloud to 32.0.8](https://github.com/hoellen/docker-nextcloud/pull/162) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (4 days ago)
+- [chore: update Nextcloud to 33.0.2](https://github.com/hoellen/docker-nextcloud/pull/161) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (4 days ago)
 - [chore: update Nextcloud to 32.0.7](https://github.com/hoellen/docker-nextcloud/pull/160) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (1 week ago)
 - [chore: update Nextcloud to 33.0.1](https://github.com/hoellen/docker-nextcloud/pull/159) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (1 week ago)
 - [Update docs](https://github.com/hoellen/docker-nextcloud/pull/157) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (1 month ago)
