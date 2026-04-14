@@ -9,8 +9,8 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (3 days ago)
-- [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (3 days ago)
+- [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (4 days ago)
+- [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (4 days ago)
 - [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (1 week ago)
 - [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (1 month ago)
 - [waja/docker-mojolicious](https://github.com/waja/docker-mojolicious) - Docker image for mojolicious (2 months ago)
@@ -27,7 +27,7 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔭 Latest releases I've contributed to
 
-- [monitoring-plugins/monitoring-plugins](https://github.com/monitoring-plugins/monitoring-plugins) ([v3.0.0-rc3](https://github.com/monitoring-plugins/monitoring-plugins/releases/tag/v3.0.0-rc3), today) - A suite of Monitoring Plugins (formerly known as nagios-plugins)
+- [monitoring-plugins/monitoring-plugins](https://github.com/monitoring-plugins/monitoring-plugins) ([v3.0.0-rc3](https://github.com/monitoring-plugins/monitoring-plugins/releases/tag/v3.0.0-rc3), 1 day ago) - A suite of Monitoring Plugins (formerly known as nagios-plugins)
 - [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) ([stable-10888](https://github.com/jitsi/docker-jitsi-meet/releases/tag/stable-10888), 2 weeks ago) - Jitsi Meet on Docker
 - [dawidd6/action-debian-package](https://github.com/dawidd6/action-debian-package) ([v5](https://github.com/dawidd6/action-debian-package/releases/tag/v5), 1 month ago) - :gear: A GitHub Action for building Debian packages
 - [k1nky/netbox-otp-plugin](https://github.com/k1nky/netbox-otp-plugin) ([v1.3.4](https://github.com/k1nky/netbox-otp-plugin/releases/tag/v1.3.4), 4 months ago) - This netbox plugin adds support for one-time password (OTP) to Netbox.
