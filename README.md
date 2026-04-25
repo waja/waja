@@ -37,8 +37,8 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 - [chore: update Nextcloud to 32.0.8](https://github.com/hoellen/docker-nextcloud/pull/162) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (3 weeks ago)
 - [chore: update Nextcloud to 33.0.2](https://github.com/hoellen/docker-nextcloud/pull/161) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (3 weeks ago)
-- [chore: update Nextcloud to 32.0.7](https://github.com/hoellen/docker-nextcloud/pull/160) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (4 weeks ago)
-- [chore: update Nextcloud to 33.0.1](https://github.com/hoellen/docker-nextcloud/pull/159) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (4 weeks ago)
+- [chore: update Nextcloud to 32.0.7](https://github.com/hoellen/docker-nextcloud/pull/160) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (1 month ago)
+- [chore: update Nextcloud to 33.0.1](https://github.com/hoellen/docker-nextcloud/pull/159) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (1 month ago)
 - [Update docs](https://github.com/hoellen/docker-nextcloud/pull/157) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (2 months ago)
 
 ### 📓 Gists I wrote
