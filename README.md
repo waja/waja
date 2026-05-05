@@ -9,11 +9,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (5 days ago)
-- [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (3 weeks ago)
-- [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (3 weeks ago)
-- [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (2 months ago)
-- [waja/docker-mojolicious](https://github.com/waja/docker-mojolicious) - Docker image for mojolicious (3 months ago)
+- [waja/maldetect](https://github.com/waja/maldetect) - Debian packaging of Linux Malware Detect (https://github.com/rfxn/linux-malware-detect) (today)
+- [waja/config-apt-update](https://github.com/waja/config-apt-update) - package for automatical Debian update notification via mail (today)
+- [waja/backuppc-helper](https://github.com/waja/backuppc-helper) - helper scripts used by backuppc to create LVM snapshots (today)
+- [waja/dns-flood-detector](https://github.com/waja/dns-flood-detector) - Mirror of the Debian dns-flood-detector package http://packages.qa.debian.org/dns-flood-detector (today)
+- [waja/pkg-monitoring-plugins](https://github.com/waja/pkg-monitoring-plugins) - Mirror of the Debian momitoring-plugins package http://packages.qa.debian.org/monitoring-plugins (today)
 
 ### 🌱 My latest projects
 
