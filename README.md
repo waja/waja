@@ -9,11 +9,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [waja/maldetect](https://github.com/waja/maldetect) - Debian packaging of Linux Malware Detect (https://github.com/rfxn/linux-malware-detect) (1 day ago)
-- [waja/config-apt-update](https://github.com/waja/config-apt-update) - package for automatical Debian update notification via mail (1 day ago)
-- [waja/backuppc-helper](https://github.com/waja/backuppc-helper) - helper scripts used by backuppc to create LVM snapshots (1 day ago)
-- [waja/dns-flood-detector](https://github.com/waja/dns-flood-detector) - Mirror of the Debian dns-flood-detector package http://packages.qa.debian.org/dns-flood-detector (1 day ago)
-- [waja/pkg-monitoring-plugins](https://github.com/waja/pkg-monitoring-plugins) - Mirror of the Debian momitoring-plugins package http://packages.qa.debian.org/monitoring-plugins (1 day ago)
+- [waja/maldetect](https://github.com/waja/maldetect) - Debian packaging of Linux Malware Detect (https://github.com/rfxn/linux-malware-detect) (2 days ago)
+- [waja/config-apt-update](https://github.com/waja/config-apt-update) - package for automatical Debian update notification via mail (2 days ago)
+- [waja/backuppc-helper](https://github.com/waja/backuppc-helper) - helper scripts used by backuppc to create LVM snapshots (2 days ago)
+- [waja/dns-flood-detector](https://github.com/waja/dns-flood-detector) - Mirror of the Debian dns-flood-detector package http://packages.qa.debian.org/dns-flood-detector (2 days ago)
+- [waja/pkg-monitoring-plugins](https://github.com/waja/pkg-monitoring-plugins) - Mirror of the Debian momitoring-plugins package http://packages.qa.debian.org/monitoring-plugins (2 days ago)
 
 ### 🌱 My latest projects
 
@@ -35,8 +35,8 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [chore: update Nextcloud to 32.0.9](https://github.com/hoellen/docker-nextcloud/pull/164) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (6 days ago)
-- [chore: update Nextcloud to 33.0.3](https://github.com/hoellen/docker-nextcloud/pull/163) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (6 days ago)
+- [chore: update Nextcloud to 32.0.9](https://github.com/hoellen/docker-nextcloud/pull/164) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (1 week ago)
+- [chore: update Nextcloud to 33.0.3](https://github.com/hoellen/docker-nextcloud/pull/163) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (1 week ago)
 - [chore: update Nextcloud to 32.0.8](https://github.com/hoellen/docker-nextcloud/pull/162) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (1 month ago)
 - [chore: update Nextcloud to 33.0.2](https://github.com/hoellen/docker-nextcloud/pull/161) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (1 month ago)
 - [chore: update Nextcloud to 32.0.7](https://github.com/hoellen/docker-nextcloud/pull/160) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (1 month ago)
