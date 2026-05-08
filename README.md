@@ -9,11 +9,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [waja/maldetect](https://github.com/waja/maldetect) - Debian packaging of Linux Malware Detect (https://github.com/rfxn/linux-malware-detect) (2 days ago)
-- [waja/config-apt-update](https://github.com/waja/config-apt-update) - package for automatical Debian update notification via mail (2 days ago)
-- [waja/backuppc-helper](https://github.com/waja/backuppc-helper) - helper scripts used by backuppc to create LVM snapshots (2 days ago)
-- [waja/dns-flood-detector](https://github.com/waja/dns-flood-detector) - Mirror of the Debian dns-flood-detector package http://packages.qa.debian.org/dns-flood-detector (2 days ago)
-- [waja/pkg-monitoring-plugins](https://github.com/waja/pkg-monitoring-plugins) - Mirror of the Debian momitoring-plugins package http://packages.qa.debian.org/monitoring-plugins (2 days ago)
+- [waja/maldetect](https://github.com/waja/maldetect) - Debian packaging of Linux Malware Detect (https://github.com/rfxn/linux-malware-detect) (3 days ago)
+- [waja/config-apt-update](https://github.com/waja/config-apt-update) - package for automatical Debian update notification via mail (3 days ago)
+- [waja/backuppc-helper](https://github.com/waja/backuppc-helper) - helper scripts used by backuppc to create LVM snapshots (3 days ago)
+- [waja/dns-flood-detector](https://github.com/waja/dns-flood-detector) - Mirror of the Debian dns-flood-detector package http://packages.qa.debian.org/dns-flood-detector (3 days ago)
+- [waja/pkg-monitoring-plugins](https://github.com/waja/pkg-monitoring-plugins) - Mirror of the Debian momitoring-plugins package http://packages.qa.debian.org/monitoring-plugins (3 days ago)
 
 ### 🌱 My latest projects
 
@@ -31,7 +31,7 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 - [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) ([stable-10888](https://github.com/jitsi/docker-jitsi-meet/releases/tag/stable-10888), 1 month ago) - Jitsi Meet on Docker
 - [dawidd6/action-debian-package](https://github.com/dawidd6/action-debian-package) ([v5](https://github.com/dawidd6/action-debian-package/releases/tag/v5), 1 month ago) - :gear: A GitHub Action for building Debian packages
 - [k1nky/netbox-otp-plugin](https://github.com/k1nky/netbox-otp-plugin) ([v1.3.4](https://github.com/k1nky/netbox-otp-plugin/releases/tag/v1.3.4), 4 months ago) - This netbox plugin adds support for one-time password (OTP) to Netbox.
-- [waja/froxlor-auto-migration](https://github.com/waja/froxlor-auto-migration) ([debian/0.3](https://github.com/waja/froxlor-auto-migration/releases/tag/debian/0.3), 9 months ago) - Package with helper script running db migrations after Froxlor update
+- [waja/froxlor-auto-migration](https://github.com/waja/froxlor-auto-migration) ([debian/0.3](https://github.com/waja/froxlor-auto-migration/releases/tag/debian/0.3), 10 months ago) - Package with helper script running db migrations after Froxlor update
 
 ### 🔨 My recent Pull Requests
 
