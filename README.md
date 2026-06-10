@@ -9,11 +9,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (6 days ago)
+- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (1 week ago)
 - [waja/docker-mojolicious](https://github.com/waja/docker-mojolicious) - Docker image for mojolicious (2 weeks ago)
-- [waja/docker-garbd](https://github.com/waja/docker-garbd) - Docker image for garbd (2 weeks ago)
+- [waja/docker-garbd](https://github.com/waja/docker-garbd) - Docker image for garbd (3 weeks ago)
 - [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (4 weeks ago)
-- [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (4 weeks ago)
+- [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (1 month ago)
 
 ### 🌱 My latest projects
 
@@ -27,16 +27,16 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔭 Latest releases I've contributed to
 
-- [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) ([stable-11031](https://github.com/jitsi/docker-jitsi-meet/releases/tag/stable-11031), 1 day ago) - Jitsi Meet on Docker
-- [monitoring-plugins/monitoring-plugins](https://github.com/monitoring-plugins/monitoring-plugins) ([v3.0.0-rc4](https://github.com/monitoring-plugins/monitoring-plugins/releases/tag/v3.0.0-rc4), 1 day ago) - A suite of Monitoring Plugins (formerly known as nagios-plugins)
+- [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) ([stable-11031](https://github.com/jitsi/docker-jitsi-meet/releases/tag/stable-11031), 2 days ago) - Jitsi Meet on Docker
+- [monitoring-plugins/monitoring-plugins](https://github.com/monitoring-plugins/monitoring-plugins) ([v3.0.0-rc4](https://github.com/monitoring-plugins/monitoring-plugins/releases/tag/v3.0.0-rc4), 2 days ago) - A suite of Monitoring Plugins (formerly known as nagios-plugins)
 - [dawidd6/action-debian-package](https://github.com/dawidd6/action-debian-package) ([v5](https://github.com/dawidd6/action-debian-package/releases/tag/v5), 2 months ago) - :gear: A GitHub Action for building Debian packages
-- [k1nky/netbox-otp-plugin](https://github.com/k1nky/netbox-otp-plugin) ([v1.3.4](https://github.com/k1nky/netbox-otp-plugin/releases/tag/v1.3.4), 5 months ago) - This netbox plugin adds support for one-time password (OTP) to Netbox.
+- [k1nky/netbox-otp-plugin](https://github.com/k1nky/netbox-otp-plugin) ([v1.3.4](https://github.com/k1nky/netbox-otp-plugin/releases/tag/v1.3.4), 6 months ago) - This netbox plugin adds support for one-time password (OTP) to Netbox.
 - [waja/froxlor-auto-migration](https://github.com/waja/froxlor-auto-migration) ([debian/0.3](https://github.com/waja/froxlor-auto-migration/releases/tag/debian/0.3), 11 months ago) - Package with helper script running db migrations after Froxlor update
 
 ### 🔨 My recent Pull Requests
 
-- [chore: update Nextcloud to 32.0.11](https://github.com/hoellen/docker-nextcloud/pull/166) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (6 days ago)
-- [chore: update Nextcloud to 33.0.5](https://github.com/hoellen/docker-nextcloud/pull/165) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (6 days ago)
+- [chore: update Nextcloud to 32.0.11](https://github.com/hoellen/docker-nextcloud/pull/166) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (1 week ago)
+- [chore: update Nextcloud to 33.0.5](https://github.com/hoellen/docker-nextcloud/pull/165) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (1 week ago)
 - [chore: update Nextcloud to 32.0.9](https://github.com/hoellen/docker-nextcloud/pull/164) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (1 month ago)
 - [chore: update Nextcloud to 33.0.3](https://github.com/hoellen/docker-nextcloud/pull/163) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (1 month ago)
 - [chore: update Nextcloud to 32.0.8](https://github.com/hoellen/docker-nextcloud/pull/162) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (2 months ago)
