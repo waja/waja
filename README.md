@@ -9,7 +9,7 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (4 days ago)
+- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (5 days ago)
 - [waja/debbuildenv](https://github.com/waja/debbuildenv) -  (1 week ago)
 - [waja/docker-mojolicious](https://github.com/waja/docker-mojolicious) - Docker image for mojolicious (2 weeks ago)
 - [waja/docker-garbd](https://github.com/waja/docker-garbd) - Docker image for garbd (1 month ago)
@@ -27,7 +27,7 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔭 Latest releases I've contributed to
 
-- [monitoring-plugins/monitoring-plugins](https://github.com/monitoring-plugins/monitoring-plugins) ([v3.0.0](https://github.com/monitoring-plugins/monitoring-plugins/releases/tag/v3.0.0), 1 week ago) - A suite of Monitoring Plugins (formerly known as nagios-plugins)
+- [monitoring-plugins/monitoring-plugins](https://github.com/monitoring-plugins/monitoring-plugins) ([v3.0.0](https://github.com/monitoring-plugins/monitoring-plugins/releases/tag/v3.0.0), 2 weeks ago) - A suite of Monitoring Plugins (formerly known as nagios-plugins)
 - [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) ([stable-11031](https://github.com/jitsi/docker-jitsi-meet/releases/tag/stable-11031), 3 weeks ago) - Jitsi Meet on Docker
 - [dawidd6/action-debian-package](https://github.com/dawidd6/action-debian-package) ([v5](https://github.com/dawidd6/action-debian-package/releases/tag/v5), 3 months ago) - :gear: A GitHub Action for building Debian packages
 - [waja/froxlor-auto-migration](https://github.com/waja/froxlor-auto-migration) ([debian/0.3](https://github.com/waja/froxlor-auto-migration/releases/tag/debian/0.3), 11 months ago) - Package with helper script running db migrations after Froxlor update
@@ -35,9 +35,9 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [chore: update Nextcloud to 32.0.12](https://github.com/hoellen/docker-nextcloud/pull/171) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (3 days ago)
-- [chore: update Nextcloud to 33.0.6](https://github.com/hoellen/docker-nextcloud/pull/170) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (4 days ago)
-- [chore: update Nextcloud to 34.0.1](https://github.com/hoellen/docker-nextcloud/pull/169) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (4 days ago)
+- [chore: update Nextcloud to 32.0.12](https://github.com/hoellen/docker-nextcloud/pull/171) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (4 days ago)
+- [chore: update Nextcloud to 33.0.6](https://github.com/hoellen/docker-nextcloud/pull/170) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (5 days ago)
+- [chore: update Nextcloud to 34.0.1](https://github.com/hoellen/docker-nextcloud/pull/169) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (5 days ago)
 - [chore: update Nextcloud to 32.0.11](https://github.com/hoellen/docker-nextcloud/pull/166) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (3 weeks ago)
 - [chore: update Nextcloud to 33.0.5](https://github.com/hoellen/docker-nextcloud/pull/165) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (3 weeks ago)
 
