@@ -27,7 +27,7 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔭 Latest releases I've contributed to
 
-- [monitoring-plugins/monitoring-plugins](https://github.com/monitoring-plugins/monitoring-plugins) ([v3.0.0](https://github.com/monitoring-plugins/monitoring-plugins/releases/tag/v3.0.0), 2 weeks ago) - A suite of Monitoring Plugins (formerly known as nagios-plugins)
+- [monitoring-plugins/monitoring-plugins](https://github.com/monitoring-plugins/monitoring-plugins) ([v3.0.1](https://github.com/monitoring-plugins/monitoring-plugins/releases/tag/v3.0.1), today) - A suite of Monitoring Plugins (formerly known as nagios-plugins)
 - [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) ([stable-11031](https://github.com/jitsi/docker-jitsi-meet/releases/tag/stable-11031), 3 weeks ago) - Jitsi Meet on Docker
 - [dawidd6/action-debian-package](https://github.com/dawidd6/action-debian-package) ([v5](https://github.com/dawidd6/action-debian-package/releases/tag/v5), 3 months ago) - :gear: A GitHub Action for building Debian packages
 - [waja/froxlor-auto-migration](https://github.com/waja/froxlor-auto-migration) ([debian/0.3](https://github.com/waja/froxlor-auto-migration/releases/tag/debian/0.3), 11 months ago) - Package with helper script running db migrations after Froxlor update
