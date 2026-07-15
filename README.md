@@ -9,9 +9,9 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [waja/docker-mojolicious](https://github.com/waja/docker-mojolicious) - Docker image for mojolicious (today)
-- [waja/docker-garbd](https://github.com/waja/docker-garbd) - Docker image for garbd (today)
-- [waja/debbuildenv](https://github.com/waja/debbuildenv) -  (1 day ago)
+- [waja/docker-mojolicious](https://github.com/waja/docker-mojolicious) - Docker image for mojolicious (1 day ago)
+- [waja/docker-garbd](https://github.com/waja/docker-garbd) - Docker image for garbd (1 day ago)
+- [waja/debbuildenv](https://github.com/waja/debbuildenv) -  (2 days ago)
 - [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (1 week ago)
 - [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (1 week ago)
 
@@ -27,7 +27,7 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔭 Latest releases I've contributed to
 
-- [monitoring-plugins/monitoring-plugins](https://github.com/monitoring-plugins/monitoring-plugins) ([v3.0.1](https://github.com/monitoring-plugins/monitoring-plugins/releases/tag/v3.0.1), 1 week ago) - A suite of Monitoring Plugins (formerly known as nagios-plugins)
+- [monitoring-plugins/monitoring-plugins](https://github.com/monitoring-plugins/monitoring-plugins) ([v3.0.1](https://github.com/monitoring-plugins/monitoring-plugins/releases/tag/v3.0.1), 2 weeks ago) - A suite of Monitoring Plugins (formerly known as nagios-plugins)
 - [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) ([stable-11031](https://github.com/jitsi/docker-jitsi-meet/releases/tag/stable-11031), 1 month ago) - Jitsi Meet on Docker
 - [dawidd6/action-debian-package](https://github.com/dawidd6/action-debian-package) ([v5](https://github.com/dawidd6/action-debian-package/releases/tag/v5), 4 months ago) - :gear: A GitHub Action for building Debian packages
 - [waja/froxlor-auto-migration](https://github.com/waja/froxlor-auto-migration) ([debian/0.3](https://github.com/waja/froxlor-auto-migration/releases/tag/debian/0.3), 1 year ago) - Package with helper script running db migrations after Froxlor update
