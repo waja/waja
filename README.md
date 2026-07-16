@@ -9,11 +9,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) - Docker image for calcardbackup: https://codeberg.org/BernieO/calcardbackup (today)
-- [waja/docker-nginx](https://github.com/waja/docker-nginx) - Alpine container image with installed nginx (today)
-- [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (today)
-- [waja/docker-mojolicious](https://github.com/waja/docker-mojolicious) - Docker image for mojolicious (1 day ago)
-- [waja/docker-garbd](https://github.com/waja/docker-garbd) - Docker image for garbd (1 day ago)
+- [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) - Docker image for calcardbackup: https://codeberg.org/BernieO/calcardbackup (1 day ago)
+- [waja/docker-nginx](https://github.com/waja/docker-nginx) - Alpine container image with installed nginx (1 day ago)
+- [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (1 day ago)
+- [waja/docker-mojolicious](https://github.com/waja/docker-mojolicious) - Docker image for mojolicious (2 days ago)
+- [waja/docker-garbd](https://github.com/waja/docker-garbd) - Docker image for garbd (2 days ago)
 
 ### 🌱 My latest projects
 
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [Fix/ansi test output](https://github.com/waja/docker-speedtest/pull/169) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (today)
-- [fix: add debugging to Docker image test step](https://github.com/waja/docker-speedtest/pull/168) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (today)
-- [chore: Update calcardbackup to 11.0.2](https://github.com/waja/docker-calcardbackup/pull/204) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (today)
+- [Fix/ansi test output](https://github.com/waja/docker-speedtest/pull/169) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (1 day ago)
+- [fix: add debugging to Docker image test step](https://github.com/waja/docker-speedtest/pull/168) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (1 day ago)
+- [chore: Update calcardbackup to 11.0.2](https://github.com/waja/docker-calcardbackup/pull/204) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (1 day ago)
 - [chore: update Nextcloud to 32.0.12](https://github.com/hoellen/docker-nextcloud/pull/171) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (2 weeks ago)
-- [chore: update Nextcloud to 33.0.6](https://github.com/hoellen/docker-nextcloud/pull/170) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (2 weeks ago)
+- [chore: update Nextcloud to 33.0.6](https://github.com/hoellen/docker-nextcloud/pull/170) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (3 weeks ago)
 
 ### 📓 Gists I wrote
 
