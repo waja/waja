@@ -10,9 +10,9 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 
 - [waja/backuppc-helper](https://github.com/waja/backuppc-helper) - helper scripts used by backuppc to create LVM snapshots (2 days ago)
-- [waja/docker-nginx](https://github.com/waja/docker-nginx) - Alpine container image with installed nginx (4 days ago)
 - [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (4 days ago)
 - [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) - Docker image for calcardbackup: https://codeberg.org/BernieO/calcardbackup (4 days ago)
+- [waja/docker-nginx](https://github.com/waja/docker-nginx) - Alpine container image with installed nginx (4 days ago)
 - [waja/docker-mojolicious](https://github.com/waja/docker-mojolicious) - Docker image for mojolicious (5 days ago)
 
 ### 🌱 My latest projects
