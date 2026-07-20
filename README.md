@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [fix: add debugging to Docker image test step](https://github.com/waja/docker-mojolicious/pull/120) on [waja/docker-mojolicious](https://github.com/waja/docker-mojolicious) (today)
 - [Pve](https://github.com/waja/backuppc-helper/pull/7) on [waja/backuppc-helper](https://github.com/waja/backuppc-helper) (3 days ago)
 - [Fix/ansi test output](https://github.com/waja/docker-speedtest/pull/169) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (5 days ago)
 - [fix: add debugging to Docker image test step](https://github.com/waja/docker-speedtest/pull/168) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (5 days ago)
 - [chore: Update calcardbackup to 11.0.2](https://github.com/waja/docker-calcardbackup/pull/204) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (5 days ago)
-- [chore: update Nextcloud to 32.0.12](https://github.com/hoellen/docker-nextcloud/pull/171) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (3 weeks ago)
 
 ### 📓 Gists I wrote
 
