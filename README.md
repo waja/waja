@@ -9,11 +9,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [waja/ansible-role-docker-servicestack](https://github.com/waja/ansible-role-docker-servicestack) -  (today)
-- [waja/docker-mojolicious](https://github.com/waja/docker-mojolicious) - Docker image for mojolicious (today)
-- [waja/ansible-role-docker-tools](https://github.com/waja/ansible-role-docker-tools) -  (today)
-- [waja/docker-garbd](https://github.com/waja/docker-garbd) - Docker image for garbd (today)
 - [waja/docker-nscan](https://github.com/waja/docker-nscan) - Docker container image for https://github.com/OffensivePython/Nscan (today)
+- [waja/docker-mojolicious](https://github.com/waja/docker-mojolicious) - Docker image for mojolicious (today)
+- [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (today)
+- [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (today)
+- [waja/docker-php83-fpm](https://github.com/waja/docker-php83-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.3-fpm-alpine (today)
 
 ### 🌱 My latest projects
 
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [fix: add debugging to Docker image test step](https://github.com/waja/docker-php85-fpm/pull/98) on [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) (today)
 - [fix: add debugging to Docker image test step](https://github.com/waja/docker-php84-fpm/pull/136) on [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) (today)
 - [fix: add debugging to Docker image test step](https://github.com/waja/docker-php83-fpm/pull/146) on [waja/docker-php83-fpm](https://github.com/waja/docker-php83-fpm) (today)
 - [Fix/test output](https://github.com/waja/docker-dovecot/pull/121) on [waja/docker-dovecot](https://github.com/waja/docker-dovecot) (today)
 - [fix: add debugging to Docker image test step](https://github.com/waja/docker-php82-fpm/pull/162) on [waja/docker-php82-fpm](https://github.com/waja/docker-php82-fpm) (today)
-- [chore: Update socat to 1.8.1.3-r0](https://github.com/waja/docker-dovecot/pull/120) on [waja/docker-dovecot](https://github.com/waja/docker-dovecot) (today)
 
 ### 📓 Gists I wrote
 
