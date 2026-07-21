@@ -9,11 +9,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
+- [waja/ansible-role-docker-config](https://github.com/waja/ansible-role-docker-config) -  (today)
+- [waja/ansible-role-docker-tools](https://github.com/waja/ansible-role-docker-tools) -  (today)
+- [waja/ansible-role-docker-servicestack](https://github.com/waja/ansible-role-docker-servicestack) -  (today)
 - [waja/backuppc-helper](https://github.com/waja/backuppc-helper) - helper scripts used by backuppc to create LVM snapshots (4 days ago)
-- [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (6 days ago)
-- [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) - Docker image for calcardbackup: https://codeberg.org/BernieO/calcardbackup (6 days ago)
 - [waja/docker-nginx](https://github.com/waja/docker-nginx) - Alpine container image with installed nginx (6 days ago)
-- [waja/docker-mojolicious](https://github.com/waja/docker-mojolicious) - Docker image for mojolicious (1 week ago)
 
 ### 🌱 My latest projects
 
