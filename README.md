@@ -9,11 +9,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [waja/docker-nscan](https://github.com/waja/docker-nscan) - Docker container image for https://github.com/OffensivePython/Nscan (today)
-- [waja/docker-mojolicious](https://github.com/waja/docker-mojolicious) - Docker image for mojolicious (today)
-- [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (today)
-- [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (today)
-- [waja/docker-php83-fpm](https://github.com/waja/docker-php83-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.3-fpm-alpine (today)
+- [waja/docker-nscan](https://github.com/waja/docker-nscan) - Docker container image for https://github.com/OffensivePython/Nscan (1 day ago)
+- [waja/docker-mojolicious](https://github.com/waja/docker-mojolicious) - Docker image for mojolicious (1 day ago)
+- [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (1 day ago)
+- [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (1 day ago)
+- [waja/docker-php83-fpm](https://github.com/waja/docker-php83-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.3-fpm-alpine (1 day ago)
 
 ### 🌱 My latest projects
 
@@ -27,19 +27,19 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔭 Latest releases I've contributed to
 
-- [waja/backuppc-helper](https://github.com/waja/backuppc-helper) ([debian/0.2.0](https://github.com/waja/backuppc-helper/releases/tag/debian/0.2.0), 4 days ago) - helper scripts used by backuppc to create LVM snapshots
-- [monitoring-plugins/monitoring-plugins](https://github.com/monitoring-plugins/monitoring-plugins) ([v3.0.1](https://github.com/monitoring-plugins/monitoring-plugins/releases/tag/v3.0.1), 2 weeks ago) - A suite of Monitoring Plugins (formerly known as nagios-plugins)
+- [waja/backuppc-helper](https://github.com/waja/backuppc-helper) ([debian/0.2.0](https://github.com/waja/backuppc-helper/releases/tag/debian/0.2.0), 5 days ago) - helper scripts used by backuppc to create LVM snapshots
+- [monitoring-plugins/monitoring-plugins](https://github.com/monitoring-plugins/monitoring-plugins) ([v3.0.1](https://github.com/monitoring-plugins/monitoring-plugins/releases/tag/v3.0.1), 3 weeks ago) - A suite of Monitoring Plugins (formerly known as nagios-plugins)
 - [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) ([stable-11031](https://github.com/jitsi/docker-jitsi-meet/releases/tag/stable-11031), 1 month ago) - Jitsi Meet on Docker
 - [dawidd6/action-debian-package](https://github.com/dawidd6/action-debian-package) ([v5](https://github.com/dawidd6/action-debian-package/releases/tag/v5), 4 months ago) - :gear: A GitHub Action for building Debian packages
 - [waja/froxlor-auto-migration](https://github.com/waja/froxlor-auto-migration) ([debian/0.3](https://github.com/waja/froxlor-auto-migration/releases/tag/debian/0.3), 1 year ago) - Package with helper script running db migrations after Froxlor update
 
 ### 🔨 My recent Pull Requests
 
-- [fix: add debugging to Docker image test step](https://github.com/waja/docker-php85-fpm/pull/98) on [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) (today)
-- [fix: add debugging to Docker image test step](https://github.com/waja/docker-php84-fpm/pull/136) on [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) (today)
-- [fix: add debugging to Docker image test step](https://github.com/waja/docker-php83-fpm/pull/146) on [waja/docker-php83-fpm](https://github.com/waja/docker-php83-fpm) (today)
-- [Fix/test output](https://github.com/waja/docker-dovecot/pull/121) on [waja/docker-dovecot](https://github.com/waja/docker-dovecot) (today)
-- [fix: add debugging to Docker image test step](https://github.com/waja/docker-php82-fpm/pull/162) on [waja/docker-php82-fpm](https://github.com/waja/docker-php82-fpm) (today)
+- [fix: add debugging to Docker image test step](https://github.com/waja/docker-php85-fpm/pull/98) on [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) (1 day ago)
+- [fix: add debugging to Docker image test step](https://github.com/waja/docker-php84-fpm/pull/136) on [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) (1 day ago)
+- [fix: add debugging to Docker image test step](https://github.com/waja/docker-php83-fpm/pull/146) on [waja/docker-php83-fpm](https://github.com/waja/docker-php83-fpm) (1 day ago)
+- [Fix/test output](https://github.com/waja/docker-dovecot/pull/121) on [waja/docker-dovecot](https://github.com/waja/docker-dovecot) (1 day ago)
+- [fix: add debugging to Docker image test step](https://github.com/waja/docker-php82-fpm/pull/162) on [waja/docker-php82-fpm](https://github.com/waja/docker-php82-fpm) (1 day ago)
 
 ### 📓 Gists I wrote
 
