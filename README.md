@@ -9,8 +9,8 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [waja/docker-nscan](https://github.com/waja/docker-nscan) - Docker container image for https://github.com/OffensivePython/Nscan (2 days ago)
-- [waja/docker-mojolicious](https://github.com/waja/docker-mojolicious) - Docker image for mojolicious (2 days ago)
+- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (today)
+- [waja/ansible-role-docker-tools](https://github.com/waja/ansible-role-docker-tools) -  (2 days ago)
 - [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (2 days ago)
 - [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (2 days ago)
 - [waja/docker-php83-fpm](https://github.com/waja/docker-php83-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.3-fpm-alpine (2 days ago)
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [chore: update Nextcloud to 32.0.13](https://github.com/hoellen/docker-nextcloud/pull/174) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (today)
+- [chore: update Nextcloud to 33.0.7](https://github.com/hoellen/docker-nextcloud/pull/173) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (today)
+- [chore: update Nextcloud to 34.0.2](https://github.com/hoellen/docker-nextcloud/pull/172) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (today)
 - [fix: add debugging to Docker image test step](https://github.com/waja/docker-php85-fpm/pull/98) on [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) (2 days ago)
 - [fix: add debugging to Docker image test step](https://github.com/waja/docker-php84-fpm/pull/136) on [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) (2 days ago)
-- [fix: add debugging to Docker image test step](https://github.com/waja/docker-php83-fpm/pull/146) on [waja/docker-php83-fpm](https://github.com/waja/docker-php83-fpm) (2 days ago)
-- [Fix/test output](https://github.com/waja/docker-dovecot/pull/121) on [waja/docker-dovecot](https://github.com/waja/docker-dovecot) (2 days ago)
-- [fix: add debugging to Docker image test step](https://github.com/waja/docker-php82-fpm/pull/162) on [waja/docker-php82-fpm](https://github.com/waja/docker-php82-fpm) (2 days ago)
 
 ### 📓 Gists I wrote
 
