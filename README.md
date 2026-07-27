@@ -9,11 +9,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (2 days ago)
-- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (3 days ago)
-- [waja/ansible-role-docker-config](https://github.com/waja/ansible-role-docker-config) -  (5 days ago)
-- [waja/docker-php83-fpm](https://github.com/waja/docker-php83-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.3-fpm-alpine (5 days ago)
-- [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (5 days ago)
+- [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (3 days ago)
+- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (4 days ago)
+- [waja/ansible-role-docker-config](https://github.com/waja/ansible-role-docker-config) -  (6 days ago)
+- [waja/docker-php83-fpm](https://github.com/waja/docker-php83-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.3-fpm-alpine (6 days ago)
+- [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (6 days ago)
 
 ### 🌱 My latest projects
 
@@ -27,7 +27,7 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔭 Latest releases I've contributed to
 
-- [monitoring-plugins/monitoring-plugins](https://github.com/monitoring-plugins/monitoring-plugins) ([v3.0.2](https://github.com/monitoring-plugins/monitoring-plugins/releases/tag/v3.0.2), today) - A suite of Monitoring Plugins (formerly known as nagios-plugins)
+- [monitoring-plugins/monitoring-plugins](https://github.com/monitoring-plugins/monitoring-plugins) ([v3.0.2](https://github.com/monitoring-plugins/monitoring-plugins/releases/tag/v3.0.2), 1 day ago) - A suite of Monitoring Plugins (formerly known as nagios-plugins)
 - [waja/backuppc-helper](https://github.com/waja/backuppc-helper) ([debian/0.2.0](https://github.com/waja/backuppc-helper/releases/tag/debian/0.2.0), 1 week ago) - helper scripts used by backuppc to create LVM snapshots
 - [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) ([stable-11031](https://github.com/jitsi/docker-jitsi-meet/releases/tag/stable-11031), 1 month ago) - Jitsi Meet on Docker
 - [dawidd6/action-debian-package](https://github.com/dawidd6/action-debian-package) ([v5](https://github.com/dawidd6/action-debian-package/releases/tag/v5), 4 months ago) - :gear: A GitHub Action for building Debian packages
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [chore(deps): update dependency netbox-inventory to v2.5.1](https://github.com/tmtde/docker-netbox/pull/257) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (2 days ago)
-- [chore(deps): update dependency netbox-floorplan-plugin to v0.9.1](https://github.com/tmtde/docker-netbox/pull/256) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (2 days ago)
-- [chore: update Nextcloud to 32.0.13](https://github.com/hoellen/docker-nextcloud/pull/174) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (3 days ago)
-- [chore: update Nextcloud to 33.0.7](https://github.com/hoellen/docker-nextcloud/pull/173) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (3 days ago)
-- [chore: update Nextcloud to 34.0.2](https://github.com/hoellen/docker-nextcloud/pull/172) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (3 days ago)
+- [chore(deps): update dependency netbox-inventory to v2.5.1](https://github.com/tmtde/docker-netbox/pull/257) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (3 days ago)
+- [chore(deps): update dependency netbox-floorplan-plugin to v0.9.1](https://github.com/tmtde/docker-netbox/pull/256) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (3 days ago)
+- [chore: update Nextcloud to 32.0.13](https://github.com/hoellen/docker-nextcloud/pull/174) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (4 days ago)
+- [chore: update Nextcloud to 33.0.7](https://github.com/hoellen/docker-nextcloud/pull/173) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (4 days ago)
+- [chore: update Nextcloud to 34.0.2](https://github.com/hoellen/docker-nextcloud/pull/172) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (4 days ago)
 
 ### 📓 Gists I wrote
 
