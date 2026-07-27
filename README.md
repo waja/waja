@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [Use tag 4.0.2, which is the latest version compatible below 5.0](https://github.com/tmtde/docker-netbox/pull/259) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (today)
+- [chore: update Netbox to 4.5.10](https://github.com/tmtde/docker-netbox/pull/258) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (today)
 - [chore(deps): update dependency netbox-inventory to v2.5.1](https://github.com/tmtde/docker-netbox/pull/257) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (3 days ago)
 - [chore(deps): update dependency netbox-floorplan-plugin to v0.9.1](https://github.com/tmtde/docker-netbox/pull/256) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (3 days ago)
 - [chore: update Nextcloud to 32.0.13](https://github.com/hoellen/docker-nextcloud/pull/174) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (4 days ago)
-- [chore: update Nextcloud to 33.0.7](https://github.com/hoellen/docker-nextcloud/pull/173) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (4 days ago)
-- [chore: update Nextcloud to 34.0.2](https://github.com/hoellen/docker-nextcloud/pull/172) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (4 days ago)
 
 ### 📓 Gists I wrote
 
