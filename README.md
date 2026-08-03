@@ -9,7 +9,7 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (2 days ago)
+- [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (3 days ago)
 - [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (1 week ago)
 - [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) - Docker image for calcardbackup: https://codeberg.org/BernieO/calcardbackup (1 week ago)
 - [waja/docker-mojolicious](https://github.com/waja/docker-mojolicious) - Docker image for mojolicious (1 week ago)
@@ -35,10 +35,10 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [Revert &#34;Use tag 4.0.2, which is the latest version compatible below 5.0&#34;](https://github.com/tmtde/docker-netbox/pull/265) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (2 days ago)
-- [chore: update Netbox to 4.6.6](https://github.com/tmtde/docker-netbox/pull/264) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (3 days ago)
-- [Use tag 4.0.2, which is the latest version compatible below 5.0](https://github.com/tmtde/docker-netbox/pull/259) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (6 days ago)
-- [chore: update Netbox to 4.5.10](https://github.com/tmtde/docker-netbox/pull/258) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (6 days ago)
+- [Revert &#34;Use tag 4.0.2, which is the latest version compatible below 5.0&#34;](https://github.com/tmtde/docker-netbox/pull/265) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (3 days ago)
+- [chore: update Netbox to 4.6.6](https://github.com/tmtde/docker-netbox/pull/264) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (4 days ago)
+- [Use tag 4.0.2, which is the latest version compatible below 5.0](https://github.com/tmtde/docker-netbox/pull/259) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (1 week ago)
+- [chore: update Netbox to 4.5.10](https://github.com/tmtde/docker-netbox/pull/258) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (1 week ago)
 - [chore(deps): update dependency netbox-inventory to v2.5.1](https://github.com/tmtde/docker-netbox/pull/257) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (1 week ago)
 
 ### 📓 Gists I wrote
