@@ -9,11 +9,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (today)
-- [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) - Docker image for calcardbackup: https://codeberg.org/BernieO/calcardbackup (1 day ago)
-- [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (1 day ago)
-- [monitoring-plugins/monitoring-plugins](https://github.com/monitoring-plugins/monitoring-plugins) - A suite of Monitoring Plugins (formerly known as nagios-plugins) (1 day ago)
-- [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (4 days ago)
+- [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (1 day ago)
+- [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) - Docker image for calcardbackup: https://codeberg.org/BernieO/calcardbackup (2 days ago)
+- [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (2 days ago)
+- [monitoring-plugins/monitoring-plugins](https://github.com/monitoring-plugins/monitoring-plugins) - A suite of Monitoring Plugins (formerly known as nagios-plugins) (2 days ago)
+- [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (5 days ago)
 
 ### 🌱 My latest projects
 
@@ -27,7 +27,7 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔭 Latest releases I've contributed to
 
-- [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) ([stable-11146](https://github.com/jitsi/docker-jitsi-meet/releases/tag/stable-11146), 1 day ago) - Jitsi Meet on Docker
+- [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) ([stable-11146](https://github.com/jitsi/docker-jitsi-meet/releases/tag/stable-11146), 2 days ago) - Jitsi Meet on Docker
 - [monitoring-plugins/monitoring-plugins](https://github.com/monitoring-plugins/monitoring-plugins) ([v3.0.2](https://github.com/monitoring-plugins/monitoring-plugins/releases/tag/v3.0.2), 1 week ago) - A suite of Monitoring Plugins (formerly known as nagios-plugins)
 - [waja/backuppc-helper](https://github.com/waja/backuppc-helper) ([debian/0.2.0](https://github.com/waja/backuppc-helper/releases/tag/debian/0.2.0), 2 weeks ago) - helper scripts used by backuppc to create LVM snapshots
 - [dawidd6/action-debian-package](https://github.com/dawidd6/action-debian-package) ([v5](https://github.com/dawidd6/action-debian-package/releases/tag/v5), 4 months ago) - :gear: A GitHub Action for building Debian packages
@@ -35,9 +35,9 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [fix: Remove heading part of string, to have it more predictable](https://github.com/waja/docker-calcardbackup/pull/207) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (1 day ago)
-- [Revert &#34;Use tag 4.0.2, which is the latest version compatible below 5.0&#34;](https://github.com/tmtde/docker-netbox/pull/265) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (4 days ago)
-- [chore: update Netbox to 4.6.6](https://github.com/tmtde/docker-netbox/pull/264) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (5 days ago)
+- [fix: Remove heading part of string, to have it more predictable](https://github.com/waja/docker-calcardbackup/pull/207) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (2 days ago)
+- [Revert &#34;Use tag 4.0.2, which is the latest version compatible below 5.0&#34;](https://github.com/tmtde/docker-netbox/pull/265) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (5 days ago)
+- [chore: update Netbox to 4.6.6](https://github.com/tmtde/docker-netbox/pull/264) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (6 days ago)
 - [Use tag 4.0.2, which is the latest version compatible below 5.0](https://github.com/tmtde/docker-netbox/pull/259) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (1 week ago)
 - [chore: update Netbox to 4.5.10](https://github.com/tmtde/docker-netbox/pull/258) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (1 week ago)
 
