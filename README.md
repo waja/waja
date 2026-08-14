@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [chore: update Nextcloud to 32.0.14](https://github.com/hoellen/docker-nextcloud/pull/177) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (today)
+- [chore: update Nextcloud to 33.0.8](https://github.com/hoellen/docker-nextcloud/pull/176) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (today)
+- [chore: update Nextcloud to 34.0.3](https://github.com/hoellen/docker-nextcloud/pull/175) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (today)
 - [fix: Remove heading part of string, to have it more predictable](https://github.com/waja/docker-calcardbackup/pull/207) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (1 week ago)
 - [Revert &#34;Use tag 4.0.2, which is the latest version compatible below 5.0&#34;](https://github.com/tmtde/docker-netbox/pull/265) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (2 weeks ago)
-- [chore: update Netbox to 4.6.6](https://github.com/tmtde/docker-netbox/pull/264) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (2 weeks ago)
-- [Use tag 4.0.2, which is the latest version compatible below 5.0](https://github.com/tmtde/docker-netbox/pull/259) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (2 weeks ago)
-- [chore: update Netbox to 4.5.10](https://github.com/tmtde/docker-netbox/pull/258) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (2 weeks ago)
 
 ### 📓 Gists I wrote
 
