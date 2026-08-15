@@ -9,8 +9,8 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (today)
-- [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (3 days ago)
+- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (1 day ago)
+- [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (4 days ago)
 - [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (1 week ago)
 - [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) - Docker image for calcardbackup: https://codeberg.org/BernieO/calcardbackup (1 week ago)
 - [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (1 week ago)
@@ -35,9 +35,9 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [chore: update Nextcloud to 32.0.14](https://github.com/hoellen/docker-nextcloud/pull/177) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (today)
-- [chore: update Nextcloud to 33.0.8](https://github.com/hoellen/docker-nextcloud/pull/176) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (today)
-- [chore: update Nextcloud to 34.0.3](https://github.com/hoellen/docker-nextcloud/pull/175) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (today)
+- [chore: update Nextcloud to 32.0.14](https://github.com/hoellen/docker-nextcloud/pull/177) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (1 day ago)
+- [chore: update Nextcloud to 33.0.8](https://github.com/hoellen/docker-nextcloud/pull/176) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (1 day ago)
+- [chore: update Nextcloud to 34.0.3](https://github.com/hoellen/docker-nextcloud/pull/175) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (1 day ago)
 - [fix: Remove heading part of string, to have it more predictable](https://github.com/waja/docker-calcardbackup/pull/207) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (1 week ago)
 - [Revert &#34;Use tag 4.0.2, which is the latest version compatible below 5.0&#34;](https://github.com/tmtde/docker-netbox/pull/265) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (2 weeks ago)
 
