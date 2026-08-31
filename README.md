@@ -9,8 +9,8 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [waja/nextcloud-docker-multiinstance](https://github.com/waja/nextcloud-docker-multiinstance) - Nextcloud Docker multi instance skeleton (5 days ago)
-- [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) - Docker image for calcardbackup: https://codeberg.org/BernieO/calcardbackup (5 days ago)
+- [waja/nextcloud-docker-multiinstance](https://github.com/waja/nextcloud-docker-multiinstance) - Nextcloud Docker multi instance skeleton (6 days ago)
+- [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) - Docker image for calcardbackup: https://codeberg.org/BernieO/calcardbackup (6 days ago)
 - [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (2 weeks ago)
 - [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (2 weeks ago)
 - [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (3 weeks ago)
@@ -27,7 +27,7 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔭 Latest releases I've contributed to
 
-- [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) ([stable-11146-2](https://github.com/jitsi/docker-jitsi-meet/releases/tag/stable-11146-2), 1 week ago) - Jitsi Meet on Docker
+- [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) ([stable-11146-2](https://github.com/jitsi/docker-jitsi-meet/releases/tag/stable-11146-2), 2 weeks ago) - Jitsi Meet on Docker
 - [monitoring-plugins/monitoring-plugins](https://github.com/monitoring-plugins/monitoring-plugins) ([v3.0.3](https://github.com/monitoring-plugins/monitoring-plugins/releases/tag/v3.0.3), 3 weeks ago) - A suite of Monitoring Plugins (formerly known as nagios-plugins)
 - [waja/backuppc-helper](https://github.com/waja/backuppc-helper) ([debian/0.2.0](https://github.com/waja/backuppc-helper/releases/tag/debian/0.2.0), 1 month ago) - helper scripts used by backuppc to create LVM snapshots
 - [dawidd6/action-debian-package](https://github.com/dawidd6/action-debian-package) ([v5](https://github.com/dawidd6/action-debian-package/releases/tag/v5), 5 months ago) - :gear: A GitHub Action for building Debian packages
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [chore: Update calcardbackup to 11.1.0](https://github.com/waja/docker-calcardbackup/pull/210) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (5 days ago)
+- [chore: Update calcardbackup to 11.1.0](https://github.com/waja/docker-calcardbackup/pull/210) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (6 days ago)
 - [chore: update Nextcloud to 32.0.14](https://github.com/hoellen/docker-nextcloud/pull/177) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (2 weeks ago)
 - [chore: update Nextcloud to 33.0.8](https://github.com/hoellen/docker-nextcloud/pull/176) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (2 weeks ago)
 - [chore: update Nextcloud to 34.0.3](https://github.com/hoellen/docker-nextcloud/pull/175) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (2 weeks ago)
-- [fix: Remove heading part of string, to have it more predictable](https://github.com/waja/docker-calcardbackup/pull/207) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (3 weeks ago)
+- [fix: Remove heading part of string, to have it more predictable](https://github.com/waja/docker-calcardbackup/pull/207) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (4 weeks ago)
 
 ### 📓 Gists I wrote
 
