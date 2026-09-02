@@ -9,11 +9,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
+- [waja/monitoring-plugins-cyconet](https://github.com/waja/monitoring-plugins-cyconet) - Monitoring plugins compatible to Nagios/Icinga/Naemon (today)
+- [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (today)
 - [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (1 day ago)
-- [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (1 day ago)
 - [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (2 days ago)
 - [waja/nextcloud-docker-multiinstance](https://github.com/waja/nextcloud-docker-multiinstance) - Nextcloud Docker multi instance skeleton (1 week ago)
-- [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) - Docker image for calcardbackup: https://codeberg.org/BernieO/calcardbackup (1 week ago)
 
 ### 🌱 My latest projects
 
@@ -27,19 +27,19 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔭 Latest releases I've contributed to
 
+- [waja/monitoring-plugins-cyconet](https://github.com/waja/monitoring-plugins-cyconet) ([debian/26.20260902](https://github.com/waja/monitoring-plugins-cyconet/releases/tag/debian/26.20260902), today) - Monitoring plugins compatible to Nagios/Icinga/Naemon
 - [jitsi/docker-jitsi-meet](https://github.com/jitsi/docker-jitsi-meet) ([stable-11146-2](https://github.com/jitsi/docker-jitsi-meet/releases/tag/stable-11146-2), 2 weeks ago) - Jitsi Meet on Docker
 - [monitoring-plugins/monitoring-plugins](https://github.com/monitoring-plugins/monitoring-plugins) ([v3.0.3](https://github.com/monitoring-plugins/monitoring-plugins/releases/tag/v3.0.3), 3 weeks ago) - A suite of Monitoring Plugins (formerly known as nagios-plugins)
 - [waja/backuppc-helper](https://github.com/waja/backuppc-helper) ([debian/0.2.0](https://github.com/waja/backuppc-helper/releases/tag/debian/0.2.0), 1 month ago) - helper scripts used by backuppc to create LVM snapshots
 - [dawidd6/action-debian-package](https://github.com/dawidd6/action-debian-package) ([v5](https://github.com/dawidd6/action-debian-package/releases/tag/v5), 5 months ago) - :gear: A GitHub Action for building Debian packages
-- [waja/froxlor-auto-migration](https://github.com/waja/froxlor-auto-migration) ([debian/0.3](https://github.com/waja/froxlor-auto-migration/releases/tag/debian/0.3), 1 year ago) - Package with helper script running db migrations after Froxlor update
 
 ### 🔨 My recent Pull Requests
 
-- [chore: update Netbox to 4.6.6](https://github.com/tmtde/docker-netbox/pull/275) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (today)
-- [chore: Update calcardbackup to 11.1.0](https://github.com/waja/docker-calcardbackup/pull/210) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (1 week ago)
-- [chore: update Nextcloud to 32.0.14](https://github.com/hoellen/docker-nextcloud/pull/177) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (2 weeks ago)
-- [chore: update Nextcloud to 33.0.8](https://github.com/hoellen/docker-nextcloud/pull/176) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (2 weeks ago)
-- [chore: update Nextcloud to 34.0.3](https://github.com/hoellen/docker-nextcloud/pull/175) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (2 weeks ago)
+- [Feature/release](https://github.com/waja/monitoring-plugins-cyconet/pull/57) on [waja/monitoring-plugins-cyconet](https://github.com/waja/monitoring-plugins-cyconet) (today)
+- [check_pve: Adding python3-requests to Recommends](https://github.com/waja/monitoring-plugins-cyconet/pull/56) on [waja/monitoring-plugins-cyconet](https://github.com/waja/monitoring-plugins-cyconet) (today)
+- [Adding check_pve](https://github.com/waja/monitoring-plugins-cyconet/pull/55) on [waja/monitoring-plugins-cyconet](https://github.com/waja/monitoring-plugins-cyconet) (today)
+- [check_wireguard: Update to 0.6.0](https://github.com/waja/monitoring-plugins-cyconet/pull/54) on [waja/monitoring-plugins-cyconet](https://github.com/waja/monitoring-plugins-cyconet) (today)
+- [check_nwc_health: Update to 12.10.1](https://github.com/waja/monitoring-plugins-cyconet/pull/53) on [waja/monitoring-plugins-cyconet](https://github.com/waja/monitoring-plugins-cyconet) (today)
 
 ### 📓 Gists I wrote
 
