@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [chore: update Netbox to 4.6.6](https://github.com/tmtde/docker-netbox/pull/275) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (today)
 - [chore: Update calcardbackup to 11.1.0](https://github.com/waja/docker-calcardbackup/pull/210) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (1 week ago)
 - [chore: update Nextcloud to 32.0.14](https://github.com/hoellen/docker-nextcloud/pull/177) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (2 weeks ago)
 - [chore: update Nextcloud to 33.0.8](https://github.com/hoellen/docker-nextcloud/pull/176) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (2 weeks ago)
 - [chore: update Nextcloud to 34.0.3](https://github.com/hoellen/docker-nextcloud/pull/175) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (2 weeks ago)
-- [fix: Remove heading part of string, to have it more predictable](https://github.com/waja/docker-calcardbackup/pull/207) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (1 month ago)
 
 ### 📓 Gists I wrote
 
