@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [chore: update Netbox to 4.6.10](https://github.com/tmtde/docker-netbox/pull/278) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (today)
 - [Feature/release](https://github.com/waja/monitoring-plugins-cyconet/pull/57) on [waja/monitoring-plugins-cyconet](https://github.com/waja/monitoring-plugins-cyconet) (today)
 - [check_pve: Adding python3-requests to Recommends](https://github.com/waja/monitoring-plugins-cyconet/pull/56) on [waja/monitoring-plugins-cyconet](https://github.com/waja/monitoring-plugins-cyconet) (today)
 - [Adding check_pve](https://github.com/waja/monitoring-plugins-cyconet/pull/55) on [waja/monitoring-plugins-cyconet](https://github.com/waja/monitoring-plugins-cyconet) (today)
 - [check_wireguard: Update to 0.6.0](https://github.com/waja/monitoring-plugins-cyconet/pull/54) on [waja/monitoring-plugins-cyconet](https://github.com/waja/monitoring-plugins-cyconet) (today)
-- [check_nwc_health: Update to 12.10.1](https://github.com/waja/monitoring-plugins-cyconet/pull/53) on [waja/monitoring-plugins-cyconet](https://github.com/waja/monitoring-plugins-cyconet) (today)
 
 ### 📓 Gists I wrote
 
