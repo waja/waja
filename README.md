@@ -9,11 +9,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
+- [waja/nextcloud-docker-multiinstance](https://github.com/waja/nextcloud-docker-multiinstance) - Nextcloud Docker multi instance skeleton (today)
 - [waja/monitoring-plugins-cyconet](https://github.com/waja/monitoring-plugins-cyconet) - Monitoring plugins compatible to Nagios/Icinga/Naemon (1 day ago)
 - [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (2 days ago)
 - [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (3 days ago)
 - [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (4 days ago)
-- [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) - Docker image for calcardbackup: https://codeberg.org/BernieO/calcardbackup (1 week ago)
 
 ### 🌱 My latest projects
 
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [Feature/pimp renovate](https://github.com/waja/nextcloud-docker-multiinstance/pull/12) on [waja/nextcloud-docker-multiinstance](https://github.com/waja/nextcloud-docker-multiinstance) (today)
 - [Update MariaDB to version 11.8 (LTS)](https://github.com/waja/nextcloud-docker-multiinstance/pull/11) on [waja/nextcloud-docker-multiinstance](https://github.com/waja/nextcloud-docker-multiinstance) (today)
 - [Update to nfrastack/db-backup version 5.0.0](https://github.com/waja/nextcloud-docker-multiinstance/pull/10) on [waja/nextcloud-docker-multiinstance](https://github.com/waja/nextcloud-docker-multiinstance) (today)
 - [check_pve: Adding python3-packaging to Recommends](https://github.com/waja/monitoring-plugins-cyconet/pull/58) on [waja/monitoring-plugins-cyconet](https://github.com/waja/monitoring-plugins-cyconet) (1 day ago)
 - [chore: update Netbox to 4.6.10](https://github.com/tmtde/docker-netbox/pull/278) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (2 days ago)
-- [Feature/release](https://github.com/waja/monitoring-plugins-cyconet/pull/57) on [waja/monitoring-plugins-cyconet](https://github.com/waja/monitoring-plugins-cyconet) (2 days ago)
 
 ### 📓 Gists I wrote
 
