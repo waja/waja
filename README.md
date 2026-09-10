@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [chore: update Nextcloud to 32.0.15](https://github.com/hoellen/docker-nextcloud/pull/180) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (today)
+- [chore: update Nextcloud to 33.0.9](https://github.com/hoellen/docker-nextcloud/pull/179) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (today)
+- [chore: update Nextcloud to 34.0.4](https://github.com/hoellen/docker-nextcloud/pull/178) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (today)
 - [Feature/pimp renovate](https://github.com/waja/nextcloud-docker-multiinstance/pull/12) on [waja/nextcloud-docker-multiinstance](https://github.com/waja/nextcloud-docker-multiinstance) (6 days ago)
 - [Update MariaDB to version 11.8 (LTS)](https://github.com/waja/nextcloud-docker-multiinstance/pull/11) on [waja/nextcloud-docker-multiinstance](https://github.com/waja/nextcloud-docker-multiinstance) (6 days ago)
-- [Update to nfrastack/db-backup version 5.0.0](https://github.com/waja/nextcloud-docker-multiinstance/pull/10) on [waja/nextcloud-docker-multiinstance](https://github.com/waja/nextcloud-docker-multiinstance) (6 days ago)
-- [check_pve: Adding python3-packaging to Recommends](https://github.com/waja/monitoring-plugins-cyconet/pull/58) on [waja/monitoring-plugins-cyconet](https://github.com/waja/monitoring-plugins-cyconet) (1 week ago)
-- [chore: update Netbox to 4.6.10](https://github.com/tmtde/docker-netbox/pull/278) on [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) (1 week ago)
 
 ### 📓 Gists I wrote
 
