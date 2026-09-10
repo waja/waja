@@ -9,9 +9,9 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
+- [waja/KochenMitKI](https://github.com/waja/KochenMitKI) - (Reste-)Kochen mit KI (today)
 - [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (today)
 - [waja/nextcloud-docker-multiinstance](https://github.com/waja/nextcloud-docker-multiinstance) - Nextcloud Docker multi instance skeleton (1 day ago)
-- [waja/KochenMitKI](https://github.com/waja/KochenMitKI) - (Reste-)Kochen mit KI (1 day ago)
 - [waja/monitoring-plugins-cyconet](https://github.com/waja/monitoring-plugins-cyconet) - Monitoring plugins compatible to Nagios/Icinga/Naemon (1 week ago)
 - [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (1 week ago)
 
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [Feature/ci](https://github.com/waja/KochenMitKI/pull/5) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (today)
+- [Feature/script](https://github.com/waja/KochenMitKI/pull/4) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (today)
+- [Fix formatting](https://github.com/waja/KochenMitKI/pull/3) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (today)
 - [chore: update Nextcloud to 32.0.15](https://github.com/hoellen/docker-nextcloud/pull/180) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (today)
 - [chore: update Nextcloud to 33.0.9](https://github.com/hoellen/docker-nextcloud/pull/179) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (today)
-- [chore: update Nextcloud to 34.0.4](https://github.com/hoellen/docker-nextcloud/pull/178) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (today)
-- [Feature/pimp renovate](https://github.com/waja/nextcloud-docker-multiinstance/pull/12) on [waja/nextcloud-docker-multiinstance](https://github.com/waja/nextcloud-docker-multiinstance) (6 days ago)
-- [Update MariaDB to version 11.8 (LTS)](https://github.com/waja/nextcloud-docker-multiinstance/pull/11) on [waja/nextcloud-docker-multiinstance](https://github.com/waja/nextcloud-docker-multiinstance) (6 days ago)
 
 ### 📓 Gists I wrote
 
