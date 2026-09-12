@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [Streamline recipes and add template](https://github.com/waja/KochenMitKI/pull/9) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (today)
 - [Feature/ci](https://github.com/waja/KochenMitKI/pull/5) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (2 days ago)
 - [Feature/script](https://github.com/waja/KochenMitKI/pull/4) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (2 days ago)
 - [Fix formatting](https://github.com/waja/KochenMitKI/pull/3) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (2 days ago)
 - [chore: update Nextcloud to 32.0.15](https://github.com/hoellen/docker-nextcloud/pull/180) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (2 days ago)
-- [chore: update Nextcloud to 33.0.9](https://github.com/hoellen/docker-nextcloud/pull/179) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (2 days ago)
 
 ### 📓 Gists I wrote
 
