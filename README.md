@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [chore(tools): parameterize container versions and wire up Renovate](https://github.com/waja/KochenMitKI/pull/23) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (today)
+- [chore: Update index.md and README.md](https://github.com/waja/KochenMitKI/pull/21) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (today)
+- [ci(test): verify README.md and index.md are up to date](https://github.com/waja/KochenMitKI/pull/20) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (today)
 - [chore: add Docker-based Makefile tooling](https://github.com/waja/KochenMitKI/pull/18) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (today)
 - [feat(template): add preperation, variations, rating sections](https://github.com/waja/KochenMitKI/pull/17) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (today)
-- [chore(gitignore): ignore build artifacts from PDF workflow](https://github.com/waja/KochenMitKI/pull/16) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (today)
-- [Adding 04_Mediterran/Zitroniges_griechisches_Schmorgemuese_Aubergine_…](https://github.com/waja/KochenMitKI/pull/10) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (today)
-- [Streamline recipes and add template](https://github.com/waja/KochenMitKI/pull/9) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (1 day ago)
 
 ### 📓 Gists I wrote
 
