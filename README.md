@@ -35,7 +35,7 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [Feature/15 lint frontmatter](https://github.com/waja/KochenMitKI/pull/24) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (1 day ago)
+- [ci: add YAML frontmatter validation to local and release checks](https://github.com/waja/KochenMitKI/pull/24) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (1 day ago)
 - [chore(tools): parameterize container versions and wire up Renovate](https://github.com/waja/KochenMitKI/pull/23) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (1 day ago)
 - [chore: Update index.md and README.md](https://github.com/waja/KochenMitKI/pull/21) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (1 day ago)
 - [ci(test): verify README.md and index.md are up to date](https://github.com/waja/KochenMitKI/pull/20) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (1 day ago)
