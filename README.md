@@ -9,11 +9,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
+- [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) - Docker image for calcardbackup: https://codeberg.org/BernieO/calcardbackup (today)
 - [waja/nextcloud-docker-multiinstance](https://github.com/waja/nextcloud-docker-multiinstance) - Nextcloud Docker multi instance skeleton (1 day ago)
 - [waja/KochenMitKI](https://github.com/waja/KochenMitKI) - (Reste-)Kochen mit KI (5 days ago)
 - [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (1 week ago)
 - [waja/monitoring-plugins-cyconet](https://github.com/waja/monitoring-plugins-cyconet) - Monitoring plugins compatible to Nagios/Icinga/Naemon (2 weeks ago)
-- [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (2 weeks ago)
 
 ### 🌱 My latest projects
 
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [chore: Update calcardbackup to 11.1.1](https://github.com/waja/docker-calcardbackup/pull/216) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (today)
 - [Feature/update check](https://github.com/waja/nextcloud-docker-multiinstance/pull/15) on [waja/nextcloud-docker-multiinstance](https://github.com/waja/nextcloud-docker-multiinstance) (1 day ago)
 - [chore: update Nextcloud to 35](https://github.com/waja/nextcloud-docker-multiinstance/pull/14) on [waja/nextcloud-docker-multiinstance](https://github.com/waja/nextcloud-docker-multiinstance) (1 day ago)
 - [ci: add YAML frontmatter validation to local and release checks](https://github.com/waja/KochenMitKI/pull/24) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (5 days ago)
 - [chore(tools): parameterize container versions and wire up Renovate](https://github.com/waja/KochenMitKI/pull/23) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (5 days ago)
-- [chore: Update index.md and README.md](https://github.com/waja/KochenMitKI/pull/21) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (5 days ago)
 
 ### 📓 Gists I wrote
 
