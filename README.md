@@ -9,11 +9,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [waja/docker-mojolicious](https://github.com/waja/docker-mojolicious) - Docker image for mojolicious (4 days ago)
-- [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) - Docker image for calcardbackup: https://codeberg.org/BernieO/calcardbackup (5 days ago)
-- [waja/nextcloud-docker-multiinstance](https://github.com/waja/nextcloud-docker-multiinstance) - Nextcloud Docker multi instance skeleton (6 days ago)
+- [waja/docker-mojolicious](https://github.com/waja/docker-mojolicious) - Docker image for mojolicious (5 days ago)
+- [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) - Docker image for calcardbackup: https://codeberg.org/BernieO/calcardbackup (6 days ago)
+- [waja/nextcloud-docker-multiinstance](https://github.com/waja/nextcloud-docker-multiinstance) - Nextcloud Docker multi instance skeleton (1 week ago)
 - [waja/KochenMitKI](https://github.com/waja/KochenMitKI) - (Reste-)Kochen mit KI (1 week ago)
-- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (1 week ago)
+- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (2 weeks ago)
 
 ### 🌱 My latest projects
 
@@ -35,9 +35,9 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [chore: Update calcardbackup to 11.1.1](https://github.com/waja/docker-calcardbackup/pull/216) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (5 days ago)
-- [Feature/update check](https://github.com/waja/nextcloud-docker-multiinstance/pull/15) on [waja/nextcloud-docker-multiinstance](https://github.com/waja/nextcloud-docker-multiinstance) (6 days ago)
-- [chore: update Nextcloud to 35](https://github.com/waja/nextcloud-docker-multiinstance/pull/14) on [waja/nextcloud-docker-multiinstance](https://github.com/waja/nextcloud-docker-multiinstance) (6 days ago)
+- [chore: Update calcardbackup to 11.1.1](https://github.com/waja/docker-calcardbackup/pull/216) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (6 days ago)
+- [Feature/update check](https://github.com/waja/nextcloud-docker-multiinstance/pull/15) on [waja/nextcloud-docker-multiinstance](https://github.com/waja/nextcloud-docker-multiinstance) (1 week ago)
+- [chore: update Nextcloud to 35](https://github.com/waja/nextcloud-docker-multiinstance/pull/14) on [waja/nextcloud-docker-multiinstance](https://github.com/waja/nextcloud-docker-multiinstance) (1 week ago)
 - [ci: add YAML frontmatter validation to local and release checks](https://github.com/waja/KochenMitKI/pull/24) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (1 week ago)
 - [chore(tools): parameterize container versions and wire up Renovate](https://github.com/waja/KochenMitKI/pull/23) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (1 week ago)
 
