@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [chore: update Nextcloud to 35.0.1](https://github.com/hoellen/docker-nextcloud/pull/182) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (today)
 - [chore: Update calcardbackup to 11.1.1](https://github.com/waja/docker-calcardbackup/pull/216) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (6 days ago)
 - [Feature/update check](https://github.com/waja/nextcloud-docker-multiinstance/pull/15) on [waja/nextcloud-docker-multiinstance](https://github.com/waja/nextcloud-docker-multiinstance) (1 week ago)
 - [chore: update Nextcloud to 35](https://github.com/waja/nextcloud-docker-multiinstance/pull/14) on [waja/nextcloud-docker-multiinstance](https://github.com/waja/nextcloud-docker-multiinstance) (1 week ago)
 - [ci: add YAML frontmatter validation to local and release checks](https://github.com/waja/KochenMitKI/pull/24) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (1 week ago)
-- [chore(tools): parameterize container versions and wire up Renovate](https://github.com/waja/KochenMitKI/pull/23) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (1 week ago)
 
 ### 📓 Gists I wrote
 
