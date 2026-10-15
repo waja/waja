@@ -29,16 +29,16 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 - [waja/monitoring-plugins-cyconet](https://github.com/waja/monitoring-plugins-cyconet) ([debian/26.20260902](https://github.com/waja/monitoring-plugins-cyconet/releases/tag/debian/26.20260902), 1 month ago) - Monitoring plugins compatible to Nagios/Icinga/Naemon
 - [monitoring-plugins/monitoring-plugins](https://github.com/monitoring-plugins/monitoring-plugins) ([v3.0.3](https://github.com/monitoring-plugins/monitoring-plugins/releases/tag/v3.0.3), 2 months ago) - A suite of Monitoring Plugins (formerly known as nagios-plugins)
-- [waja/backuppc-helper](https://github.com/waja/backuppc-helper) ([debian/0.2.0](https://github.com/waja/backuppc-helper/releases/tag/debian/0.2.0), 2 months ago) - helper scripts used by backuppc to create LVM snapshots
+- [waja/backuppc-helper](https://github.com/waja/backuppc-helper) ([debian/0.2.0](https://github.com/waja/backuppc-helper/releases/tag/debian/0.2.0), 3 months ago) - helper scripts used by backuppc to create LVM snapshots
 - [waja/froxlor-auto-migration](https://github.com/waja/froxlor-auto-migration) ([debian/0.3](https://github.com/waja/froxlor-auto-migration/releases/tag/debian/0.3), 1 year ago) - Package with helper script running db migrations after Froxlor update
 - [waja/nagios-snmp-plugins](https://github.com/waja/nagios-snmp-plugins) ([debian/2.1.0-5](https://github.com/waja/nagios-snmp-plugins/releases/tag/debian/2.1.0-5), 2 years ago) - Mirror of the Debian nagios-snmp-plugins package http://packages.qa.debian.org/nagios-snmp-plugins
 
 ### 🔨 My recent Pull Requests
 
-- [chore: update Nextcloud to 35.0.1](https://github.com/hoellen/docker-nextcloud/pull/182) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (2 weeks ago)
+- [chore: update Nextcloud to 35.0.1](https://github.com/hoellen/docker-nextcloud/pull/182) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (3 weeks ago)
 - [chore: Update calcardbackup to 11.1.1](https://github.com/waja/docker-calcardbackup/pull/216) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (3 weeks ago)
-- [Feature/update check](https://github.com/waja/nextcloud-docker-multiinstance/pull/15) on [waja/nextcloud-docker-multiinstance](https://github.com/waja/nextcloud-docker-multiinstance) (3 weeks ago)
-- [chore: update Nextcloud to 35](https://github.com/waja/nextcloud-docker-multiinstance/pull/14) on [waja/nextcloud-docker-multiinstance](https://github.com/waja/nextcloud-docker-multiinstance) (3 weeks ago)
+- [Feature/update check](https://github.com/waja/nextcloud-docker-multiinstance/pull/15) on [waja/nextcloud-docker-multiinstance](https://github.com/waja/nextcloud-docker-multiinstance) (4 weeks ago)
+- [chore: update Nextcloud to 35](https://github.com/waja/nextcloud-docker-multiinstance/pull/14) on [waja/nextcloud-docker-multiinstance](https://github.com/waja/nextcloud-docker-multiinstance) (4 weeks ago)
 - [ci: add YAML frontmatter validation to local and release checks](https://github.com/waja/KochenMitKI/pull/24) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (1 month ago)
 
 ### 📓 Gists I wrote
