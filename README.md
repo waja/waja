@@ -9,8 +9,8 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [waja/KochenMitKI](https://github.com/waja/KochenMitKI) - (Reste-)Kochen mit KI (today)
-- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (2 days ago)
+- [waja/KochenMitKI](https://github.com/waja/KochenMitKI) - (Reste-)Kochen mit KI (1 day ago)
+- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (3 days ago)
 - [waja/docker-mojolicious](https://github.com/waja/docker-mojolicious) - Docker image for mojolicious (1 week ago)
 - [waja/docker-garbd](https://github.com/waja/docker-garbd) - Docker image for garbd (1 week ago)
 - [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (1 week ago)
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [Adding tools/tasks.mk to path filter](https://github.com/waja/KochenMitKI/pull/32) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (today)
-- [specify path of .jscpd.json](https://github.com/waja/KochenMitKI/pull/30) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (today)
-- [Do not lint jscpd markdown files in subdirectories](https://github.com/waja/KochenMitKI/pull/27) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (today)
-- [chore: update Nextcloud to 33.0.10](https://github.com/hoellen/docker-nextcloud/pull/185) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (2 days ago)
-- [chore: update Nextcloud to 34.0.5](https://github.com/hoellen/docker-nextcloud/pull/184) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (2 days ago)
+- [Adding tools/tasks.mk to path filter](https://github.com/waja/KochenMitKI/pull/32) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (1 day ago)
+- [specify path of .jscpd.json](https://github.com/waja/KochenMitKI/pull/30) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (1 day ago)
+- [Do not lint jscpd markdown files in subdirectories](https://github.com/waja/KochenMitKI/pull/27) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (1 day ago)
+- [chore: update Nextcloud to 33.0.10](https://github.com/hoellen/docker-nextcloud/pull/185) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (3 days ago)
+- [chore: update Nextcloud to 34.0.5](https://github.com/hoellen/docker-nextcloud/pull/184) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (3 days ago)
 
 ### 📓 Gists I wrote
 
