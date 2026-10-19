@@ -9,19 +9,19 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
+- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (today)
 - [waja/KochenMitKI](https://github.com/waja/KochenMitKI) - (Reste-)Kochen mit KI (2 days ago)
 - [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (4 days ago)
 - [waja/docker-garbd](https://github.com/waja/docker-garbd) - Docker image for garbd (1 week ago)
 - [waja/docker-mojolicious](https://github.com/waja/docker-mojolicious) - Docker image for mojolicious (1 week ago)
-- [tmtde/docker-netbox](https://github.com/tmtde/docker-netbox) - Netbox Docker image with additional plugins (2 weeks ago)
 
 ### 🌱 My latest projects
 
+- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible
 - [waja/KochenMitKI](https://github.com/waja/KochenMitKI) - (Reste-)Kochen mit KI
 - [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine
 - [waja/froxlor-auto-migration](https://github.com/waja/froxlor-auto-migration) - Package with helper script running db migrations after Froxlor update
 - [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine
-- [waja/docker-php83-fpm](https://github.com/waja/docker-php83-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.3-fpm-alpine
 
 
 
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [Adding tools/tasks.mk to path filter](https://github.com/waja/KochenMitKI/pull/32) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (2 days ago)
-- [specify path of .jscpd.json](https://github.com/waja/KochenMitKI/pull/30) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (2 days ago)
-- [Do not lint jscpd markdown files in subdirectories](https://github.com/waja/KochenMitKI/pull/27) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (2 days ago)
-- [chore: update Nextcloud to 33.0.10](https://github.com/hoellen/docker-nextcloud/pull/185) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (4 days ago)
-- [chore: update Nextcloud to 34.0.5](https://github.com/hoellen/docker-nextcloud/pull/184) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (4 days ago)
+- [docs: align AGENTS.md with current CI and agent feedback](https://github.com/waja/ansible-openwrt/pull/10) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [docs: apply 80-char limit to embedded code in AGENTS.md](https://github.com/waja/ansible-openwrt/pull/8) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [ci: warn and label PRs targeting master](https://github.com/waja/ansible-openwrt/pull/7) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [docs: add AGENTS.md with project conventions for AI agents](https://github.com/waja/ansible-openwrt/pull/6) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [Feature/ci more tests](https://github.com/waja/ansible-openwrt/pull/5) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
 
 ### 📓 Gists I wrote
 
