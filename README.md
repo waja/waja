@@ -10,10 +10,10 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 
 - [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (today)
-- [waja/KochenMitKI](https://github.com/waja/KochenMitKI) - (Reste-)Kochen mit KI (2 days ago)
-- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (4 days ago)
-- [waja/docker-garbd](https://github.com/waja/docker-garbd) - Docker image for garbd (1 week ago)
-- [waja/docker-mojolicious](https://github.com/waja/docker-mojolicious) - Docker image for mojolicious (1 week ago)
+- [waja/KochenMitKI](https://github.com/waja/KochenMitKI) - (Reste-)Kochen mit KI (3 days ago)
+- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (5 days ago)
+- [waja/docker-garbd](https://github.com/waja/docker-garbd) - Docker image for garbd (2 weeks ago)
+- [waja/docker-mojolicious](https://github.com/waja/docker-mojolicious) - Docker image for mojolicious (2 weeks ago)
 
 ### 🌱 My latest projects
 
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [docs: align AGENTS.md with current CI and agent feedback](https://github.com/waja/ansible-openwrt/pull/10) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [docs: apply 80-char limit to embedded code in AGENTS.md](https://github.com/waja/ansible-openwrt/pull/8) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [ci: warn and label PRs targeting master](https://github.com/waja/ansible-openwrt/pull/7) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [docs: add AGENTS.md with project conventions for AI agents](https://github.com/waja/ansible-openwrt/pull/6) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [Feature/ci more tests](https://github.com/waja/ansible-openwrt/pull/5) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [Feat/router base monitoring](https://github.com/waja/ansible-openwrt/pull/11) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
+- [docs: align AGENTS.md with current CI and agent feedback](https://github.com/waja/ansible-openwrt/pull/10) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
+- [docs: apply 80-char limit to embedded code in AGENTS.md](https://github.com/waja/ansible-openwrt/pull/8) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
+- [ci: warn and label PRs targeting master](https://github.com/waja/ansible-openwrt/pull/7) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
+- [docs: add AGENTS.md with project conventions for AI agents](https://github.com/waja/ansible-openwrt/pull/6) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
 
 ### 📓 Gists I wrote
 
