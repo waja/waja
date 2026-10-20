@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [Feat/router base monitoring](https://github.com/waja/ansible-openwrt/pull/11) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
-- [docs: align AGENTS.md with current CI and agent feedback](https://github.com/waja/ansible-openwrt/pull/10) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
-- [docs: apply 80-char limit to embedded code in AGENTS.md](https://github.com/waja/ansible-openwrt/pull/8) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
-- [ci: warn and label PRs targeting master](https://github.com/waja/ansible-openwrt/pull/7) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
-- [docs: add AGENTS.md with project conventions for AI agents](https://github.com/waja/ansible-openwrt/pull/6) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
+- [Document router usage and keep README up to date](https://github.com/waja/ansible-openwrt/pull/19) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [Pin Ansible dependencies and enable Renovate updates](https://github.com/waja/ansible-openwrt/pull/18) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [Install CI collections in the user Ansible directory](https://github.com/waja/ansible-openwrt/pull/17) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [Document YAML path header requirement](https://github.com/waja/ansible-openwrt/pull/16) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [Update AGENTS.md](https://github.com/waja/ansible-openwrt/pull/12) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
 
 ### 📓 Gists I wrote
 
