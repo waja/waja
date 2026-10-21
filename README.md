@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [chore(deps): bump php from 8.5.11-fpm-alpine to 8.5.12-fpm-alpine](https://github.com/waja/docker-php85-fpm/pull/127) on [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) (today)
+- [chore(renovate): pin image digests without tag upgrades](https://github.com/waja/docker-nextcloud/pull/89) on [waja/docker-nextcloud](https://github.com/waja/docker-nextcloud) (today)
+- [Track PHP, Nginx and Alpine image digests without version upgrades](https://github.com/waja/docker-nextcloud/pull/88) on [waja/docker-nextcloud](https://github.com/waja/docker-nextcloud) (today)
 - [Track PHP base image digest without PHP minor upgrades](https://github.com/waja/docker-nextcloud/pull/87) on [waja/docker-nextcloud](https://github.com/waja/docker-nextcloud) (today)
 - [Document router usage and keep README up to date](https://github.com/waja/ansible-openwrt/pull/19) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
-- [Pin Ansible dependencies and enable Renovate updates](https://github.com/waja/ansible-openwrt/pull/18) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
-- [Install CI collections in the user Ansible directory](https://github.com/waja/ansible-openwrt/pull/17) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
-- [Document YAML path header requirement](https://github.com/waja/ansible-openwrt/pull/16) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
 
 ### 📓 Gists I wrote
 
