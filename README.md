@@ -9,9 +9,9 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (today)
-- [waja/KochenMitKI](https://github.com/waja/KochenMitKI) - (Reste-)Kochen mit KI (3 days ago)
-- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (5 days ago)
+- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (1 day ago)
+- [waja/KochenMitKI](https://github.com/waja/KochenMitKI) - (Reste-)Kochen mit KI (4 days ago)
+- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (6 days ago)
 - [waja/docker-garbd](https://github.com/waja/docker-garbd) - Docker image for garbd (2 weeks ago)
 - [waja/docker-mojolicious](https://github.com/waja/docker-mojolicious) - Docker image for mojolicious (2 weeks ago)
 
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [Document router usage and keep README up to date](https://github.com/waja/ansible-openwrt/pull/19) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [Pin Ansible dependencies and enable Renovate updates](https://github.com/waja/ansible-openwrt/pull/18) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [Install CI collections in the user Ansible directory](https://github.com/waja/ansible-openwrt/pull/17) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [Document YAML path header requirement](https://github.com/waja/ansible-openwrt/pull/16) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [Update AGENTS.md](https://github.com/waja/ansible-openwrt/pull/12) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [Document router usage and keep README up to date](https://github.com/waja/ansible-openwrt/pull/19) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
+- [Pin Ansible dependencies and enable Renovate updates](https://github.com/waja/ansible-openwrt/pull/18) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
+- [Install CI collections in the user Ansible directory](https://github.com/waja/ansible-openwrt/pull/17) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
+- [Document YAML path header requirement](https://github.com/waja/ansible-openwrt/pull/16) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
+- [Update AGENTS.md](https://github.com/waja/ansible-openwrt/pull/12) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
 
 ### 📓 Gists I wrote
 
