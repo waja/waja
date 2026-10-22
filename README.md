@@ -9,11 +9,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
+- [waja/debian-update-cheatsheets](https://github.com/waja/debian-update-cheatsheets) - Debian cheat sheet for upgrading systems (today)
 - [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (1 day ago)
 - [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (2 days ago)
 - [waja/KochenMitKI](https://github.com/waja/KochenMitKI) - (Reste-)Kochen mit KI (5 days ago)
 - [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (1 week ago)
-- [waja/docker-garbd](https://github.com/waja/docker-garbd) - Docker image for garbd (2 weeks ago)
 
 ### 🌱 My latest projects
 
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [build(docker): make base image digest updates reproducible](https://github.com/waja/docker-nextcloud/pull/97) on [waja/docker-nextcloud](https://github.com/waja/docker-nextcloud) (1 day ago)
-- [refactor(docker): split base image args for digest pinning](https://github.com/waja/docker-nextcloud/pull/93) on [waja/docker-nextcloud](https://github.com/waja/docker-nextcloud) (1 day ago)
-- [chore(deps): bump php from 8.5.11-fpm-alpine to 8.5.12-fpm-alpine](https://github.com/waja/docker-php85-fpm/pull/127) on [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) (1 day ago)
-- [chore(renovate): pin image digests without tag upgrades](https://github.com/waja/docker-nextcloud/pull/89) on [waja/docker-nextcloud](https://github.com/waja/docker-nextcloud) (1 day ago)
-- [Track PHP, Nginx and Alpine image digests without version upgrades](https://github.com/waja/docker-nextcloud/pull/88) on [waja/docker-nextcloud](https://github.com/waja/docker-nextcloud) (1 day ago)
+- [Fix Bullseye security source migration](https://github.com/waja/debian-update-cheatsheets/pull/22) on [waja/debian-update-cheatsheets](https://github.com/waja/debian-update-cheatsheets) (today)
+- [Abort PHP update script when phpquery is missing](https://github.com/waja/debian-update-cheatsheets/pull/18) on [waja/debian-update-cheatsheets](https://github.com/waja/debian-update-cheatsheets) (today)
+- [Abort script when phpquery is missing](https://github.com/waja/debian-update-cheatsheets/pull/17) on [waja/debian-update-cheatsheets](https://github.com/waja/debian-update-cheatsheets) (today)
+- [Handle archived Bullseye security repository](https://github.com/waja/debian-update-cheatsheets/pull/15) on [waja/debian-update-cheatsheets](https://github.com/waja/debian-update-cheatsheets) (today)
+- [Pin PCRE2 packages from Sury for PHP upgrades](https://github.com/waja/debian-update-cheatsheets/pull/13) on [waja/debian-update-cheatsheets](https://github.com/waja/debian-update-cheatsheets) (today)
 
 ### 📓 Gists I wrote
 
