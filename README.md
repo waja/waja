@@ -9,10 +9,10 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (today)
-- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (1 day ago)
-- [waja/KochenMitKI](https://github.com/waja/KochenMitKI) - (Reste-)Kochen mit KI (4 days ago)
-- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (6 days ago)
+- [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (1 day ago)
+- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (2 days ago)
+- [waja/KochenMitKI](https://github.com/waja/KochenMitKI) - (Reste-)Kochen mit KI (5 days ago)
+- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (1 week ago)
 - [waja/docker-garbd](https://github.com/waja/docker-garbd) - Docker image for garbd (2 weeks ago)
 
 ### 🌱 My latest projects
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [refactor(docker): split base image args for digest pinning](https://github.com/waja/docker-nextcloud/pull/93) on [waja/docker-nextcloud](https://github.com/waja/docker-nextcloud) (today)
-- [chore(deps): bump php from 8.5.11-fpm-alpine to 8.5.12-fpm-alpine](https://github.com/waja/docker-php85-fpm/pull/127) on [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) (today)
-- [chore(renovate): pin image digests without tag upgrades](https://github.com/waja/docker-nextcloud/pull/89) on [waja/docker-nextcloud](https://github.com/waja/docker-nextcloud) (today)
-- [Track PHP, Nginx and Alpine image digests without version upgrades](https://github.com/waja/docker-nextcloud/pull/88) on [waja/docker-nextcloud](https://github.com/waja/docker-nextcloud) (today)
-- [Track PHP base image digest without PHP minor upgrades](https://github.com/waja/docker-nextcloud/pull/87) on [waja/docker-nextcloud](https://github.com/waja/docker-nextcloud) (today)
+- [build(docker): make base image digest updates reproducible](https://github.com/waja/docker-nextcloud/pull/97) on [waja/docker-nextcloud](https://github.com/waja/docker-nextcloud) (1 day ago)
+- [refactor(docker): split base image args for digest pinning](https://github.com/waja/docker-nextcloud/pull/93) on [waja/docker-nextcloud](https://github.com/waja/docker-nextcloud) (1 day ago)
+- [chore(deps): bump php from 8.5.11-fpm-alpine to 8.5.12-fpm-alpine](https://github.com/waja/docker-php85-fpm/pull/127) on [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) (1 day ago)
+- [chore(renovate): pin image digests without tag upgrades](https://github.com/waja/docker-nextcloud/pull/89) on [waja/docker-nextcloud](https://github.com/waja/docker-nextcloud) (1 day ago)
+- [Track PHP, Nginx and Alpine image digests without version upgrades](https://github.com/waja/docker-nextcloud/pull/88) on [waja/docker-nextcloud](https://github.com/waja/docker-nextcloud) (1 day ago)
 
 ### 📓 Gists I wrote
 
