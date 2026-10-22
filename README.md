@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [Fix Bullseye security source migration](https://github.com/waja/debian-update-cheatsheets/pull/22) on [waja/debian-update-cheatsheets](https://github.com/waja/debian-update-cheatsheets) (today)
-- [Abort PHP update script when phpquery is missing](https://github.com/waja/debian-update-cheatsheets/pull/18) on [waja/debian-update-cheatsheets](https://github.com/waja/debian-update-cheatsheets) (today)
-- [Abort script when phpquery is missing](https://github.com/waja/debian-update-cheatsheets/pull/17) on [waja/debian-update-cheatsheets](https://github.com/waja/debian-update-cheatsheets) (today)
-- [Handle archived Bullseye security repository](https://github.com/waja/debian-update-cheatsheets/pull/15) on [waja/debian-update-cheatsheets](https://github.com/waja/debian-update-cheatsheets) (today)
-- [Pin PCRE2 packages from Sury for PHP upgrades](https://github.com/waja/debian-update-cheatsheets/pull/13) on [waja/debian-update-cheatsheets](https://github.com/waja/debian-update-cheatsheets) (today)
+- [Document the interactive PHP check](https://github.com/waja/debian-update-cheatsheets/pull/52) on [waja/debian-update-cheatsheets](https://github.com/waja/debian-update-cheatsheets) (today)
+- [Guard PHP package selection when version is unknown](https://github.com/waja/debian-update-cheatsheets/pull/51) on [waja/debian-update-cheatsheets](https://github.com/waja/debian-update-cheatsheets) (today)
+- [Abort if Sury PHP repository bootstrap fails](https://github.com/waja/debian-update-cheatsheets/pull/49) on [waja/debian-update-cheatsheets](https://github.com/waja/debian-update-cheatsheets) (today)
+- [Use first PHP version in package upgrade patterns](https://github.com/waja/debian-update-cheatsheets/pull/48) on [waja/debian-update-cheatsheets](https://github.com/waja/debian-update-cheatsheets) (today)
+- [Back up APT sources before Bullseye migration](https://github.com/waja/debian-update-cheatsheets/pull/47) on [waja/debian-update-cheatsheets](https://github.com/waja/debian-update-cheatsheets) (today)
 
 ### 📓 Gists I wrote
 
