@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [ci: pass evaluated Docker build metadata](https://github.com/waja/docker-speedtest/pull/182) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (today)
 - [Document the interactive PHP check](https://github.com/waja/debian-update-cheatsheets/pull/52) on [waja/debian-update-cheatsheets](https://github.com/waja/debian-update-cheatsheets) (1 day ago)
 - [Guard PHP package selection when version is unknown](https://github.com/waja/debian-update-cheatsheets/pull/51) on [waja/debian-update-cheatsheets](https://github.com/waja/debian-update-cheatsheets) (1 day ago)
 - [Abort if Sury PHP repository bootstrap fails](https://github.com/waja/debian-update-cheatsheets/pull/49) on [waja/debian-update-cheatsheets](https://github.com/waja/debian-update-cheatsheets) (1 day ago)
 - [Use first PHP version in package upgrade patterns](https://github.com/waja/debian-update-cheatsheets/pull/48) on [waja/debian-update-cheatsheets](https://github.com/waja/debian-update-cheatsheets) (1 day ago)
-- [Back up APT sources before Bullseye migration](https://github.com/waja/debian-update-cheatsheets/pull/47) on [waja/debian-update-cheatsheets](https://github.com/waja/debian-update-cheatsheets) (1 day ago)
 
 ### 📓 Gists I wrote
 
