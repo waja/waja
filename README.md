@@ -9,10 +9,10 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
+- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (today)
 - [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (today)
 - [waja/debian-update-cheatsheets](https://github.com/waja/debian-update-cheatsheets) - Debian cheat sheet for upgrading systems (2 days ago)
 - [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (3 days ago)
-- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (4 days ago)
 - [waja/KochenMitKI](https://github.com/waja/KochenMitKI) - (Reste-)Kochen mit KI (1 week ago)
 
 ### 🌱 My latest projects
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [fix: align image provenance with built source](https://github.com/waja/docker-speedtest/pull/184) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (today)
-- [fix: preserve release workflow run titles](https://github.com/waja/docker-speedtest/pull/183) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (today)
-- [ci: pass evaluated Docker build metadata](https://github.com/waja/docker-speedtest/pull/182) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (1 day ago)
-- [Document the interactive PHP check](https://github.com/waja/debian-update-cheatsheets/pull/52) on [waja/debian-update-cheatsheets](https://github.com/waja/debian-update-cheatsheets) (2 days ago)
-- [Guard PHP package selection when version is unknown](https://github.com/waja/debian-update-cheatsheets/pull/51) on [waja/debian-update-cheatsheets](https://github.com/waja/debian-update-cheatsheets) (2 days ago)
+- [Fix release tag replacement flow](https://github.com/waja/docker-speedtest/pull/192) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (today)
+- [Allow intentional release tag replacement](https://github.com/waja/docker-speedtest/pull/191) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (today)
+- [Add initial router_network role with per-interface DHCP status](https://github.com/waja/ansible-openwrt/pull/21) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [Remove unused artifact download and image load from release job](https://github.com/waja/docker-speedtest/pull/188) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (today)
+- [Simplify unused metadata handling in the ShiftLeft job](https://github.com/waja/docker-speedtest/pull/187) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (today)
 
 ### 📓 Gists I wrote
 
