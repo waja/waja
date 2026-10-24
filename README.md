@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [Address follow-up review on release tag replacement](https://github.com/waja/docker-speedtest/pull/193) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (today)
 - [Fix release tag replacement flow](https://github.com/waja/docker-speedtest/pull/192) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (today)
 - [Allow intentional release tag replacement](https://github.com/waja/docker-speedtest/pull/191) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (today)
 - [Add initial router_network role with per-interface DHCP status](https://github.com/waja/ansible-openwrt/pull/21) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
 - [Remove unused artifact download and image load from release job](https://github.com/waja/docker-speedtest/pull/188) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (today)
-- [Simplify unused metadata handling in the ShiftLeft job](https://github.com/waja/docker-speedtest/pull/187) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (today)
 
 ### 📓 Gists I wrote
 
