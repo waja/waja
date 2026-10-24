@@ -9,7 +9,7 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (1 day ago)
+- [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (today)
 - [waja/debian-update-cheatsheets](https://github.com/waja/debian-update-cheatsheets) - Debian cheat sheet for upgrading systems (2 days ago)
 - [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (3 days ago)
 - [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (4 days ago)
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [fix: align image provenance with built source](https://github.com/waja/docker-speedtest/pull/184) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (today)
+- [fix: preserve release workflow run titles](https://github.com/waja/docker-speedtest/pull/183) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (today)
 - [ci: pass evaluated Docker build metadata](https://github.com/waja/docker-speedtest/pull/182) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (1 day ago)
 - [Document the interactive PHP check](https://github.com/waja/debian-update-cheatsheets/pull/52) on [waja/debian-update-cheatsheets](https://github.com/waja/debian-update-cheatsheets) (2 days ago)
 - [Guard PHP package selection when version is unknown](https://github.com/waja/debian-update-cheatsheets/pull/51) on [waja/debian-update-cheatsheets](https://github.com/waja/debian-update-cheatsheets) (2 days ago)
-- [Abort if Sury PHP repository bootstrap fails](https://github.com/waja/debian-update-cheatsheets/pull/49) on [waja/debian-update-cheatsheets](https://github.com/waja/debian-update-cheatsheets) (2 days ago)
-- [Use first PHP version in package upgrade patterns](https://github.com/waja/debian-update-cheatsheets/pull/48) on [waja/debian-update-cheatsheets](https://github.com/waja/debian-update-cheatsheets) (2 days ago)
 
 ### 📓 Gists I wrote
 
