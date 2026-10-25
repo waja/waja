@@ -9,7 +9,7 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (1 day ago)
+- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (today)
 - [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (1 day ago)
 - [waja/debian-update-cheatsheets](https://github.com/waja/debian-update-cheatsheets) - Debian cheat sheet for upgrading systems (3 days ago)
 - [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (4 days ago)
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [Fix Molecule platform selection and CI diagnostics](https://github.com/waja/ansible-openwrt/pull/23) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
-- [Document input validation guidelines](https://github.com/waja/ansible-openwrt/pull/22) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
-- [Address follow-up review on release tag replacement](https://github.com/waja/docker-speedtest/pull/193) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (1 day ago)
-- [Fix release tag replacement flow](https://github.com/waja/docker-speedtest/pull/192) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (1 day ago)
-- [Allow intentional release tag replacement](https://github.com/waja/docker-speedtest/pull/191) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (1 day ago)
+- [ci: test documented Docker Ansible setup](https://github.com/waja/ansible-openwrt/pull/32) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [refactor: share service restart lock across roles](https://github.com/waja/ansible-openwrt/pull/31) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [feat: add router_network role for IPv4 DHCP status](https://github.com/waja/ansible-openwrt/pull/30) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [ci: fix Molecule platform selection and diagnostics](https://github.com/waja/ansible-openwrt/pull/29) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [docs: document input validation guidelines](https://github.com/waja/ansible-openwrt/pull/28) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
 
 ### 📓 Gists I wrote
 
