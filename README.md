@@ -38,7 +38,7 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 - [docs: avoid duplicated moving configuration values](https://github.com/waja/ansible-openwrt/pull/40) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
 - [docs: define minimal-change decision principle](https://github.com/waja/ansible-openwrt/pull/39) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
 - [docs: document review-first commit workflow](https://github.com/waja/ansible-openwrt/pull/37) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [Add DHCP and static IPv4 interface configuration](https://github.com/waja/ansible-openwrt/pull/35) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [feat: add DHCP and static IPv4 interface configuration](https://github.com/waja/ansible-openwrt/pull/35) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
 - [CI: Test moving OpenWrt 25.12 image weekly](https://github.com/waja/ansible-openwrt/pull/33) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
 
 ### 📓 Gists I wrote
