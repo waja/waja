@@ -10,9 +10,9 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 
 - [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (today)
-- [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (1 day ago)
-- [waja/debian-update-cheatsheets](https://github.com/waja/debian-update-cheatsheets) - Debian cheat sheet for upgrading systems (3 days ago)
-- [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (4 days ago)
+- [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (2 days ago)
+- [waja/debian-update-cheatsheets](https://github.com/waja/debian-update-cheatsheets) - Debian cheat sheet for upgrading systems (4 days ago)
+- [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (5 days ago)
 - [waja/KochenMitKI](https://github.com/waja/KochenMitKI) - (Reste-)Kochen mit KI (1 week ago)
 
 ### 🌱 My latest projects
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [ci: test documented Docker Ansible setup](https://github.com/waja/ansible-openwrt/pull/32) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [refactor: share service restart lock across roles](https://github.com/waja/ansible-openwrt/pull/31) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [feat: add router_network role for IPv4 DHCP status](https://github.com/waja/ansible-openwrt/pull/30) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [ci: fix Molecule platform selection and diagnostics](https://github.com/waja/ansible-openwrt/pull/29) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [docs: document input validation guidelines](https://github.com/waja/ansible-openwrt/pull/28) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [docs: avoid duplicated moving configuration values](https://github.com/waja/ansible-openwrt/pull/40) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [docs: define minimal-change decision principle](https://github.com/waja/ansible-openwrt/pull/39) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [docs: document review-first commit workflow](https://github.com/waja/ansible-openwrt/pull/37) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [Add DHCP and static IPv4 interface configuration](https://github.com/waja/ansible-openwrt/pull/35) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [CI: Test moving OpenWrt 25.12 image weekly](https://github.com/waja/ansible-openwrt/pull/33) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
 
 ### 📓 Gists I wrote
 
