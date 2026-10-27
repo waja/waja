@@ -9,10 +9,10 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (today)
-- [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (2 days ago)
-- [waja/debian-update-cheatsheets](https://github.com/waja/debian-update-cheatsheets) - Debian cheat sheet for upgrading systems (4 days ago)
-- [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (5 days ago)
+- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (1 day ago)
+- [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (3 days ago)
+- [waja/debian-update-cheatsheets](https://github.com/waja/debian-update-cheatsheets) - Debian cheat sheet for upgrading systems (5 days ago)
+- [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (6 days ago)
 - [waja/KochenMitKI](https://github.com/waja/KochenMitKI) - (Reste-)Kochen mit KI (1 week ago)
 
 ### 🌱 My latest projects
@@ -27,19 +27,19 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔭 Latest releases I've contributed to
 
+- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) ([0.1.0](https://github.com/waja/ansible-openwrt/releases/tag/0.1.0), 1 day ago) - Openwrt Ansible
 - [waja/monitoring-plugins-cyconet](https://github.com/waja/monitoring-plugins-cyconet) ([debian/26.20260902](https://github.com/waja/monitoring-plugins-cyconet/releases/tag/debian/26.20260902), 1 month ago) - Monitoring plugins compatible to Nagios/Icinga/Naemon
 - [monitoring-plugins/monitoring-plugins](https://github.com/monitoring-plugins/monitoring-plugins) ([v3.0.3](https://github.com/monitoring-plugins/monitoring-plugins/releases/tag/v3.0.3), 2 months ago) - A suite of Monitoring Plugins (formerly known as nagios-plugins)
 - [waja/backuppc-helper](https://github.com/waja/backuppc-helper) ([debian/0.2.0](https://github.com/waja/backuppc-helper/releases/tag/debian/0.2.0), 3 months ago) - helper scripts used by backuppc to create LVM snapshots
 - [waja/froxlor-auto-migration](https://github.com/waja/froxlor-auto-migration) ([debian/0.3](https://github.com/waja/froxlor-auto-migration/releases/tag/debian/0.3), 1 year ago) - Package with helper script running db migrations after Froxlor update
-- [waja/nagios-snmp-plugins](https://github.com/waja/nagios-snmp-plugins) ([debian/2.1.0-5](https://github.com/waja/nagios-snmp-plugins/releases/tag/debian/2.1.0-5), 2 years ago) - Mirror of the Debian nagios-snmp-plugins package http://packages.qa.debian.org/nagios-snmp-plugins
 
 ### 🔨 My recent Pull Requests
 
-- [docs: move router configuration guide to docs](https://github.com/waja/ansible-openwrt/pull/50) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [refactor: derive service packages from managed services](https://github.com/waja/ansible-openwrt/pull/49) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [refactor: share service restart lock across roles](https://github.com/waja/ansible-openwrt/pull/48) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [Add OpenWrt state discovery script for Ansible migration](https://github.com/waja/ansible-openwrt/pull/46) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [Add configurable firewall defaults role](https://github.com/waja/ansible-openwrt/pull/44) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [docs: move router configuration guide to docs](https://github.com/waja/ansible-openwrt/pull/50) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
+- [refactor: derive service packages from managed services](https://github.com/waja/ansible-openwrt/pull/49) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
+- [refactor: share service restart lock across roles](https://github.com/waja/ansible-openwrt/pull/48) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
+- [Add OpenWrt state discovery script for Ansible migration](https://github.com/waja/ansible-openwrt/pull/46) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
+- [Add configurable firewall defaults role](https://github.com/waja/ansible-openwrt/pull/44) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
 
 ### 📓 Gists I wrote
 
