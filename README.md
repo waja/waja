@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [docs: define draft-aware PR validation policy](https://github.com/waja/vacation-manager/pull/9) on [waja/vacation-manager](https://github.com/waja/vacation-manager) (today)
+- [docs: define change-aware CI guidance](https://github.com/waja/vacation-manager/pull/8) on [waja/vacation-manager](https://github.com/waja/vacation-manager) (today)
+- [ci: skip workflows for irrelevant changes](https://github.com/waja/ansible-openwrt/pull/58) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
 - [docs: add GPL-3.0-or-later license](https://github.com/waja/ansible-openwrt/pull/56) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
 - [prototype: compare Bash and Python safety primitives](https://github.com/waja/vacation-manager/pull/7) on [waja/vacation-manager](https://github.com/waja/vacation-manager) (today)
-- [docs: license project under GPL-3.0-or-later](https://github.com/waja/vacation-manager/pull/4) on [waja/vacation-manager](https://github.com/waja/vacation-manager) (today)
-- [docs: license project under GPL-3.0-or-later](https://github.com/waja/vacation-manager/pull/3) on [waja/vacation-manager](https://github.com/waja/vacation-manager) (today)
-- [docs: establish project documentation and development rules](https://github.com/waja/vacation-manager/pull/2) on [waja/vacation-manager](https://github.com/waja/vacation-manager) (today)
 
 ### 📓 Gists I wrote
 
