@@ -9,19 +9,19 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (1 day ago)
+- [waja/vacation-manager](https://github.com/waja/vacation-manager) -  (today)
+- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (today)
 - [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (3 days ago)
 - [waja/debian-update-cheatsheets](https://github.com/waja/debian-update-cheatsheets) - Debian cheat sheet for upgrading systems (5 days ago)
 - [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (6 days ago)
-- [waja/KochenMitKI](https://github.com/waja/KochenMitKI) - (Reste-)Kochen mit KI (1 week ago)
 
 ### 🌱 My latest projects
 
+- [waja/vacation-manager](https://github.com/waja/vacation-manager) - 
 - [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible
 - [waja/KochenMitKI](https://github.com/waja/KochenMitKI) - (Reste-)Kochen mit KI
 - [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine
 - [waja/froxlor-auto-migration](https://github.com/waja/froxlor-auto-migration) - Package with helper script running db migrations after Froxlor update
-- [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine
 
 
 
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [docs: add external OpenWrt reference projects](https://github.com/waja/ansible-openwrt/pull/54) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [docs: move router configuration guide to docs](https://github.com/waja/ansible-openwrt/pull/50) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
-- [refactor: derive service packages from managed services](https://github.com/waja/ansible-openwrt/pull/49) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
-- [refactor: share service restart lock across roles](https://github.com/waja/ansible-openwrt/pull/48) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
-- [Add OpenWrt state discovery script for Ansible migration](https://github.com/waja/ansible-openwrt/pull/46) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
+- [docs: add GPL-3.0-or-later license](https://github.com/waja/ansible-openwrt/pull/56) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [prototype: compare Bash and Python safety primitives](https://github.com/waja/vacation-manager/pull/7) on [waja/vacation-manager](https://github.com/waja/vacation-manager) (today)
+- [docs: license project under GPL-3.0-or-later](https://github.com/waja/vacation-manager/pull/4) on [waja/vacation-manager](https://github.com/waja/vacation-manager) (today)
+- [docs: license project under GPL-3.0-or-later](https://github.com/waja/vacation-manager/pull/3) on [waja/vacation-manager](https://github.com/waja/vacation-manager) (today)
+- [docs: establish project documentation and development rules](https://github.com/waja/vacation-manager/pull/2) on [waja/vacation-manager](https://github.com/waja/vacation-manager) (today)
 
 ### 📓 Gists I wrote
 
