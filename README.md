@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [docs: add external OpenWrt reference projects](https://github.com/waja/ansible-openwrt/pull/54) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
 - [docs: move router configuration guide to docs](https://github.com/waja/ansible-openwrt/pull/50) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
 - [refactor: derive service packages from managed services](https://github.com/waja/ansible-openwrt/pull/49) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
 - [refactor: share service restart lock across roles](https://github.com/waja/ansible-openwrt/pull/48) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
 - [Add OpenWrt state discovery script for Ansible migration](https://github.com/waja/ansible-openwrt/pull/46) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
-- [Add configurable firewall defaults role](https://github.com/waja/ansible-openwrt/pull/44) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
 
 ### 📓 Gists I wrote
 
