@@ -9,9 +9,9 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
+- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (today)
 - [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (1 day ago)
 - [waja/vacation-manager](https://github.com/waja/vacation-manager) -  (2 days ago)
-- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (2 days ago)
 - [waja/debian-update-cheatsheets](https://github.com/waja/debian-update-cheatsheets) - Debian cheat sheet for upgrading systems (1 week ago)
 - [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (1 week ago)
 
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [Manage additional Dropbear ports and optional WAN access](https://github.com/waja/ansible-openwrt/pull/64) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [Add role-level tags to playbooks](https://github.com/waja/ansible-openwrt/pull/63) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [Consolidate release tag replacement and publication flow](https://github.com/waja/docker-speedtest/pull/194) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (today)
 - [docs: define draft-aware PR validation policy](https://github.com/waja/vacation-manager/pull/9) on [waja/vacation-manager](https://github.com/waja/vacation-manager) (2 days ago)
 - [docs: define change-aware CI guidance](https://github.com/waja/vacation-manager/pull/8) on [waja/vacation-manager](https://github.com/waja/vacation-manager) (2 days ago)
-- [ci: skip workflows for irrelevant changes](https://github.com/waja/ansible-openwrt/pull/58) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (2 days ago)
-- [docs: add GPL-3.0-or-later license](https://github.com/waja/ansible-openwrt/pull/56) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (2 days ago)
-- [prototype: compare Bash and Python safety primitives](https://github.com/waja/vacation-manager/pull/7) on [waja/vacation-manager](https://github.com/waja/vacation-manager) (2 days ago)
 
 ### 📓 Gists I wrote
 
