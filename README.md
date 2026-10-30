@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [ci: lock Python dependencies across workflow jobs](https://github.com/waja/ansible-openwrt/pull/80) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [Add declarative firewall zone management](https://github.com/waja/ansible-openwrt/pull/78) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [Manage DHCP settings through network interfaces](https://github.com/waja/ansible-openwrt/pull/76) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [Document issue grouping and implementation workflow](https://github.com/waja/ansible-openwrt/pull/75) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
 - [Add per-zone firewall masquerading management](https://github.com/waja/ansible-openwrt/pull/67) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [ci: focus Super-Linter on relevant checks](https://github.com/waja/KochenMitKI/pull/42) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (1 day ago)
-- [fix(renovate): enable automerge on master config](https://github.com/waja/KochenMitKI/pull/41) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (1 day ago)
-- [fix(tooling): use managed versions in formatter checks](https://github.com/waja/KochenMitKI/pull/39) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (1 day ago)
-- [style(renovate): fix JSON formatting](https://github.com/waja/KochenMitKI/pull/38) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (1 day ago)
 
 ### 📓 Gists I wrote
 
