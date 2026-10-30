@@ -10,7 +10,7 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 
 - [waja/KochenMitKI](https://github.com/waja/KochenMitKI) - (Reste-)Kochen mit KI (today)
-- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (1 day ago)
+- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (today)
 - [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (1 day ago)
 - [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (2 days ago)
 - [waja/vacation-manager](https://github.com/waja/vacation-manager) -  (3 days ago)
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [ci: lock Python dependencies across workflow jobs](https://github.com/waja/ansible-openwrt/pull/80) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [Add declarative firewall zone management](https://github.com/waja/ansible-openwrt/pull/78) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [Manage DHCP settings through network interfaces](https://github.com/waja/ansible-openwrt/pull/76) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [Document issue grouping and implementation workflow](https://github.com/waja/ansible-openwrt/pull/75) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [Add per-zone firewall masquerading management](https://github.com/waja/ansible-openwrt/pull/67) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [Safely adopt anonymous firewall zones](https://github.com/waja/ansible-openwrt/pull/96) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [Add standalone SNMP daemon configuration](https://github.com/waja/ansible-openwrt/pull/94) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [Add basic declarative firewall zone management](https://github.com/waja/ansible-openwrt/pull/92) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [test(ci): verify Molecule fail-open behavior](https://github.com/waja/ansible-openwrt/pull/84) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [test(ci): verify mixed script and Markdown path filtering](https://github.com/waja/ansible-openwrt/pull/83) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
 
 ### 📓 Gists I wrote
 
