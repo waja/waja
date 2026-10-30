@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [Remove firewall zones safely](https://github.com/waja/ansible-openwrt/pull/97) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
 - [Safely adopt anonymous firewall zones](https://github.com/waja/ansible-openwrt/pull/96) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
 - [Add standalone SNMP daemon configuration](https://github.com/waja/ansible-openwrt/pull/94) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
 - [Add basic declarative firewall zone management](https://github.com/waja/ansible-openwrt/pull/92) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
 - [test(ci): verify Molecule fail-open behavior](https://github.com/waja/ansible-openwrt/pull/84) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [test(ci): verify mixed script and Markdown path filtering](https://github.com/waja/ansible-openwrt/pull/83) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
 
 ### 📓 Gists I wrote
 
