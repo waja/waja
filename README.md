@@ -10,10 +10,10 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 
 - [waja/KochenMitKI](https://github.com/waja/KochenMitKI) - (Reste-)Kochen mit KI (today)
-- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (today)
-- [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (today)
-- [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (1 day ago)
-- [waja/vacation-manager](https://github.com/waja/vacation-manager) -  (2 days ago)
+- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (1 day ago)
+- [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (1 day ago)
+- [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (2 days ago)
+- [waja/vacation-manager](https://github.com/waja/vacation-manager) -  (3 days ago)
 
 ### 🌱 My latest projects
 
@@ -27,7 +27,7 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔭 Latest releases I've contributed to
 
-- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) ([0.1.0](https://github.com/waja/ansible-openwrt/releases/tag/0.1.0), 3 days ago) - Openwrt Ansible
+- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) ([0.1.0](https://github.com/waja/ansible-openwrt/releases/tag/0.1.0), 4 days ago) - Openwrt Ansible
 - [waja/monitoring-plugins-cyconet](https://github.com/waja/monitoring-plugins-cyconet) ([debian/26.20260902](https://github.com/waja/monitoring-plugins-cyconet/releases/tag/debian/26.20260902), 1 month ago) - Monitoring plugins compatible to Nagios/Icinga/Naemon
 - [monitoring-plugins/monitoring-plugins](https://github.com/monitoring-plugins/monitoring-plugins) ([v3.0.3](https://github.com/monitoring-plugins/monitoring-plugins/releases/tag/v3.0.3), 2 months ago) - A suite of Monitoring Plugins (formerly known as nagios-plugins)
 - [waja/backuppc-helper](https://github.com/waja/backuppc-helper) ([debian/0.2.0](https://github.com/waja/backuppc-helper/releases/tag/debian/0.2.0), 3 months ago) - helper scripts used by backuppc to create LVM snapshots
@@ -35,15 +35,15 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [fix(renovate): enable automerge on master config](https://github.com/waja/KochenMitKI/pull/41) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (today)
-- [fix(tooling): use managed versions in formatter checks](https://github.com/waja/KochenMitKI/pull/39) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (today)
-- [style(renovate): fix JSON formatting](https://github.com/waja/KochenMitKI/pull/38) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (today)
-- [chore(renovate): track Prettier version](https://github.com/waja/KochenMitKI/pull/37) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (today)
-- [chore(renovate): track pinned tooling versions](https://github.com/waja/KochenMitKI/pull/36) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (today)
+- [Add per-zone firewall masquerading management](https://github.com/waja/ansible-openwrt/pull/67) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [ci: focus Super-Linter on relevant checks](https://github.com/waja/KochenMitKI/pull/42) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (1 day ago)
+- [fix(renovate): enable automerge on master config](https://github.com/waja/KochenMitKI/pull/41) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (1 day ago)
+- [fix(tooling): use managed versions in formatter checks](https://github.com/waja/KochenMitKI/pull/39) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (1 day ago)
+- [style(renovate): fix JSON formatting](https://github.com/waja/KochenMitKI/pull/38) on [waja/KochenMitKI](https://github.com/waja/KochenMitKI) (1 day ago)
 
 ### 📓 Gists I wrote
 
-- [Export key and cert from traefiks acme.json](https://gist.github.com/4782694f62e30a192cba4fd3197b5ba3) (2 years ago)
+- [Export key and cert from traefiks acme.json](https://gist.github.com/4782694f62e30a192cba4fd3197b5ba3) (3 years ago)
 - [migrate quagga over to frr](https://gist.github.com/0b532a04b7779aef66d630cf2e85abb5) (3 years ago)
 - [Migrate your system from one Xen dom0 LVM device to another dom0, you need https://github.com/waja/backuppc-helper for this.](https://gist.github.com/89830cd14ee98074565c8b28996f643d) (4 years ago)
 - [example check_smart configuration for a icinga2](https://gist.github.com/6d5e33c814a20d4834ac47adba92ee24) (4 years ago)
