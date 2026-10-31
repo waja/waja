@@ -9,8 +9,8 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
+- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (today)
 - [waja/KochenMitKI](https://github.com/waja/KochenMitKI) - (Reste-)Kochen mit KI (1 day ago)
-- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (1 day ago)
 - [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (2 days ago)
 - [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (3 days ago)
 - [waja/vacation-manager](https://github.com/waja/vacation-manager) -  (4 days ago)
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [Move state discovery guidance into dedicated documentation](https://github.com/waja/ansible-openwrt/pull/103) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
 - [Complete firewall zone options and value semantics](https://github.com/waja/ansible-openwrt/pull/100) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
 - [Add optional LibreNMS wireless sensor integration](https://github.com/waja/ansible-openwrt/pull/99) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
 - [Restructure role configuration documentation](https://github.com/waja/ansible-openwrt/pull/98) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
 - [Remove firewall zones safely](https://github.com/waja/ansible-openwrt/pull/97) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
-- [Safely adopt anonymous firewall zones](https://github.com/waja/ansible-openwrt/pull/96) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
 
 ### 📓 Gists I wrote
 
