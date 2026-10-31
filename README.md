@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [Move state discovery guidance into dedicated documentation](https://github.com/waja/ansible-openwrt/pull/103) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [Complete firewall zone options and value semantics](https://github.com/waja/ansible-openwrt/pull/100) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
-- [Add optional LibreNMS wireless sensor integration](https://github.com/waja/ansible-openwrt/pull/99) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
-- [Restructure role configuration documentation](https://github.com/waja/ansible-openwrt/pull/98) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
-- [Remove firewall zones safely](https://github.com/waja/ansible-openwrt/pull/97) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
+- [Add scheduled Ansible pre-release compatibility tests](https://github.com/waja/ansible-openwrt/pull/114) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [Validate factory discovery prerequisites and failure handling](https://github.com/waja/ansible-openwrt/pull/113) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [docs: define pull request workflow rules](https://github.com/waja/ansible-openwrt/pull/109) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [Harden owrt-extra report security](https://github.com/waja/ansible-openwrt/pull/108) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [Document owrt-extra.sh state discovery workflow](https://github.com/waja/ansible-openwrt/pull/105) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
 
 ### 📓 Gists I wrote
 
