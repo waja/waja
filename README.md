@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [docs: document OpenWrt Tailscale reference projects](https://github.com/waja/ansible-openwrt/pull/122) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [docs: clarify APK system audit findings heading](https://github.com/waja/ansible-openwrt/pull/121) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [Add optional Tailscale role for OpenWrt](https://github.com/waja/ansible-openwrt/pull/120) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [feat: verify and summarize APK system audit](https://github.com/waja/ansible-openwrt/pull/119) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [Add automatic OpenWrt root storage detection and optional expansion](https://github.com/waja/ansible-openwrt/pull/118) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
+- [ci: test Ansible Core pre-releases on Python 3.15](https://github.com/waja/ansible-openwrt/pull/139) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [Harden sensitive-data handling in state discovery](https://github.com/waja/ansible-openwrt/pull/138) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [Extend sensitive-data redaction in owrt-extra.sh](https://github.com/waja/ansible-openwrt/pull/137) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [docs: document UCI firewall naming constraints](https://github.com/waja/ansible-openwrt/pull/130) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [Document PR mergeability and commit-history checks](https://github.com/waja/ansible-openwrt/pull/128) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
 
 ### 📓 Gists I wrote
 
