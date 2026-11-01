@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [ci: improve Molecule logs and matrix reporting](https://github.com/waja/ansible-openwrt/pull/142) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [feat(router_firewall): manage firewall rules declaratively](https://github.com/waja/ansible-openwrt/pull/140) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
 - [ci: test Ansible Core pre-releases on Python 3.15](https://github.com/waja/ansible-openwrt/pull/139) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
 - [Harden sensitive-data handling in state discovery](https://github.com/waja/ansible-openwrt/pull/138) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
 - [Extend sensitive-data redaction in owrt-extra.sh](https://github.com/waja/ansible-openwrt/pull/137) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [docs: document UCI firewall naming constraints](https://github.com/waja/ansible-openwrt/pull/130) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [Document PR mergeability and commit-history checks](https://github.com/waja/ansible-openwrt/pull/128) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
 
 ### 📓 Gists I wrote
 
