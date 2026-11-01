@@ -10,10 +10,10 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 
 - [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (today)
-- [waja/KochenMitKI](https://github.com/waja/KochenMitKI) - (Reste-)Kochen mit KI (1 day ago)
-- [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (2 days ago)
-- [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (3 days ago)
-- [waja/vacation-manager](https://github.com/waja/vacation-manager) -  (4 days ago)
+- [waja/KochenMitKI](https://github.com/waja/KochenMitKI) - (Reste-)Kochen mit KI (2 days ago)
+- [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (3 days ago)
+- [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (4 days ago)
+- [waja/vacation-manager](https://github.com/waja/vacation-manager) -  (5 days ago)
 
 ### 🌱 My latest projects
 
@@ -27,19 +27,19 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔭 Latest releases I've contributed to
 
-- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) ([0.1.0](https://github.com/waja/ansible-openwrt/releases/tag/0.1.0), 5 days ago) - Openwrt Ansible
-- [waja/monitoring-plugins-cyconet](https://github.com/waja/monitoring-plugins-cyconet) ([debian/26.20260902](https://github.com/waja/monitoring-plugins-cyconet/releases/tag/debian/26.20260902), 1 month ago) - Monitoring plugins compatible to Nagios/Icinga/Naemon
+- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) ([0.1.0](https://github.com/waja/ansible-openwrt/releases/tag/0.1.0), 6 days ago) - Openwrt Ansible
+- [waja/monitoring-plugins-cyconet](https://github.com/waja/monitoring-plugins-cyconet) ([debian/26.20260902](https://github.com/waja/monitoring-plugins-cyconet/releases/tag/debian/26.20260902), 2 months ago) - Monitoring plugins compatible to Nagios/Icinga/Naemon
 - [monitoring-plugins/monitoring-plugins](https://github.com/monitoring-plugins/monitoring-plugins) ([v3.0.3](https://github.com/monitoring-plugins/monitoring-plugins/releases/tag/v3.0.3), 2 months ago) - A suite of Monitoring Plugins (formerly known as nagios-plugins)
 - [waja/backuppc-helper](https://github.com/waja/backuppc-helper) ([debian/0.2.0](https://github.com/waja/backuppc-helper/releases/tag/debian/0.2.0), 3 months ago) - helper scripts used by backuppc to create LVM snapshots
 - [waja/froxlor-auto-migration](https://github.com/waja/froxlor-auto-migration) ([debian/0.3](https://github.com/waja/froxlor-auto-migration/releases/tag/debian/0.3), 1 year ago) - Package with helper script running db migrations after Froxlor update
 
 ### 🔨 My recent Pull Requests
 
-- [Add scheduled Ansible pre-release compatibility tests](https://github.com/waja/ansible-openwrt/pull/114) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [Validate factory discovery prerequisites and failure handling](https://github.com/waja/ansible-openwrt/pull/113) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [docs: define pull request workflow rules](https://github.com/waja/ansible-openwrt/pull/109) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [Harden owrt-extra report security](https://github.com/waja/ansible-openwrt/pull/108) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [Document owrt-extra.sh state discovery workflow](https://github.com/waja/ansible-openwrt/pull/105) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [docs: clarify APK system audit findings heading](https://github.com/waja/ansible-openwrt/pull/121) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [Add optional Tailscale role for OpenWrt](https://github.com/waja/ansible-openwrt/pull/120) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [feat: verify and summarize APK system audit](https://github.com/waja/ansible-openwrt/pull/119) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [Add automatic OpenWrt root storage detection and optional expansion](https://github.com/waja/ansible-openwrt/pull/118) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
+- [Document reference project research workflow](https://github.com/waja/ansible-openwrt/pull/117) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
 
 ### 📓 Gists I wrote
 
