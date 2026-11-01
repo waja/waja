@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [docs: document OpenWrt Tailscale reference projects](https://github.com/waja/ansible-openwrt/pull/122) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
 - [docs: clarify APK system audit findings heading](https://github.com/waja/ansible-openwrt/pull/121) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
 - [Add optional Tailscale role for OpenWrt](https://github.com/waja/ansible-openwrt/pull/120) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
 - [feat: verify and summarize APK system audit](https://github.com/waja/ansible-openwrt/pull/119) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
 - [Add automatic OpenWrt root storage detection and optional expansion](https://github.com/waja/ansible-openwrt/pull/118) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
-- [Document reference project research workflow](https://github.com/waja/ansible-openwrt/pull/117) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
 
 ### 📓 Gists I wrote
 
