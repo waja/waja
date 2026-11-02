@@ -9,7 +9,7 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (1 day ago)
+- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (today)
 - [waja/KochenMitKI](https://github.com/waja/KochenMitKI) - (Reste-)Kochen mit KI (3 days ago)
 - [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (4 days ago)
 - [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (5 days ago)
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [feat(security): add standalone CVE-2026-98432 mitigation](https://github.com/waja/ansible-openwrt/pull/147) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [ci: add CodeQL analysis for Actions and Python](https://github.com/waja/ansible-openwrt/pull/145) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
 - [ci: improve Molecule logs and matrix reporting](https://github.com/waja/ansible-openwrt/pull/142) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
 - [feat(router_firewall): manage firewall rules declaratively](https://github.com/waja/ansible-openwrt/pull/140) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
 - [ci: test Ansible Core pre-releases on Python 3.15](https://github.com/waja/ansible-openwrt/pull/139) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
-- [Harden sensitive-data handling in state discovery](https://github.com/waja/ansible-openwrt/pull/138) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
-- [Extend sensitive-data redaction in owrt-extra.sh](https://github.com/waja/ansible-openwrt/pull/137) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
 
 ### 📓 Gists I wrote
 
