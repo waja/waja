@@ -9,11 +9,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (today)
-- [waja/KochenMitKI](https://github.com/waja/KochenMitKI) - (Reste-)Kochen mit KI (2 days ago)
-- [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (3 days ago)
-- [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (4 days ago)
-- [waja/vacation-manager](https://github.com/waja/vacation-manager) -  (5 days ago)
+- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (1 day ago)
+- [waja/KochenMitKI](https://github.com/waja/KochenMitKI) - (Reste-)Kochen mit KI (3 days ago)
+- [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (4 days ago)
+- [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (5 days ago)
+- [waja/vacation-manager](https://github.com/waja/vacation-manager) -  (6 days ago)
 
 ### 🌱 My latest projects
 
@@ -27,7 +27,7 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔭 Latest releases I've contributed to
 
-- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) ([0.1.0](https://github.com/waja/ansible-openwrt/releases/tag/0.1.0), 6 days ago) - Openwrt Ansible
+- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) ([0.1.0](https://github.com/waja/ansible-openwrt/releases/tag/0.1.0), 1 week ago) - Openwrt Ansible
 - [waja/monitoring-plugins-cyconet](https://github.com/waja/monitoring-plugins-cyconet) ([debian/26.20260902](https://github.com/waja/monitoring-plugins-cyconet/releases/tag/debian/26.20260902), 2 months ago) - Monitoring plugins compatible to Nagios/Icinga/Naemon
 - [monitoring-plugins/monitoring-plugins](https://github.com/monitoring-plugins/monitoring-plugins) ([v3.0.3](https://github.com/monitoring-plugins/monitoring-plugins/releases/tag/v3.0.3), 2 months ago) - A suite of Monitoring Plugins (formerly known as nagios-plugins)
 - [waja/backuppc-helper](https://github.com/waja/backuppc-helper) ([debian/0.2.0](https://github.com/waja/backuppc-helper/releases/tag/debian/0.2.0), 3 months ago) - helper scripts used by backuppc to create LVM snapshots
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [ci: improve Molecule logs and matrix reporting](https://github.com/waja/ansible-openwrt/pull/142) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [feat(router_firewall): manage firewall rules declaratively](https://github.com/waja/ansible-openwrt/pull/140) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [ci: test Ansible Core pre-releases on Python 3.15](https://github.com/waja/ansible-openwrt/pull/139) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [Harden sensitive-data handling in state discovery](https://github.com/waja/ansible-openwrt/pull/138) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [Extend sensitive-data redaction in owrt-extra.sh](https://github.com/waja/ansible-openwrt/pull/137) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [ci: improve Molecule logs and matrix reporting](https://github.com/waja/ansible-openwrt/pull/142) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
+- [feat(router_firewall): manage firewall rules declaratively](https://github.com/waja/ansible-openwrt/pull/140) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
+- [ci: test Ansible Core pre-releases on Python 3.15](https://github.com/waja/ansible-openwrt/pull/139) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
+- [Harden sensitive-data handling in state discovery](https://github.com/waja/ansible-openwrt/pull/138) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
+- [Extend sensitive-data redaction in owrt-extra.sh](https://github.com/waja/ansible-openwrt/pull/137) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
 
 ### 📓 Gists I wrote
 
