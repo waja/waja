@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [feat(security): add standalone CVE-2026-98432 mitigation](https://github.com/waja/ansible-openwrt/pull/147) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [ci: add CodeQL analysis for Actions and Python](https://github.com/waja/ansible-openwrt/pull/145) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [ci: improve Molecule logs and matrix reporting](https://github.com/waja/ansible-openwrt/pull/142) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
-- [feat(router_firewall): manage firewall rules declaratively](https://github.com/waja/ansible-openwrt/pull/140) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
-- [ci: test Ansible Core pre-releases on Python 3.15](https://github.com/waja/ansible-openwrt/pull/139) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
+- [fix(router_librenms): avoid GitHub API rate limits](https://github.com/waja/ansible-openwrt/pull/163) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [[Diagnostics] Isolate fw4 ubus timeout](https://github.com/waja/ansible-openwrt/pull/161) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [[Diagnostics] Profile default Molecule task timings](https://github.com/waja/ansible-openwrt/pull/156) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [feat(router_owut): add read-only firmware update checks](https://github.com/waja/ansible-openwrt/pull/153) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [feat(router_firewall): manage DNAT and SNAT redirects declaratively](https://github.com/waja/ansible-openwrt/pull/150) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
 
 ### 📓 Gists I wrote
 
