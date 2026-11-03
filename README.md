@@ -9,11 +9,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (today)
-- [waja/KochenMitKI](https://github.com/waja/KochenMitKI) - (Reste-)Kochen mit KI (3 days ago)
-- [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (4 days ago)
-- [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (5 days ago)
-- [waja/vacation-manager](https://github.com/waja/vacation-manager) -  (6 days ago)
+- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (1 day ago)
+- [waja/KochenMitKI](https://github.com/waja/KochenMitKI) - (Reste-)Kochen mit KI (4 days ago)
+- [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (5 days ago)
+- [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (6 days ago)
+- [waja/vacation-manager](https://github.com/waja/vacation-manager) -  (1 week ago)
 
 ### 🌱 My latest projects
 
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [fix(router_librenms): avoid GitHub API rate limits](https://github.com/waja/ansible-openwrt/pull/163) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [[Diagnostics] Isolate fw4 ubus timeout](https://github.com/waja/ansible-openwrt/pull/161) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [[Diagnostics] Profile default Molecule task timings](https://github.com/waja/ansible-openwrt/pull/156) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [feat(router_owut): add read-only firmware update checks](https://github.com/waja/ansible-openwrt/pull/153) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [feat(router_firewall): manage DNAT and SNAT redirects declaratively](https://github.com/waja/ansible-openwrt/pull/150) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [ci: make generated lockfiles Python-version neutral](https://github.com/waja/ansible-openwrt/pull/170) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
+- [test(molecule): fix firewall idempotence sequence](https://github.com/waja/ansible-openwrt/pull/169) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
+- [[Diagnostics] Inspect netifd and ubus state in default Molecule](https://github.com/waja/ansible-openwrt/pull/167) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
+- [[Diagnostics] Test netifd with Docker NET_ADMIN capability](https://github.com/waja/ansible-openwrt/pull/166) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
+- [fix(router_librenms): avoid GitHub API rate limits](https://github.com/waja/ansible-openwrt/pull/163) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
 
 ### 📓 Gists I wrote
 
