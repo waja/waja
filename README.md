@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [feat(security): add standalone CVE-2026-98432 mitigation](https://github.com/waja/ansible-openwrt/pull/171) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
 - [ci: make generated lockfiles Python-version neutral](https://github.com/waja/ansible-openwrt/pull/170) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (2 days ago)
 - [test(molecule): fix firewall idempotence sequence](https://github.com/waja/ansible-openwrt/pull/169) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (2 days ago)
 - [[Diagnostics] Inspect netifd and ubus state in default Molecule](https://github.com/waja/ansible-openwrt/pull/167) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (2 days ago)
 - [[Diagnostics] Test netifd with Docker NET_ADMIN capability](https://github.com/waja/ansible-openwrt/pull/166) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (2 days ago)
-- [fix(router_librenms): avoid GitHub API rate limits](https://github.com/waja/ansible-openwrt/pull/163) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (2 days ago)
 
 ### 📓 Gists I wrote
 
