@@ -9,9 +9,9 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (1 day ago)
-- [waja/KochenMitKI](https://github.com/waja/KochenMitKI) - (Reste-)Kochen mit KI (5 days ago)
-- [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (6 days ago)
+- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (2 days ago)
+- [waja/KochenMitKI](https://github.com/waja/KochenMitKI) - (Reste-)Kochen mit KI (6 days ago)
+- [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (1 week ago)
 - [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (1 week ago)
 - [waja/vacation-manager](https://github.com/waja/vacation-manager) -  (1 week ago)
 
@@ -29,17 +29,17 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 - [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) ([0.1.0](https://github.com/waja/ansible-openwrt/releases/tag/0.1.0), 1 week ago) - Openwrt Ansible
 - [waja/monitoring-plugins-cyconet](https://github.com/waja/monitoring-plugins-cyconet) ([debian/26.20260902](https://github.com/waja/monitoring-plugins-cyconet/releases/tag/debian/26.20260902), 2 months ago) - Monitoring plugins compatible to Nagios/Icinga/Naemon
-- [monitoring-plugins/monitoring-plugins](https://github.com/monitoring-plugins/monitoring-plugins) ([v3.0.3](https://github.com/monitoring-plugins/monitoring-plugins/releases/tag/v3.0.3), 2 months ago) - A suite of Monitoring Plugins (formerly known as nagios-plugins)
+- [monitoring-plugins/monitoring-plugins](https://github.com/monitoring-plugins/monitoring-plugins) ([v3.0.3](https://github.com/monitoring-plugins/monitoring-plugins/releases/tag/v3.0.3), 3 months ago) - A suite of Monitoring Plugins (formerly known as nagios-plugins)
 - [waja/backuppc-helper](https://github.com/waja/backuppc-helper) ([debian/0.2.0](https://github.com/waja/backuppc-helper/releases/tag/debian/0.2.0), 3 months ago) - helper scripts used by backuppc to create LVM snapshots
 - [waja/froxlor-auto-migration](https://github.com/waja/froxlor-auto-migration) ([debian/0.3](https://github.com/waja/froxlor-auto-migration/releases/tag/debian/0.3), 1 year ago) - Package with helper script running db migrations after Froxlor update
 
 ### 🔨 My recent Pull Requests
 
-- [feat(security): add standalone CVE-2026-98432 mitigation](https://github.com/waja/ansible-openwrt/pull/171) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [ci: make generated lockfiles Python-version neutral](https://github.com/waja/ansible-openwrt/pull/170) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (2 days ago)
-- [test(molecule): fix firewall idempotence sequence](https://github.com/waja/ansible-openwrt/pull/169) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (2 days ago)
-- [[Diagnostics] Inspect netifd and ubus state in default Molecule](https://github.com/waja/ansible-openwrt/pull/167) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (2 days ago)
-- [[Diagnostics] Test netifd with Docker NET_ADMIN capability](https://github.com/waja/ansible-openwrt/pull/166) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (2 days ago)
+- [feat(security): add standalone CVE-2026-98432 mitigation](https://github.com/waja/ansible-openwrt/pull/171) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
+- [ci: make generated lockfiles Python-version neutral](https://github.com/waja/ansible-openwrt/pull/170) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (3 days ago)
+- [test(molecule): fix firewall idempotence sequence](https://github.com/waja/ansible-openwrt/pull/169) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (3 days ago)
+- [[Diagnostics] Inspect netifd and ubus state in default Molecule](https://github.com/waja/ansible-openwrt/pull/167) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (3 days ago)
+- [[Diagnostics] Test netifd with Docker NET_ADMIN capability](https://github.com/waja/ansible-openwrt/pull/166) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (3 days ago)
 
 ### 📓 Gists I wrote
 
