@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [Track calcardbackup releases with Renovate](https://github.com/waja/docker-calcardbackup/pull/226) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (today)
 - [experiment(router_librenms): extract source archive with BusyBox tar](https://github.com/waja/ansible-openwrt/pull/179) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (3 days ago)
 - [fix(router_librenms): extract source archive with Python](https://github.com/waja/ansible-openwrt/pull/178) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (3 days ago)
 - [feat(security): add standalone CVE-2026-98432 mitigation](https://github.com/waja/ansible-openwrt/pull/171) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (4 days ago)
 - [ci: make generated lockfiles Python-version neutral](https://github.com/waja/ansible-openwrt/pull/170) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (6 days ago)
-- [test(molecule): fix firewall idempotence sequence](https://github.com/waja/ansible-openwrt/pull/169) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (6 days ago)
 
 ### 📓 Gists I wrote
 
