@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [Add live Renovate Codeberg integration validation](https://github.com/waja/docker-calcardbackup/pull/230) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (today)
-- [Add repository working agreements in AGENTS.md](https://github.com/waja/docker-calcardbackup/pull/228) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (today)
-- [Track calcardbackup releases with Renovate](https://github.com/waja/docker-calcardbackup/pull/226) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (2 days ago)
-- [experiment(router_librenms): extract source archive with BusyBox tar](https://github.com/waja/ansible-openwrt/pull/179) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (5 days ago)
-- [fix(router_librenms): extract source archive with Python](https://github.com/waja/ansible-openwrt/pull/178) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (5 days ago)
+- [Verify pinned GitHub Actions against release tags](https://github.com/waja/docker-calcardbackup/pull/244) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (today)
+- [Restrict Renovate GitHub Actions automerge to stable updates](https://github.com/waja/docker-calcardbackup/pull/243) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (today)
+- [Add live Renovate Codeberg integration validation](https://github.com/waja/docker-calcardbackup/pull/242) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (today)
+- [Add regression tests for Renovate dependency configuration](https://github.com/waja/docker-calcardbackup/pull/241) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (today)
+- [Temporary rebase carrier for Renovate policy PR](https://github.com/waja/docker-calcardbackup/pull/240) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (today)
 
 ### 📓 Gists I wrote
 
