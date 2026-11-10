@@ -9,11 +9,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (2 days ago)
-- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (6 days ago)
+- [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (3 days ago)
+- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (1 week ago)
 - [waja/KochenMitKI](https://github.com/waja/KochenMitKI) - (Reste-)Kochen mit KI (1 week ago)
 - [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (1 week ago)
-- [waja/vacation-manager](https://github.com/waja/vacation-manager) -  (1 week ago)
+- [waja/vacation-manager](https://github.com/waja/vacation-manager) -  (2 weeks ago)
 
 ### 🌱 My latest projects
 
@@ -35,10 +35,10 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [Track calcardbackup releases with Renovate](https://github.com/waja/docker-calcardbackup/pull/226) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (1 day ago)
-- [experiment(router_librenms): extract source archive with BusyBox tar](https://github.com/waja/ansible-openwrt/pull/179) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (4 days ago)
-- [fix(router_librenms): extract source archive with Python](https://github.com/waja/ansible-openwrt/pull/178) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (4 days ago)
-- [feat(security): add standalone CVE-2026-98432 mitigation](https://github.com/waja/ansible-openwrt/pull/171) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (5 days ago)
+- [Track calcardbackup releases with Renovate](https://github.com/waja/docker-calcardbackup/pull/226) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (2 days ago)
+- [experiment(router_librenms): extract source archive with BusyBox tar](https://github.com/waja/ansible-openwrt/pull/179) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (5 days ago)
+- [fix(router_librenms): extract source archive with Python](https://github.com/waja/ansible-openwrt/pull/178) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (5 days ago)
+- [feat(security): add standalone CVE-2026-98432 mitigation](https://github.com/waja/ansible-openwrt/pull/171) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (6 days ago)
 - [ci: make generated lockfiles Python-version neutral](https://github.com/waja/ansible-openwrt/pull/170) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 week ago)
 
 ### 📓 Gists I wrote
