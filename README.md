@@ -9,8 +9,8 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) - Docker image for calcardbackup: https://codeberg.org/BernieO/calcardbackup (today)
-- [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (3 days ago)
+- [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) - Docker image for calcardbackup: https://codeberg.org/BernieO/calcardbackup (1 day ago)
+- [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (4 days ago)
 - [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (1 week ago)
 - [waja/KochenMitKI](https://github.com/waja/KochenMitKI) - (Reste-)Kochen mit KI (1 week ago)
 - [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (1 week ago)
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [Verify pinned GitHub Actions against release tags](https://github.com/waja/docker-calcardbackup/pull/244) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (today)
-- [Restrict Renovate GitHub Actions automerge to stable updates](https://github.com/waja/docker-calcardbackup/pull/243) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (today)
-- [Add live Renovate Codeberg integration validation](https://github.com/waja/docker-calcardbackup/pull/242) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (today)
-- [Add regression tests for Renovate dependency configuration](https://github.com/waja/docker-calcardbackup/pull/241) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (today)
-- [Temporary rebase carrier for Renovate policy PR](https://github.com/waja/docker-calcardbackup/pull/240) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (today)
+- [Preserve custom backup options when skipping MariaDB SSL](https://github.com/waja/docker-calcardbackup/pull/247) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (today)
+- [Consolidate dependency updates in Renovate](https://github.com/waja/docker-calcardbackup/pull/246) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (1 day ago)
+- [Harden Docker image publishing boundaries](https://github.com/waja/docker-calcardbackup/pull/245) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (1 day ago)
+- [Verify pinned GitHub Actions against release tags](https://github.com/waja/docker-calcardbackup/pull/244) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (1 day ago)
+- [Restrict Renovate GitHub Actions automerge to stable updates](https://github.com/waja/docker-calcardbackup/pull/243) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (1 day ago)
 
 ### 📓 Gists I wrote
 
