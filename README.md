@@ -9,7 +9,7 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) - Docker image for calcardbackup: https://codeberg.org/BernieO/calcardbackup (1 day ago)
+- [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) - Docker image for calcardbackup: https://codeberg.org/BernieO/calcardbackup (today)
 - [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (4 days ago)
 - [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (1 week ago)
 - [waja/KochenMitKI](https://github.com/waja/KochenMitKI) - (Reste-)Kochen mit KI (1 week ago)
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [docs: clarify automated review gates and proportionality](https://github.com/waja/docker-calcardbackup/pull/250) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (today)
+- [Restrict scanner action automerge to stable updates](https://github.com/waja/docker-calcardbackup/pull/248) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (today)
 - [Preserve custom backup options when skipping MariaDB SSL](https://github.com/waja/docker-calcardbackup/pull/247) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (today)
 - [Consolidate dependency updates in Renovate](https://github.com/waja/docker-calcardbackup/pull/246) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (1 day ago)
 - [Harden Docker image publishing boundaries](https://github.com/waja/docker-calcardbackup/pull/245) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (1 day ago)
-- [Verify pinned GitHub Actions against release tags](https://github.com/waja/docker-calcardbackup/pull/244) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (1 day ago)
-- [Restrict Renovate GitHub Actions automerge to stable updates](https://github.com/waja/docker-calcardbackup/pull/243) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (1 day ago)
 
 ### 📓 Gists I wrote
 
