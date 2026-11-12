@@ -9,11 +9,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) - Docker image for calcardbackup: https://codeberg.org/BernieO/calcardbackup (today)
-- [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (4 days ago)
+- [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) - Docker image for calcardbackup: https://codeberg.org/BernieO/calcardbackup (1 day ago)
+- [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (5 days ago)
 - [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (1 week ago)
 - [waja/KochenMitKI](https://github.com/waja/KochenMitKI) - (Reste-)Kochen mit KI (1 week ago)
-- [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (1 week ago)
+- [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (2 weeks ago)
 
 ### 🌱 My latest projects
 
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [docs: clarify automated review gates and proportionality](https://github.com/waja/docker-calcardbackup/pull/250) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (today)
-- [Restrict scanner action automerge to stable updates](https://github.com/waja/docker-calcardbackup/pull/248) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (today)
-- [Preserve custom backup options when skipping MariaDB SSL](https://github.com/waja/docker-calcardbackup/pull/247) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (today)
-- [Consolidate dependency updates in Renovate](https://github.com/waja/docker-calcardbackup/pull/246) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (1 day ago)
-- [Harden Docker image publishing boundaries](https://github.com/waja/docker-calcardbackup/pull/245) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (1 day ago)
+- [docs: clarify automated review gates and proportionality](https://github.com/waja/docker-calcardbackup/pull/250) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (1 day ago)
+- [Restrict scanner action automerge to stable updates](https://github.com/waja/docker-calcardbackup/pull/248) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (1 day ago)
+- [Preserve custom backup options when skipping MariaDB SSL](https://github.com/waja/docker-calcardbackup/pull/247) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (1 day ago)
+- [Consolidate dependency updates in Renovate](https://github.com/waja/docker-calcardbackup/pull/246) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (2 days ago)
+- [Harden Docker image publishing boundaries](https://github.com/waja/docker-calcardbackup/pull/245) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (2 days ago)
 
 ### 📓 Gists I wrote
 
@@ -56,7 +56,7 @@ When I was younger, I tended to write some articles on my blog.
 
 - [Backing up Windows (the hard way)](https://log.cyconet.org/2021/01/04/backing-up-windows-the-hard-way/) (5 years ago)
 - [Call for testing: monitoring-plugins 2.3 in experimental](https://log.cyconet.org/2020/12/22/call-for-testing-monitoring-plugins-2-3-in-experimental/) (5 years ago)
-- [Monitoring Plugins 2.3 released](https://log.cyconet.org/2020/12/13/monitoring-plugins-2-3-released/) (5 years ago)
+- [Monitoring Plugins 2.3 released](https://log.cyconet.org/2020/12/13/monitoring-plugins-2-3-released/) (6 years ago)
 - [Covid-19 / SARS-CoV-2](https://log.cyconet.org/2020/03/20/covid-19_sars-cov-2/) (6 years ago)
 - [DevOps Camp 2019](https://log.cyconet.org/2019/04/30/dvoc19/) (7 years ago)
 
