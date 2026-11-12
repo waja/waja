@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [chore: update Nextcloud to 33.0.11](https://github.com/hoellen/docker-nextcloud/pull/189) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (today)
+- [chore: update Nextcloud to 34.0.6](https://github.com/hoellen/docker-nextcloud/pull/188) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (today)
 - [chore: update Nextcloud to 35.0.3](https://github.com/hoellen/docker-nextcloud/pull/187) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (today)
 - [ci: scope GitHub token permissions by job](https://github.com/waja/docker-calcardbackup/pull/255) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (today)
 - [docs: clarify least-privilege CI token guidance](https://github.com/waja/docker-calcardbackup/pull/254) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (today)
-- [ci: add CodeQL scanning for GitHub Actions](https://github.com/waja/docker-calcardbackup/pull/252) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (today)
-- [docs: clarify automated review gates and proportionality](https://github.com/waja/docker-calcardbackup/pull/250) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (1 day ago)
 
 ### 📓 Gists I wrote
 
