@@ -9,7 +9,7 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) - Docker image for calcardbackup: https://codeberg.org/BernieO/calcardbackup (1 day ago)
+- [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) - Docker image for calcardbackup: https://codeberg.org/BernieO/calcardbackup (today)
 - [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (5 days ago)
 - [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (1 week ago)
 - [waja/KochenMitKI](https://github.com/waja/KochenMitKI) - (Reste-)Kochen mit KI (1 week ago)
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [chore: update Nextcloud to 35.0.3](https://github.com/hoellen/docker-nextcloud/pull/187) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (today)
+- [ci: scope GitHub token permissions by job](https://github.com/waja/docker-calcardbackup/pull/255) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (today)
+- [docs: clarify least-privilege CI token guidance](https://github.com/waja/docker-calcardbackup/pull/254) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (today)
+- [ci: add CodeQL scanning for GitHub Actions](https://github.com/waja/docker-calcardbackup/pull/252) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (today)
 - [docs: clarify automated review gates and proportionality](https://github.com/waja/docker-calcardbackup/pull/250) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (1 day ago)
-- [Restrict scanner action automerge to stable updates](https://github.com/waja/docker-calcardbackup/pull/248) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (1 day ago)
-- [Preserve custom backup options when skipping MariaDB SSL](https://github.com/waja/docker-calcardbackup/pull/247) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (1 day ago)
-- [Consolidate dependency updates in Renovate](https://github.com/waja/docker-calcardbackup/pull/246) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (2 days ago)
-- [Harden Docker image publishing boundaries](https://github.com/waja/docker-calcardbackup/pull/245) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (2 days ago)
 
 ### 📓 Gists I wrote
 
