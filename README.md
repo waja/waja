@@ -10,10 +10,10 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 
 - [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) - Docker image for calcardbackup: https://codeberg.org/BernieO/calcardbackup (today)
-- [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (5 days ago)
+- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (1 day ago)
+- [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (6 days ago)
 - [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (1 week ago)
-- [waja/KochenMitKI](https://github.com/waja/KochenMitKI) - (Reste-)Kochen mit KI (1 week ago)
-- [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (2 weeks ago)
+- [waja/KochenMitKI](https://github.com/waja/KochenMitKI) - (Reste-)Kochen mit KI (2 weeks ago)
 
 ### 🌱 My latest projects
 
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [chore: update Nextcloud to 33.0.11](https://github.com/hoellen/docker-nextcloud/pull/189) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (today)
-- [chore: update Nextcloud to 34.0.6](https://github.com/hoellen/docker-nextcloud/pull/188) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (today)
-- [chore: update Nextcloud to 35.0.3](https://github.com/hoellen/docker-nextcloud/pull/187) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (today)
-- [ci: scope GitHub token permissions by job](https://github.com/waja/docker-calcardbackup/pull/255) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (today)
-- [docs: clarify least-privilege CI token guidance](https://github.com/waja/docker-calcardbackup/pull/254) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (today)
+- [ci: add manual PR SARIF handoff proof of concept](https://github.com/waja/docker-calcardbackup/pull/258) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (today)
+- [chore: update Nextcloud to 33.0.11](https://github.com/hoellen/docker-nextcloud/pull/189) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (1 day ago)
+- [chore: update Nextcloud to 34.0.6](https://github.com/hoellen/docker-nextcloud/pull/188) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (1 day ago)
+- [chore: update Nextcloud to 35.0.3](https://github.com/hoellen/docker-nextcloud/pull/187) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (1 day ago)
+- [ci: scope GitHub token permissions by job](https://github.com/waja/docker-calcardbackup/pull/255) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (1 day ago)
 
 ### 📓 Gists I wrote
 
