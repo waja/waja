@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [ci: add manual PR SARIF handoff proof of concept](https://github.com/waja/docker-calcardbackup/pull/258) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (today)
+- [Publish Docker `latest` only from master](https://github.com/waja/docker-calcardbackup/pull/260) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (today)
+- [ci: add trusted PR SARIF handoff proof of concept](https://github.com/waja/docker-calcardbackup/pull/258) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (today)
 - [chore: update Nextcloud to 33.0.11](https://github.com/hoellen/docker-nextcloud/pull/189) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (1 day ago)
 - [chore: update Nextcloud to 34.0.6](https://github.com/hoellen/docker-nextcloud/pull/188) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (1 day ago)
 - [chore: update Nextcloud to 35.0.3](https://github.com/hoellen/docker-nextcloud/pull/187) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (1 day ago)
-- [ci: scope GitHub token permissions by job](https://github.com/waja/docker-calcardbackup/pull/255) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (1 day ago)
 
 ### 📓 Gists I wrote
 
