@@ -9,9 +9,9 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) - Docker image for calcardbackup: https://codeberg.org/BernieO/calcardbackup (today)
-- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (1 day ago)
-- [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (6 days ago)
+- [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) - Docker image for calcardbackup: https://codeberg.org/BernieO/calcardbackup (1 day ago)
+- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (2 days ago)
+- [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (1 week ago)
 - [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (1 week ago)
 - [waja/KochenMitKI](https://github.com/waja/KochenMitKI) - (Reste-)Kochen mit KI (2 weeks ago)
 
@@ -30,16 +30,16 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 - [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) ([0.1.0](https://github.com/waja/ansible-openwrt/releases/tag/0.1.0), 2 weeks ago) - Openwrt Ansible
 - [waja/monitoring-plugins-cyconet](https://github.com/waja/monitoring-plugins-cyconet) ([debian/26.20260902](https://github.com/waja/monitoring-plugins-cyconet/releases/tag/debian/26.20260902), 2 months ago) - Monitoring plugins compatible to Nagios/Icinga/Naemon
 - [monitoring-plugins/monitoring-plugins](https://github.com/monitoring-plugins/monitoring-plugins) ([v3.0.3](https://github.com/monitoring-plugins/monitoring-plugins/releases/tag/v3.0.3), 3 months ago) - A suite of Monitoring Plugins (formerly known as nagios-plugins)
-- [waja/backuppc-helper](https://github.com/waja/backuppc-helper) ([debian/0.2.0](https://github.com/waja/backuppc-helper/releases/tag/debian/0.2.0), 3 months ago) - helper scripts used by backuppc to create LVM snapshots
+- [waja/backuppc-helper](https://github.com/waja/backuppc-helper) ([debian/0.2.0](https://github.com/waja/backuppc-helper/releases/tag/debian/0.2.0), 4 months ago) - helper scripts used by backuppc to create LVM snapshots
 - [waja/froxlor-auto-migration](https://github.com/waja/froxlor-auto-migration) ([debian/0.3](https://github.com/waja/froxlor-auto-migration/releases/tag/debian/0.3), 1 year ago) - Package with helper script running db migrations after Froxlor update
 
 ### 🔨 My recent Pull Requests
 
-- [Publish Docker `latest` only from master](https://github.com/waja/docker-calcardbackup/pull/260) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (today)
-- [ci: add trusted PR SARIF handoff proof of concept](https://github.com/waja/docker-calcardbackup/pull/258) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (today)
-- [chore: update Nextcloud to 33.0.11](https://github.com/hoellen/docker-nextcloud/pull/189) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (1 day ago)
-- [chore: update Nextcloud to 34.0.6](https://github.com/hoellen/docker-nextcloud/pull/188) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (1 day ago)
-- [chore: update Nextcloud to 35.0.3](https://github.com/hoellen/docker-nextcloud/pull/187) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (1 day ago)
+- [Publish Docker `latest` only from master](https://github.com/waja/docker-calcardbackup/pull/260) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (1 day ago)
+- [ci: add trusted PR SARIF handoff proof of concept](https://github.com/waja/docker-calcardbackup/pull/258) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (1 day ago)
+- [chore: update Nextcloud to 33.0.11](https://github.com/hoellen/docker-nextcloud/pull/189) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (2 days ago)
+- [chore: update Nextcloud to 34.0.6](https://github.com/hoellen/docker-nextcloud/pull/188) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (2 days ago)
+- [chore: update Nextcloud to 35.0.3](https://github.com/hoellen/docker-nextcloud/pull/187) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (2 days ago)
 
 ### 📓 Gists I wrote
 
