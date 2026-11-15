@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [Run the release validation pipeline only once](https://github.com/waja/docker-speedtest/pull/201) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (today)
+- [Run the release validation pipeline only once](https://github.com/waja/docker-speedtest/pull/200) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (today)
+- [Extract release alias reconciliation into a testable script](https://github.com/waja/docker-calcardbackup/pull/268) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (today)
+- [Skip Super-Linter for delete events](https://github.com/waja/docker-calcardbackup/pull/267) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (today)
 - [Gate multi-platform builds on single-platform tests](https://github.com/waja/docker-speedtest/pull/198) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (today)
-- [Configure backup log and crontab paths](https://github.com/waja/docker-calcardbackup/pull/264) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (1 day ago)
-- [Publish version-scoped Docker tags](https://github.com/waja/docker-calcardbackup/pull/260) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (2 days ago)
-- [ci: add trusted PR SARIF handoff proof of concept](https://github.com/waja/docker-calcardbackup/pull/258) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (2 days ago)
-- [chore: update Nextcloud to 33.0.11](https://github.com/hoellen/docker-nextcloud/pull/189) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (3 days ago)
 
 ### 📓 Gists I wrote
 
