@@ -9,9 +9,9 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) - Docker image for calcardbackup: https://codeberg.org/BernieO/calcardbackup (1 day ago)
+- [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (today)
+- [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) - Docker image for calcardbackup: https://codeberg.org/BernieO/calcardbackup (today)
 - [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (3 days ago)
-- [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (1 week ago)
 - [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (1 week ago)
 - [waja/KochenMitKI](https://github.com/waja/KochenMitKI) - (Reste-)Kochen mit KI (2 weeks ago)
 
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [Gate multi-platform builds on single-platform tests](https://github.com/waja/docker-speedtest/pull/198) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (today)
 - [Configure backup log and crontab paths](https://github.com/waja/docker-calcardbackup/pull/264) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (1 day ago)
 - [Publish version-scoped Docker tags](https://github.com/waja/docker-calcardbackup/pull/260) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (2 days ago)
 - [ci: add trusted PR SARIF handoff proof of concept](https://github.com/waja/docker-calcardbackup/pull/258) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (2 days ago)
 - [chore: update Nextcloud to 33.0.11](https://github.com/hoellen/docker-nextcloud/pull/189) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (3 days ago)
-- [chore: update Nextcloud to 34.0.6](https://github.com/hoellen/docker-nextcloud/pull/188) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (3 days ago)
 
 ### 📓 Gists I wrote
 
