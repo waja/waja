@@ -10,8 +10,8 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 
 - [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (today)
-- [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) - Docker image for calcardbackup: https://codeberg.org/BernieO/calcardbackup (today)
-- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (3 days ago)
+- [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) - Docker image for calcardbackup: https://codeberg.org/BernieO/calcardbackup (1 day ago)
+- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (4 days ago)
 - [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (1 week ago)
 - [waja/KochenMitKI](https://github.com/waja/KochenMitKI) - (Reste-)Kochen mit KI (2 weeks ago)
 
@@ -27,7 +27,7 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔭 Latest releases I've contributed to
 
-- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) ([0.1.0](https://github.com/waja/ansible-openwrt/releases/tag/0.1.0), 2 weeks ago) - Openwrt Ansible
+- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) ([0.1.0](https://github.com/waja/ansible-openwrt/releases/tag/0.1.0), 3 weeks ago) - Openwrt Ansible
 - [waja/monitoring-plugins-cyconet](https://github.com/waja/monitoring-plugins-cyconet) ([debian/26.20260902](https://github.com/waja/monitoring-plugins-cyconet/releases/tag/debian/26.20260902), 2 months ago) - Monitoring plugins compatible to Nagios/Icinga/Naemon
 - [monitoring-plugins/monitoring-plugins](https://github.com/monitoring-plugins/monitoring-plugins) ([v3.0.3](https://github.com/monitoring-plugins/monitoring-plugins/releases/tag/v3.0.3), 3 months ago) - A suite of Monitoring Plugins (formerly known as nagios-plugins)
 - [waja/backuppc-helper](https://github.com/waja/backuppc-helper) ([debian/0.2.0](https://github.com/waja/backuppc-helper/releases/tag/debian/0.2.0), 4 months ago) - helper scripts used by backuppc to create LVM snapshots
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [Run the release validation pipeline only once](https://github.com/waja/docker-speedtest/pull/201) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (today)
-- [Run the release validation pipeline only once](https://github.com/waja/docker-speedtest/pull/200) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (today)
-- [Extract release alias reconciliation into a testable script](https://github.com/waja/docker-calcardbackup/pull/268) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (today)
-- [Skip Super-Linter for delete events](https://github.com/waja/docker-calcardbackup/pull/267) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (today)
-- [Gate multi-platform builds on single-platform tests](https://github.com/waja/docker-speedtest/pull/198) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (today)
+- [Run the release validation pipeline only once](https://github.com/waja/docker-speedtest/pull/201) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (1 day ago)
+- [Run the release validation pipeline only once](https://github.com/waja/docker-speedtest/pull/200) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (1 day ago)
+- [Extract release alias reconciliation into a testable script](https://github.com/waja/docker-calcardbackup/pull/268) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (1 day ago)
+- [Skip Super-Linter for delete events](https://github.com/waja/docker-calcardbackup/pull/267) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (1 day ago)
+- [Gate multi-platform builds on single-platform tests](https://github.com/waja/docker-speedtest/pull/198) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (1 day ago)
 
 ### 📓 Gists I wrote
 
