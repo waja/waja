@@ -9,10 +9,10 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (today)
-- [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) - Docker image for calcardbackup: https://codeberg.org/BernieO/calcardbackup (1 day ago)
-- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (4 days ago)
-- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (1 week ago)
+- [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (1 day ago)
+- [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) - Docker image for calcardbackup: https://codeberg.org/BernieO/calcardbackup (2 days ago)
+- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (5 days ago)
+- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (2 weeks ago)
 - [waja/KochenMitKI](https://github.com/waja/KochenMitKI) - (Reste-)Kochen mit KI (2 weeks ago)
 
 ### 🌱 My latest projects
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [Run the release validation pipeline only once](https://github.com/waja/docker-speedtest/pull/201) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (1 day ago)
-- [Run the release validation pipeline only once](https://github.com/waja/docker-speedtest/pull/200) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (1 day ago)
-- [Extract release alias reconciliation into a testable script](https://github.com/waja/docker-calcardbackup/pull/268) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (1 day ago)
-- [Skip Super-Linter for delete events](https://github.com/waja/docker-calcardbackup/pull/267) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (1 day ago)
-- [Gate multi-platform builds on single-platform tests](https://github.com/waja/docker-speedtest/pull/198) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (1 day ago)
+- [Run the release validation pipeline only once](https://github.com/waja/docker-speedtest/pull/201) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (2 days ago)
+- [Run the release validation pipeline only once](https://github.com/waja/docker-speedtest/pull/200) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (2 days ago)
+- [Extract release alias reconciliation into a testable script](https://github.com/waja/docker-calcardbackup/pull/268) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (2 days ago)
+- [Skip Super-Linter for delete events](https://github.com/waja/docker-calcardbackup/pull/267) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (2 days ago)
+- [Gate multi-platform builds on single-platform tests](https://github.com/waja/docker-speedtest/pull/198) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (2 days ago)
 
 ### 📓 Gists I wrote
 
