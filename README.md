@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [Run Docker Image CI for pull requests targeting development and master](https://github.com/waja/docker-speedtest/pull/203) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (today)
+- [ci: skip Molecule for documentation and discovery-only changes](https://github.com/waja/ansible-openwrt/pull/184) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
 - [Run the release validation pipeline only once](https://github.com/waja/docker-speedtest/pull/201) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (3 days ago)
 - [Run the release validation pipeline only once](https://github.com/waja/docker-speedtest/pull/200) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (3 days ago)
 - [Extract release alias reconciliation into a testable script](https://github.com/waja/docker-calcardbackup/pull/268) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (3 days ago)
-- [Skip Super-Linter for delete events](https://github.com/waja/docker-calcardbackup/pull/267) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (3 days ago)
-- [Gate multi-platform builds on single-platform tests](https://github.com/waja/docker-speedtest/pull/198) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (3 days ago)
 
 ### 📓 Gists I wrote
 
