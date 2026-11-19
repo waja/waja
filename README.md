@@ -11,17 +11,17 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 - [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (today)
 - [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) - Docker image for calcardbackup: https://codeberg.org/BernieO/calcardbackup (today)
-- [waja/docker-speedtest](https://github.com/waja/docker-speedtest) - Docker image for speedtest-cli: https://github.com/sivel/speedtest-cli (1 day ago)
-- [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) - All-in-one Nextcloud Docker image. Alpine-based, rootless and simple. (1 week ago)
-- [waja/KochenMitKI](https://github.com/waja/KochenMitKI) - (Reste-)Kochen mit KI (2 weeks ago)
+- [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (today)
+- [waja/docker-php86-fpm](https://github.com/waja/docker-php86-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.6-fpm-alpine (today)
+- [waja/debbuildenv](https://github.com/waja/debbuildenv) -  (today)
 
 ### 🌱 My latest projects
 
+- [waja/docker-php86-fpm](https://github.com/waja/docker-php86-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.6-fpm-alpine
 - [waja/vacation-manager](https://github.com/waja/vacation-manager) - 
 - [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible
 - [waja/KochenMitKI](https://github.com/waja/KochenMitKI) - (Reste-)Kochen mit KI
 - [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine
-- [waja/froxlor-auto-migration](https://github.com/waja/froxlor-auto-migration) - Package with helper script running db migrations after Froxlor update
 
 
 
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [refactor(security): simplify CVE-2026-98432 mitigation](https://github.com/waja/ansible-openwrt/pull/185) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [fix(codeql): set checkout path for nested source root](https://github.com/waja/docker-calcardbackup/pull/269) on [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) (today)
-- [Run Docker Image CI for pull requests targeting development and master](https://github.com/waja/docker-speedtest/pull/203) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (1 day ago)
-- [ci: skip Molecule for documentation and discovery-only changes](https://github.com/waja/ansible-openwrt/pull/184) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
-- [Run the release validation pipeline only once](https://github.com/waja/docker-speedtest/pull/201) on [waja/docker-speedtest](https://github.com/waja/docker-speedtest) (4 days ago)
+- [Classify known APK audit artefacts](https://github.com/waja/ansible-openwrt/pull/187) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [Skip hardware-specific resize defaults during discovery](https://github.com/waja/ansible-openwrt/pull/186) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [fix: correct local PHP 8.6 Makefile targets](https://github.com/waja/docker-php86-fpm/pull/7) on [waja/docker-php86-fpm](https://github.com/waja/docker-php86-fpm) (today)
+- [fix: allow Renovate updates for PHP 8.6](https://github.com/waja/docker-php86-fpm/pull/6) on [waja/docker-php86-fpm](https://github.com/waja/docker-php86-fpm) (today)
+- [chore: Update PHP to 8.6](https://github.com/waja/docker-php86-fpm/pull/3) on [waja/docker-php86-fpm](https://github.com/waja/docker-php86-fpm) (today)
 
 ### 📓 Gists I wrote
 
