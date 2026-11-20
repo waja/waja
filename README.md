@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [feat(docker): add ImageMagick HEIC support](https://github.com/hoellen/docker-nextcloud/pull/193) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (today)
+- [feat(docker): add ImageMagick HEIC support](https://github.com/waja/docker-nextcloud/pull/104) on [waja/docker-nextcloud](https://github.com/waja/docker-nextcloud) (today)
+- [feat(docker): enable Renovate updates for base images](https://github.com/hoellen/docker-nextcloud/pull/192) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (today)
+- [fix: make base image references detectable by Renovate](https://github.com/waja/docker-nextcloud/pull/102) on [waja/docker-nextcloud](https://github.com/waja/docker-nextcloud) (today)
 - [refactor(router_librenms): simplify tar archive extraction](https://github.com/waja/ansible-openwrt/pull/188) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [Update configuration access for current Mojolicious](https://github.com/waja/c5trepowebapp/pull/5) on [waja/c5trepowebapp](https://github.com/waja/c5trepowebapp) (today)
-- [Use Debian Trixie&#39;s Mojolicious package](https://github.com/waja/docker-mojolicious/pull/134) on [waja/docker-mojolicious](https://github.com/waja/docker-mojolicious) (today)
-- [Align stylesheet link indentation](https://github.com/waja/c5trepowebapp/pull/3) on [waja/c5trepowebapp](https://github.com/waja/c5trepowebapp) (today)
-- [Allow dots in package detail URLs](https://github.com/waja/c5trepowebapp/pull/1) on [waja/c5trepowebapp](https://github.com/waja/c5trepowebapp) (today)
 
 ### 📓 Gists I wrote
 
