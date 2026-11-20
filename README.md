@@ -10,10 +10,10 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 
 - [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (today)
-- [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) - Docker image for calcardbackup: https://codeberg.org/BernieO/calcardbackup (1 day ago)
-- [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (1 day ago)
+- [waja/docker-mojolicious](https://github.com/waja/docker-mojolicious) - Docker image for mojolicious (today)
 - [waja/docker-php86-fpm](https://github.com/waja/docker-php86-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.6-fpm-alpine (1 day ago)
-- [waja/debbuildenv](https://github.com/waja/debbuildenv) -  (1 day ago)
+- [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (1 day ago)
+- [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) - Docker image for calcardbackup: https://codeberg.org/BernieO/calcardbackup (1 day ago)
 
 ### 🌱 My latest projects
 
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [Classify known APK audit artefacts](https://github.com/waja/ansible-openwrt/pull/187) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
-- [Skip hardware-specific resize defaults during discovery](https://github.com/waja/ansible-openwrt/pull/186) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
-- [fix: correct local PHP 8.6 Makefile targets](https://github.com/waja/docker-php86-fpm/pull/7) on [waja/docker-php86-fpm](https://github.com/waja/docker-php86-fpm) (1 day ago)
-- [fix: allow Renovate updates for PHP 8.6](https://github.com/waja/docker-php86-fpm/pull/6) on [waja/docker-php86-fpm](https://github.com/waja/docker-php86-fpm) (1 day ago)
-- [chore: Update PHP to 8.6](https://github.com/waja/docker-php86-fpm/pull/3) on [waja/docker-php86-fpm](https://github.com/waja/docker-php86-fpm) (1 day ago)
+- [refactor(router_librenms): simplify tar archive extraction](https://github.com/waja/ansible-openwrt/pull/188) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [Update configuration access for current Mojolicious](https://github.com/waja/c5trepowebapp/pull/5) on [waja/c5trepowebapp](https://github.com/waja/c5trepowebapp) (today)
+- [Use Debian Trixie&#39;s Mojolicious package](https://github.com/waja/docker-mojolicious/pull/134) on [waja/docker-mojolicious](https://github.com/waja/docker-mojolicious) (today)
+- [Align stylesheet link indentation](https://github.com/waja/c5trepowebapp/pull/3) on [waja/c5trepowebapp](https://github.com/waja/c5trepowebapp) (today)
+- [Allow dots in package detail URLs](https://github.com/waja/c5trepowebapp/pull/1) on [waja/c5trepowebapp](https://github.com/waja/c5trepowebapp) (today)
 
 ### 📓 Gists I wrote
 
