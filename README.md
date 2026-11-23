@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
+- [docs(discovery): define metadata-only secret observations](https://github.com/waja/ansible-openwrt/pull/203) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [Add optional external storage mounts to router_storage](https://github.com/waja/ansible-openwrt/pull/202) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
+- [fix(router_librenms): harden archive extraction](https://github.com/waja/ansible-openwrt/pull/201) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
 - [ci: normalize generated CI lockfile headers](https://github.com/waja/ansible-openwrt/pull/199) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
 - [ci: streamline Ansible forward-compatibility workflow](https://github.com/waja/ansible-openwrt/pull/198) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (today)
-- [feat(router_firewall): manage inter-zone forwardings](https://github.com/waja/ansible-openwrt/pull/195) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (2 days ago)
-- [feat(router_firewall): expose verified global defaults](https://github.com/waja/ansible-openwrt/pull/189) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (3 days ago)
-- [feat(docker): add ImageMagick HEIC support](https://github.com/hoellen/docker-nextcloud/pull/193) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (3 days ago)
 
 ### 📓 Gists I wrote
 
