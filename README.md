@@ -9,11 +9,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (1 day ago)
-- [waja/docker-mojolicious](https://github.com/waja/docker-mojolicious) - Docker image for mojolicious (2 days ago)
-- [waja/docker-php86-fpm](https://github.com/waja/docker-php86-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.6-fpm-alpine (3 days ago)
-- [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (3 days ago)
-- [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) - Docker image for calcardbackup: https://codeberg.org/BernieO/calcardbackup (3 days ago)
+- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (2 days ago)
+- [waja/docker-mojolicious](https://github.com/waja/docker-mojolicious) - Docker image for mojolicious (3 days ago)
+- [waja/docker-php86-fpm](https://github.com/waja/docker-php86-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.6-fpm-alpine (4 days ago)
+- [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (4 days ago)
+- [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) - Docker image for calcardbackup: https://codeberg.org/BernieO/calcardbackup (4 days ago)
 
 ### 🌱 My latest projects
 
@@ -27,7 +27,7 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔭 Latest releases I've contributed to
 
-- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) ([0.1.0](https://github.com/waja/ansible-openwrt/releases/tag/0.1.0), 3 weeks ago) - Openwrt Ansible
+- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) ([0.1.0](https://github.com/waja/ansible-openwrt/releases/tag/0.1.0), 4 weeks ago) - Openwrt Ansible
 - [waja/monitoring-plugins-cyconet](https://github.com/waja/monitoring-plugins-cyconet) ([debian/26.20260902](https://github.com/waja/monitoring-plugins-cyconet/releases/tag/debian/26.20260902), 2 months ago) - Monitoring plugins compatible to Nagios/Icinga/Naemon
 - [monitoring-plugins/monitoring-plugins](https://github.com/monitoring-plugins/monitoring-plugins) ([v3.0.3](https://github.com/monitoring-plugins/monitoring-plugins/releases/tag/v3.0.3), 3 months ago) - A suite of Monitoring Plugins (formerly known as nagios-plugins)
 - [waja/backuppc-helper](https://github.com/waja/backuppc-helper) ([debian/0.2.0](https://github.com/waja/backuppc-helper/releases/tag/debian/0.2.0), 4 months ago) - helper scripts used by backuppc to create LVM snapshots
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [feat(router_firewall): manage inter-zone forwardings](https://github.com/waja/ansible-openwrt/pull/195) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
-- [feat(router_firewall): expose verified global defaults](https://github.com/waja/ansible-openwrt/pull/189) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (2 days ago)
-- [feat(docker): add ImageMagick HEIC support](https://github.com/hoellen/docker-nextcloud/pull/193) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (2 days ago)
-- [feat(docker): add ImageMagick HEIC support](https://github.com/waja/docker-nextcloud/pull/104) on [waja/docker-nextcloud](https://github.com/waja/docker-nextcloud) (2 days ago)
-- [feat(docker): enable Renovate updates for base images](https://github.com/hoellen/docker-nextcloud/pull/192) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (2 days ago)
+- [feat(router_firewall): manage inter-zone forwardings](https://github.com/waja/ansible-openwrt/pull/195) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (2 days ago)
+- [feat(router_firewall): expose verified global defaults](https://github.com/waja/ansible-openwrt/pull/189) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (3 days ago)
+- [feat(docker): add ImageMagick HEIC support](https://github.com/hoellen/docker-nextcloud/pull/193) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (3 days ago)
+- [feat(docker): add ImageMagick HEIC support](https://github.com/waja/docker-nextcloud/pull/104) on [waja/docker-nextcloud](https://github.com/waja/docker-nextcloud) (3 days ago)
+- [feat(docker): enable Renovate updates for base images](https://github.com/hoellen/docker-nextcloud/pull/192) on [hoellen/docker-nextcloud](https://github.com/hoellen/docker-nextcloud) (3 days ago)
 
 ### 📓 Gists I wrote
 
