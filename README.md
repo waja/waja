@@ -9,11 +9,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 #### 👷 I'm currently working on
 
 
-- [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (today)
-- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (today)
-- [waja/docker-mojolicious](https://github.com/waja/docker-mojolicious) - Docker image for mojolicious (today)
-- [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (today)
-- [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) - Docker image for calcardbackup: https://codeberg.org/BernieO/calcardbackup (today)
+- [waja/docker-php84-fpm](https://github.com/waja/docker-php84-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.4-fpm-alpine (1 day ago)
+- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) - Openwrt Ansible (1 day ago)
+- [waja/docker-mojolicious](https://github.com/waja/docker-mojolicious) - Docker image for mojolicious (1 day ago)
+- [waja/docker-php85-fpm](https://github.com/waja/docker-php85-fpm) - Container image derived from https://hub.docker.com/_/php tag 8.5-fpm-alpine (1 day ago)
+- [waja/docker-calcardbackup](https://github.com/waja/docker-calcardbackup) - Docker image for calcardbackup: https://codeberg.org/BernieO/calcardbackup (1 day ago)
 
 ### 🌱 My latest projects
 
@@ -27,7 +27,7 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔭 Latest releases I've contributed to
 
-- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) ([0.1.0](https://github.com/waja/ansible-openwrt/releases/tag/0.1.0), 4 weeks ago) - Openwrt Ansible
+- [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) ([0.1.0](https://github.com/waja/ansible-openwrt/releases/tag/0.1.0), 1 month ago) - Openwrt Ansible
 - [waja/monitoring-plugins-cyconet](https://github.com/waja/monitoring-plugins-cyconet) ([debian/26.20260902](https://github.com/waja/monitoring-plugins-cyconet/releases/tag/debian/26.20260902), 2 months ago) - Monitoring plugins compatible to Nagios/Icinga/Naemon
 - [monitoring-plugins/monitoring-plugins](https://github.com/monitoring-plugins/monitoring-plugins) ([v3.0.3](https://github.com/monitoring-plugins/monitoring-plugins/releases/tag/v3.0.3), 3 months ago) - A suite of Monitoring Plugins (formerly known as nagios-plugins)
 - [waja/backuppc-helper](https://github.com/waja/backuppc-helper) ([debian/0.2.0](https://github.com/waja/backuppc-helper/releases/tag/debian/0.2.0), 4 months ago) - helper scripts used by backuppc to create LVM snapshots
@@ -35,11 +35,11 @@ In 2024/2025 I had a sabbatical and [traveled](https://pixelfed.social/roadtrip)
 
 ### 🔨 My recent Pull Requests
 
-- [Replace Redis cache with Valkey](https://github.com/waja/nextcloud-docker-multiinstance/pull/17) on [waja/nextcloud-docker-multiinstance](https://github.com/waja/nextcloud-docker-multiinstance) (today)
-- [docs(discovery): define metadata-only secret observations](https://github.com/waja/ansible-openwrt/pull/203) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
-- [Add optional external storage mounts to router_storage](https://github.com/waja/ansible-openwrt/pull/202) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
-- [fix(router_librenms): harden archive extraction](https://github.com/waja/ansible-openwrt/pull/201) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
-- [ci: normalize generated CI lockfile headers](https://github.com/waja/ansible-openwrt/pull/199) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (1 day ago)
+- [Replace Redis cache with Valkey](https://github.com/waja/nextcloud-docker-multiinstance/pull/17) on [waja/nextcloud-docker-multiinstance](https://github.com/waja/nextcloud-docker-multiinstance) (1 day ago)
+- [docs(discovery): define metadata-only secret observations](https://github.com/waja/ansible-openwrt/pull/203) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (2 days ago)
+- [Add optional external storage mounts to router_storage](https://github.com/waja/ansible-openwrt/pull/202) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (2 days ago)
+- [fix(router_librenms): harden archive extraction](https://github.com/waja/ansible-openwrt/pull/201) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (2 days ago)
+- [ci: normalize generated CI lockfile headers](https://github.com/waja/ansible-openwrt/pull/199) on [waja/ansible-openwrt](https://github.com/waja/ansible-openwrt) (2 days ago)
 
 ### 📓 Gists I wrote
 
